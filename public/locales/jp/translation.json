@@ -1,0 +1,131 @@
+{
+  "menuComponent": {
+    "links": {
+      "home": {
+        "title": "ホームページ"
+      },
+      "getStarted": {
+        "title": "開始"
+      },
+      "resources": {
+        "title": "リソース",
+        "exchanges": "市場",
+        "blockExplorers": "ブロックチェーンブラウザ",
+        "whitepaper": "白書"
+      },
+      "wallet": {
+        "title": "財布"
+      },
+      "community": {
+        "title": "コミュニティ",
+        "forum": "フォーラム",
+        "twitter": "Twitter",
+        "discord": "Discord",
+        "github": "Github"
+      }
+    }
+  },
+  "resourcesPage": {
+    "title": "リソース",
+    "description": "ツールとコミュニティの資源：交換を含みます。",
+    "actions": {
+      "action1": "市場",
+      "action2": "ブロックブラウザ",
+      "action4": "白書"
+    },
+    "exchangesTitle": "市場",
+    "exchangesType1": "市場",
+    "explorersTitle": "ブロックブラウザ",
+    "whitepaperTitle": "白書",
+    "whitepaperEnglish": "英語"
+  },
+  "walletPage": {
+    "title": "財布",
+    "description": "Bitwebを送信、受信、記憶する。デスクトップウォレットはまた、ブロックの生成とネットワークのセキュリティをサポートします。",
+    "actions": {
+      "action1": "インストール",
+      "action2": "紙の財布",
+      "action3": "その他の財布"
+    },
+    "desktopWalletTitle": "デスクトップウォレット",
+    "walletWindows": "Windows",
+    "walletMac": "macOS",
+    "walletLinux": "Linux",
+    "installationTitle": "インストール",
+    "sectionWindows": {
+      "title1": "Windows",
+      "text1": "開く <code>{{file}}</code>",
+      "text2": "デフォルトのインストールディレクトリは <code>C:\\Program Files\\bitweb または C:\\Program Files\\bitweb</code>",
+      "text3": "実行 <code>bitweb-qt</code> または <code>bitweb</code> 「開始」メニューまたは「インストール」ディレクトリから",
+      "title2": "Daemon",
+      "text4": "作成 bitweb.conf はい、 <code>%APPDATA%\\bitweb</code>",
+      "text5": "実行 <code>daemon\\bitwebd</code>",
+      "text6": "あなたの財布の位置は <code>C:\\Users\\{username}\\AppData</code> (隠しファイル).",
+      "text7": "文書を開く <code>スタートメニュー -> 実行...</code> (または<code>Winkey-R</code>)), 入力 <code>%APPDATA%\\bitweb</code> フィールドに入り、Enterキーを押します"
+    },
+    "sectionMac": {
+      "title1": "macOS",
+      "text1": "開く <code className=\"green\">{{file}}</code>",
+      "text2": "選択 <code className=\"green\">bitweb-Qt.dmg</code> そして開けます",
+      "text3": "依頼する <code className=\"green\">bitweb-Qt.app</code> または <code className=\"green\">bitweb.app</code> はい、  <code className=\"green\">適用</code>",
+      "text4": "はい、 <code className=\"green\">適用</code> オープン <code className=\"green\">bitweb-Qt.app</code> または <code className=\"green\">bitweb.app</code>",
+      "title2": "Daemon",
+      "text5": "ストレスを解消する <code className=\"green\">bitwebd.zip</code>",
+      "text6": "作成 <code className=\"green\">bitweb.conf</code> はい、 <code className=\"green\">~/Library/Application Support/bitweb</code>",
+      "text7": "実行 <code className=\"green\">bitwebd</code>",
+      "text8": "あなたの財布は <code>~/Library/Application Support/bitweb</code>。フォルダを開き、Finderでを押します。<code>Command-Shift-G</code>キーを押して、パスを挿入し、車を戻します。"
+    },
+    "sectionLinux": {
+      "title1": "Linux",
+      "text1": "ストレスを解消する <code className=\"green\">{{file}}</code>",
+      "text2": "実行 <code className=\"green\">bin/32/bitweb-qt</code> (必要 libqt5-gui)",
+      "title3": "Daemon",
+      "text6": "作成 <code className=\"green\">bitweb.conf</code はい、 <code className=\"green\">~/.bitweb</code>",
+      "text7": "実行 <code className=\"green\">bin/32/bitwebd</code>",
+      "text8": "あなたの財布は <code>~/.bitweb</code>."
+    },
+    "paperWalletTitle": "紙の財布",
+    "paperWalletSubtitle1": "紙の財布",
+    "paperWalletSubtitle2": "その他の財布",
+    "type1": "ハードウェアウォレット",
+    "type2": "携帯/Webのウォレット",
+    "type3": "ネットワーク･ウォレット",
+    "type4": "携帯"
+  },
+  "indexPage": {
+    "title": "新しいタイプのポイント対点電子現金システム",
+    "description": "世界トップの支払ネットワークは、セキュリティ、効率的な暗号化通貨です。",
+    "efficientEnergyTitle": "安全で安定しています",
+    "efficientEnergyText1": "Bitweb（BTE）はビットコインに基づいて、ビットコインシステムのすべての特性を継承します。",
+    "efficientEnergyText2": "Bitwebの供給は限られています。最大84,000,000枚の硬貨が供給されます。インフレの影響を受けません。",
+    "efficientEnergyText3": "これはlegacy、p2sh-segwit、bech32の3種類のアドレスをサポートして、プライバシーを保護します。",
+    "userGovernanceTitle": "クイック取引",
+    "userGovernanceText1": "Bitwebにおいてブロック上限値は100 Mで、ビットコインの100倍であり、Segwit隔離の証人を立てる。",
+    "userGovernanceText2": "これはbitwebのための事務処理能力を提供しています。segwitの隔離の証明があって、そのブロックは永遠に100 Mに達することができないかもしれません。それは取引手数料がもっと低いです。",
+    "userGovernanceText3": "Bitwebの各ブロック時間は60秒であるため、ビットコインの10倍の取引速度が非常に速い。",
+    "trustlessTitle": "作業量証明",
+    "trustlessText1": "Bitwebはyespwerアルゴリズムを使用しており、このアルゴリズムはCPUの演算のみをサポートし、一人当たりの参加コストを低減し、より多くの人が参加し、BTEを使用することができる。",
+    "trustlessText2": " エネルギー消費は、より低いですが、鉱山労働者の参加は、各ブロックに50枚のBTE硬貨を奨励することができます。",
+    "trustlessText3": " BitwebはLWMAを使用しており、84万ブロック当たりの生産量は半減しています。",
+    "fairDistributionTitle": "価値の蓄え",
+    "fairDistributionText1": "有効な暗号化された通貨は十分に広く公平に分布しており、すべての硬貨の供給が少数の人の手に集中しないことを保証しています。",
+    "fairDistributionText2": "Bitwebはビットコインに基づいて開発されたp 2 pマネーシステムです。ビットコインのすべての特徴を継承し、ビットコインの既存の基礎をさらに改善し、最適化しました。Bitwebは成功しました。もっと多くの人がBTEを利用して参加したいです。",
+    "fairDistributionText3": "Bitwebをより多くの人に知ってもらうために、私たちはインフラを開発するために258万枚の硬貨を採鉱しておきました。",
+    "fairDistributionText4": "これは最大供給量の3%程度ですので、ビットコインの代わりに、Bitwebがより良くなることを望んでいます。",
+    "getStartedTitle": "開始",
+    "collapsables": {
+      "walletTitle": "財布",
+      "walletText1": "<a href=\"/wallet\">Bitweb財布</a> Windows、Mac OSX、Linuxで運営できます。",
+      "walletText2": "コマンドライン体験もできます。",
+      "walletText3": " まず、Walletダウンロードページとインストールガイドを確認してください。",
+      "mineTitle": "鉱を掘る",
+      "mineText1": "BitwebはYespowerアルゴリズムを用いて，掘削を実証した。これは誰でもBitwebを採掘できるという意味です。",
+      "communityTitle": "コミュニティ",
+      "communityText1": "私たちの <a href=\"https://community.bitwebcore.org/\">フォーラム</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>他のBitwebコミュニティのメンバーと開発者とチャットします。"
+    }
+  },
+  "notFoundPage": {
+    "title": "404 - ページが見つかりません",
+    "description": "<a href=\"https://bitwebcore.org/\" style=\"color: white;\">ここをクリックしてトップページに戻ることができます。</a>"
+  }
+}

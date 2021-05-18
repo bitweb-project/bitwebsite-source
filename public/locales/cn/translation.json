@@ -1,0 +1,131 @@
+{
+  "menuComponent": {
+    "links": {
+      "home": {
+        "title": "主页"
+      },
+      "getStarted": {
+        "title": "开始"
+      },
+      "resources": {
+        "title": "资源",
+        "exchanges": "交易所",
+        "blockExplorers": "区块链浏览器",
+        "whitepaper": "白皮书"
+      },
+      "wallet": {
+        "title": "钱包"
+      },
+      "community": {
+        "title": "社区",
+        "forum": "论坛",
+        "twitter": "Twitter",
+        "discord": "Discord",
+        "github": "Github"
+      }
+    }
+  },
+  "resourcesPage": {
+    "title": "资源",
+    "description": "工具和社区资源:包括交换，块探索者和更多!",
+    "actions": {
+      "action1": "交易所",
+      "action2": "区块浏览器",
+      "action4": "白皮书"
+    },
+    "exchangesTitle": "交易所",
+    "exchangesType1": "交易所",
+    "explorersTitle": "区块链浏览器",
+    "whitepaperTitle": "白皮书",
+    "whitepaperEnglish": "英文"
+  },
+  "walletPage": {
+    "title": "钱包",
+    "description": "发送、接收和存储Bitweb。桌面钱包还支持生成块和网络安全。",
+    "actions": {
+      "action1": "安装",
+      "action2": "纸钱包",
+      "action3": "其他钱包"
+    },
+    "desktopWalletTitle": "桌面钱包",
+    "walletWindows": "Windows",
+    "walletMac": "macOS",
+    "walletLinux": "Linux",
+    "installationTitle": "安装",
+    "sectionWindows": {
+      "title1": "Windows",
+      "text1": "打开 <code>{{file}}</code>",
+      "text2": "默认安装目录为 <code>C:\\Program Files\\bitweb 或者 C:\\Program Files\\bitweb</code>",
+      "text3": "运行 <code>bitweb-qt</code> 或者 <code>bitweb</code> 从“开始”菜单或“安装”目录",
+      "title2": "Daemon",
+      "text4": "创建 bitweb.conf 在 <code>%APPDATA%\\bitweb</code>",
+      "text5": "运行 <code>daemon\\bitwebd</code>",
+      "text6": "你的钱包位置在 <code>C:\\Users\\{username}\\AppData</code> (隐藏文件).",
+      "text7": "打开文档 <code>开始菜单 -> 运行...</code> (或者按<code>Winkey-R</code>)), 输入 <code>%APPDATA%\\bitweb</code> 进入字段，并按Enter键。"
+    },
+    "sectionMac": {
+      "title1": "macOS",
+      "text1": "打开 <code className=\"green\">{{file}}</code>",
+      "text2": "选择 <code className=\"green\">bitweb-Qt.dmg</code> 并且打开它",
+      "text3": "托 <code className=\"green\">bitweb-Qt.app</code> 或 <code className=\"green\">bitweb.app</code> 到  <code className=\"green\">应用</code>",
+      "text4": "到 <code className=\"green\">应用</code> 和开放 <code className=\"green\">bitweb-Qt.app</code> 或 <code className=\"green\">bitweb.app</code>",
+      "title2": "Daemon",
+      "text5": "解压 <code className=\"green\">bitwebd.zip</code>",
+      "text6": "创建 <code className=\"green\">bitweb.conf</code> 在 <code className=\"green\">~/Library/Application Support/bitweb</code>",
+      "text7": "运行 <code className=\"green\">bitwebd</code>",
+      "text8": "你的钱包在 <code>~/Library/Application Support/bitweb</code>。打开文件夹，在Finder中按<code>Command-Shift-G</code>键，插入路径，然后回车。"
+    },
+    "sectionLinux": {
+      "title1": "Linux",
+      "text1": "解压 <code className=\"green\">{{file}}</code>",
+      "text2": "运行 <code className=\"green\">bin/32/bitweb-qt</code> (需要 libqt5-gui)",
+      "title3": "Daemon",
+      "text6": "创建 <code className=\"green\">bitweb.conf</code 在 <code className=\"green\">~/.bitweb</code>",
+      "text7": "运行 <code className=\"green\">bin/32/bitwebd</code>",
+      "text8": "你的钱包在 <code>~/.bitweb</code>."
+    },
+    "paperWalletTitle": "纸钱包",
+    "paperWalletSubtitle1": "纸钱包",
+    "paperWalletSubtitle2": "其他钱包",
+    "type1": "硬件钱包",
+    "type2": "移动/ Web的钱包",
+    "type3": "网络钱包",
+    "type4": "移动"
+  },
+  "indexPage": {
+    "title": "一种新型的点对点电子现金系统",
+    "description": "全球领先的支付网络，安全，高效的加密货币。",
+    "efficientEnergyTitle": "安全稳定",
+    "efficientEnergyText1": "Bitweb(BTE)基于比特币，继承比特币系统的所有特性---安全，稳定，高效。",
+    "efficientEnergyText2": "Bitweb的供应有限，最大供应84,000,000枚硬币，不受通货膨胀影响。",
+    "efficientEnergyText3": "它支持legacy,p2sh-segwit,bech32三种类型的地址，保护隐私。",
+    "userGovernanceTitle": "快速交易",
+    "userGovernanceText1": "在Bitweb中区块上限值为100M，是比特币的100倍，同时支Segwit隔离见证。",
+    "userGovernanceText2": "它为bitweb提供了事务处理能力。有了segwit隔离见证，它的区块可能永远不会达到100M。它交易手续费更低。",
+    "userGovernanceText3": "Bitweb的每个区块时间为60秒，因此它的交易速度非常快，是比特币的10倍。",
+    "trustlessTitle": "工作量证明",
+    "trustlessText1": "Bitweb使用yespwer算法，这种算法仅仅支持CPU进行运算，降低了每个人的参与成本，可以让更多人参与并且使用BTE。",
+    "trustlessText2": " 能源消耗它是更低的，矿工参与采矿可以获得奖励，每个区块奖励50枚BTE硬币。",
+    "trustlessText3": " Bitweb使用了LWMA难度调整，每84万个区块产量减半。",
+    "fairDistributionTitle": "价值储存",
+    "fairDistributionText1": "有效的加密货币具有足够广泛的公平分布确保所有的硬币供应不会集中在极少人手中。",
+    "fairDistributionText2": "Bitweb是基于比特币开发的一款p2p钱系统。继承了比特币所有特征，在比特币原有的基础上做了进一步改进和优化，Bitweb是成功的，我们希望更多人参与并使用BTE。",
+    "fairDistributionText3": "为了让更多人认识Bitweb，我们预先采矿了258万枚硬币用于发展基础设施。",
+    "fairDistributionText4": "这仅仅是最大供应量的百分3左右，因此我们希望Bitweb变得更好，代替比特币作为支付的加密货币。",
+    "getStartedTitle": "开始",
+    "collapsables": {
+      "walletTitle": "钱包",
+      "walletText1": "<a href=\"/wallet\">Bitweb钱包</a> 可以在 Windows, Mac OSX和 Linux平台上运营",
+      "walletText2": "命令行体验也可用。",
+      "walletText3": " 首先，请查看Wallet下载页面和安装指南。",
+      "mineTitle": "挖矿",
+      "mineText1": "Bitweb使用Yespower算法进行工作证明挖掘。这意味着任何人都可以开采Bitweb。",
+      "communityTitle": "社区",
+      "communityText1": "加入我们的 <a href=\"https://community.bitwebcore.org/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>与其他Bitweb社区成员和开发人员聊天。"
+    }
+  },
+  "notFoundPage": {
+    "title": "404 - 页面找不到",
+    "description": "<a href=\"https://bitwebcore.org/\" style=\"color: white;\">点击这里可以回到首页</a>"
+  }
+}

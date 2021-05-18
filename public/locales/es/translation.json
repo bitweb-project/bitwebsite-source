@@ -1,0 +1,131 @@
+{
+  "menuComponent": {
+    "links": {
+      "home": {
+        "title": "Inicio"
+      },
+      "getStarted": {
+        "title": "Inicio"
+      },
+      "resources": {
+        "title": "Recursos",
+        "exchanges": "Intercambios",
+        "blockExplorers": "Exploradores de bloque",
+        "whitepaper": "Papel blanco"
+      },
+      "wallet": {
+        "title": "Últimas noticias"
+      },
+      "community": {
+        "title": "Comunidad",
+        "forum": "Foro",
+        "twitter": "Twitter",
+        "discord": "Discord",
+        "github": "Github"
+      }
+    }
+  },
+  "resourcesPage": {
+    "title": "Recursos",
+    "description": "Herramientas y recursos comunitarios: incluidos intercambios, exploradores de bloques, gráficos, redes sociales, foros, chats y más.",
+    "actions": {
+      "action1": "Intercambious",
+      "action2": "Exploradores de bloque",
+      "action4": "Papel blanco"
+    },
+    "exchangesTitle": "Intercambios",
+    "exchangesType1": "Intercambios",
+    "explorersTitle": "Exploradores de bloque",
+    "whitepaperTitle": "Whitepaper",
+    "whitepaperEnglish": "English"
+  },
+  "walletPage": {
+    "title": "Carteras",
+    "description": "Enviar, recibir y almacenar bitweb. La billetera de escritorio también permite la creación de bloques y la protección de la red.",
+    "actions": {
+      "action1": "Instalación",
+      "action2": "Billetera de papel",
+      "action3": "Carteras no oficiales"
+    },
+    "desktopWalletTitle": "Billeteras de escritorio",
+    "walletWindows": "Windows",
+    "walletMac": "macOS",
+    "walletLinux": "Linux",
+    "installationTitle": "Installation",
+    "sectionWindows": {
+      "title1": "Windows",
+      "text1": "Open <code>{{file}}</code>",
+      "text2": "El directorio de instalación predeterminado es <code>C:\\Program Files\\bitweb or C:\\Program Files\\bitweb</code>",
+      "text3": "Correr <code>bitweb-qt</code> o <code>bitweb</code> desde el menú Inicio o desde el directorio de instalación.",
+      "title2": "Daemon",
+      "text4": "Create bitweb.conf in <code>%APPDATA%\\bitweb</code>",
+      "text5": "Correr <code>daemon\\bitwebd</code>",
+      "text6": "Su billetera se encuentra en <code>C:\\Users\\{username}\\AppData</code> (carpeta oculta).",
+      "text7": "Abra la carpeta co <code>Menú de inicio -> Ejecutar ...</code> (o presione <code>Winkey-R</code>), escriba <code>%APPDATA%\\bitweb</code> en el campo, y presione Enter."
+    },
+    "sectionMac": {
+      "title1": "macOS",
+      "text1": "Abrir <code className=\"green\">{{file}}</code>",
+      "text2": "Montar <code className=\"green\">bitweb-Qt.dmg</code> abriéndolo",
+      "text3": "Arrastrar <code className=\"green\">bitweb-Qt.app</code> o <code className=\"green\">bitweb.app</code> to <code className=\"green\">Aplicaciones</code>",
+      "text4": "Arranque en <code className=\"green\">Aplicaciones</code> y abra <code className=\"green\">bitweb-Qt.app</code> or <code className=\"green\">bitweb.app</code>",
+      "title2": "Daemon",
+      "text5": "Unzip <code className=\"green\">bitwebd.zip</code>",
+      "text6": "Create <code className=\"green\">ppcoin.conf</code> in <code className=\"green\">~/Library/Application Support/bitweb</code>",
+      "text7": "Correr <code className=\"green\">bitwebd</code>",
+      "text8": "Su billetera se encuentra en 1 <code>~/Library/Application Support/bitweb</code>. Para abrir la carpeta, presione <code>Command-Shift-G</code> en el Finder, inserte la ruta y presione Enter."
+    },
+    "sectionLinux": {
+      "title1": "Linux",
+      "text1": "Extraer <code className=\"green\">{{file}}</code>",
+      "text2": "Correr <code className=\"green\">bin/32/bitweb-qt</code> (requires libqt5-gui)",
+      "title3": "Daemon",
+      "text6": "Crear <code className=\"green\">bitweb.conf</code> en <code className=\"green\">~/.bitweb</code>",
+      "text7": "Correr <code className=\"green\">bin/32/bitwebd</code>",
+      "text8": "Su billetera se encuentra en <code>~/.bitweb</code>."
+    },
+    "paperWalletTitle": "Billetera de papel",
+    "paperWalletSubtitle1": "Billetera de papel",
+    "paperWalletSubtitle2": "Carteras no oficiales",
+    "type1": "Cartera de hardware3",
+    "type2": "Movil/ Billetera Web3",
+    "type3": "Billetera Web",
+    "type4": "Movil"
+  },
+  "indexPage": {
+    "title": "Un nuevo sistema de efectivo electrónico punto a punto",
+    "description": "La red de pagos líder en el mundo, una moneda encriptada segura y eficiente.",
+    "efficientEnergyTitle": "Seguridad y estabilidad",
+    "efficientEnergyText1": "Bitwebs (Bte) se basa en Bitcoin y hereda todas las características del sistema Bitcoin - Seguridad, estabilidad y eficiencia.",
+    "efficientEnergyText2": "La oferta de bitwebs es limitada, con un máximo de 84 millones de monedas, independientemente de la inflación.",
+    "efficientEnergyText3": "Soporta tres tipos de direcciones: Legacy, p2sh segwit y bech32 para proteger la privacidad.",
+    "userGovernanceTitle": "Comercio rápido",
+    "userGovernanceText1": "En bitwebs, el límite superior del bloque es de 100 m, 100 veces el Bitcoin, y segwit segwit segwit segwit Witness.",
+    "userGovernanceText2": "Proporciona capacidad de procesamiento de transacciones para bitweb.Con segwit Isolation Witness, su bloque nunca podría alcanzar los 100 m.Tiene una tarifa de transacción más baja.",
+    "userGovernanceText3": "Bitwebs tiene 60 segundos por bloque, por lo que es 10 veces más rápido que Bitcoin.",
+    "trustlessTitle": "Prueba del volumen de trabajo",
+    "trustlessText1": "Bitwebs utiliza el algoritmo yespwer, que sólo soporta CPU, reduce el costo de participación de todos, y permite que más personas participen y usen BTE.",
+    "trustlessText2": "El consumo de energía es menor, y los mineros que participan en la minería reciben una recompensa de 50 monedas BTE por bloque.",
+    "trustlessText3": "Bitwebs utiliza el ajuste de dificultad LMWA para reducir a la mitad la producción por 840.000 bloques.",
+    "fairDistributionTitle": "Almacenamiento de valor",
+    "fairDistributionText1": "Las criptocurrencias efectivas tienen una distribución equitativa lo suficientemente amplia como para garantizar que todos los suministros de monedas no se concentren en manos de muy pocas personas.",
+    "fairDistributionText2": "Bitwebs es un sistema de dinero P2P basado en Bitcoin.Heredamos todas las características de Bitcoin, y hacemos más mejoras y optimizaciones sobre la base de Bitcoin original. Bitwebs es un éxito. Esperamos que más personas participen y usen BTE.",
+    "fairDistributionText3": "Para que más gente conozca bitwebs, hemos pre - minero 2,58 millones de monedas para el desarrollo de la infraestructura.",
+    "fairDistributionText4": "Esto es s ólo alrededor del 3% de la oferta máxima, por lo que esperamos que bitwebs mejore en lugar de Bitcoin como moneda de pago encriptada.",
+    "getStartedTitle": "Empezar",
+    "collapsables": {
+      "walletTitle": "Billetera",
+      "walletText1": "El <a href=\"/wallet\">Monedero bitweb</a> está disponible en las plataformas Windows, Mac OSX y Linux.",
+      "walletText2": "Las experiencias de línea de comando también están disponibles.",
+      "walletText3": "Para comenzar, visite la página de descarga de Wallet y la guía de instalación.",
+      "mineTitle": "Minar",
+      "mineText1": "Bitwebs utiliza el algoritmo yespower para la minería de pruebas de trabajo.Eso significa que cualquiera puede explotar bitwebs.",
+      "communityTitle": "Comunidad",
+      "communityText1": "Únete a nuestro <a href=\"https://community.bitwebcore.org/\">Foro</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>, para chatear con otros miembros de la comunidad bitweb y desarrolladores. "
+    }
+  },
+  "notFoundPage": {
+    "title": "404 - Página no encontrada",
+    "description": "Haga clic <a href=\"https://bitwebcore.org/\" style=\"color: white;\">aqui</a> para volver a la página principal."
+  }
+}

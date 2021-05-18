@@ -1,0 +1,131 @@
+{
+  "menuComponent": {
+    "links": {
+      "home": {
+        "title": "Домашняя сраница"
+      },
+      "getStarted": {
+        "title": "Начать"
+      },
+      "resources": {
+        "title": "Ресурсы",
+        "exchanges": "Биржи",
+        "blockExplorers": "Обозреватель Блоков",
+        "whitepaper": "Белая Бумага"
+      },
+      "wallet": {
+        "title": "Кошельки"
+      },
+      "community": {
+        "title": "Сообщество",
+        "forum": "Форум",
+        "twitter": "Twitter",
+        "discord": "Discord",
+        "github": "Github"
+      }
+    }
+  },
+  "resourcesPage": {
+    "title": "Ресурсы",
+    "description": "Инструменты и ресурсы сообщества: в том числе обмен, обозреватель блоков, графики, социальные сети, форумы, чаты и т.д.",
+    "actions": {
+      "action1": "Биржи",
+      "action2": "Обозреватель блоков",
+      "action4": "Белая Бумага"
+    },
+    "exchangesTitle": "Биржи",
+    "exchangesType1": "Биржи",
+    "explorersTitle": "Обозреватель блоков",
+    "whitepaperTitle": "Белая Бумага",
+    "whitepaperEnglish": "Английский"
+  },
+  "walletPage": {
+    "title": "Кошельки",
+    "description": "Отправляйте, получайте и храните bitweb. Десктопный кошелек также позволяет создавать блоки и защищать нашу сеть.",
+    "actions": {
+      "action1": "Установка",
+      "action2": "Бумажный Кошелек",
+      "action3": "Неофициальные кошельки"
+    },
+    "desktopWalletTitle": "Десктопные кошельки",
+    "walletWindows": "Windows",
+    "walletMac": "macOS",
+    "walletLinux": "Linux",
+    "installationTitle": "Установка",
+    "sectionWindows": {
+      "title1": "Windows",
+      "text1": "Запустите <code>{{file}}</code>",
+      "text2": "Установка по умолчанию находится в папке <code>C:\\Program Files\\bitweb or C:\\Program Files\\bitweb</code>",
+      "text3": "Запустите <code>bitweb-qt</code> или <code>bitweb</code> из меню Пуск или из папки, в которую он был установлен.",
+      "title2": "Daemon",
+      "text4": "Создайте bitweb.conf в <code>%APPDATA%\\bitweb</code>",
+      "text5": "Запустите <code>daemon\\bitwebd</code>",
+      "text6": "Ваш кошелек в <code>C:\\Users\\{username}\\AppData</code> (hidden folder).",
+      "text7": "Откройте папку <code>Start menu -> Run...</code> (или нажмите <code>Winkey-R</code>), запишите: <code>%APPDATA%\\bitweb</code> в этом поле и нажмите Enter."
+    },
+    "sectionMac": {
+      "title1": "macOS",
+      "text1": "Запустите <code className=\"green\">{{file}}</code>",
+      "text2": "Монтируйте <code className=\"green\">bitweb-Qt.dmg</code> нажимая на него.",
+      "text3": "Тяните <code className=\"green\">bitweb-Qt.app</code> или <code className=\"green\">bitweb.app</code> в <code className=\"green\">Applications</code>",
+      "text4": "Mergeți la <code className=\"green\">Applicație</code> și deschideți <code className=\"green\">bitweb-Qt.app</code> ori <code className=\"green\">bitweb.app</code>",
+      "title2": "Daemon",
+      "text5": "Распакуйте <code className=\"green\">bitwebd.zip</code>",
+      "text6": "Создайте <code className=\"green\">bitweb.conf</code> в <code className=\"green\">~/Library/Application Support/bitweb</code>",
+      "text7": "Запустите <code className=\"green\">bitwebd</code>",
+      "text8": "Ваш кошелек находится в папке <code>~/Library/Application Support/bitweb</code>. Чтобы открыть папку, нажмите <code>Command-Shift-G</code> в Finder, введите путь (path), и нажмите Enter."
+    },
+    "sectionLinux": {
+      "title1": "Linux",
+      "text1": "Распакуйте <code className=\"green\">{{file}}</code>",
+      "text2": "Запустите <code className=\"green\">bin/bitweb-qt</code>",
+      "title3": "Daemon",
+      "text6": "Создайте <code className=\"green\">bitweb.conf</code> in <code className=\"green\">~/.bitweb</code>",
+      "text7": "Запустите <code className=\"green\">bin/bitwebd</code>",
+      "text8": "Ваш кошелек находится в <code>~/.bitweb</code>."
+    },
+    "paperWalletTitle": "Бумажный Кошелек",
+    "paperWalletSubtitle1": "Бумажный Кошелек",
+    "paperWalletSubtitle2": "Неофициальные Кошельки",
+    "type1": "Аппаратный Кошелек",
+    "type2": "Мобильный/Веб-кошелек",
+    "type3": "Веб-кошелек",
+    "type4": "Мобильный Кошелек"
+  },
+  "indexPage": {
+    "title": "Новая система точка - точка",
+    "description": "ведущие платёжные сети в мире, надежные и эффективные зашифрованные валюты.",
+    "efficientEnergyTitle": "безопасность и стабильность",
+    "efficientEnergyText1": "Bitweb (BTE) основан на исходных кодах последний версии биткоина 0.21.1, унаследованных от всех характеристик системы биткоина - безопасность, стабильность и эффективность.",
+    "efficientEnergyText2": "битвеб имеет ограниченный выпуск монет, халвинг период 840 000. Максимальное количество монет доступных для майнинга 84 000 000, абсолютное количевство включая пре-майн 86.579,950.",
+    "efficientEnergyText3": "Он поддерживает legacy, p2sh - segwit, besh32 три типа адресов, защищающих неприкосновенность частной жизни.",
+    "userGovernanceTitle": "быстрая торговля",
+    "userGovernanceText1": "в среднем районе битвеб максимальный размер блоков составляет 100 м, что в 100 раз больше, чем в пересчете на биты, и при этом обеспечивается защита свидетелей сегвита.",
+    "userGovernanceText2": "Он предоставляет битweb возможности для обработки данных.  после того, как сегуит изолировал свидетеля, его блок, возможно, никогда не достигнет 100 м.  Это меньше комиссионных.",
+    "userGovernanceText3": "Каждый участок в битвебе занимает 60 секунд, и поэтому он торгует очень быстро, в 10 раз больше, чем в битах.",
+    "trustlessTitle": "справка об объеме работы",
+    "trustlessText1": "Bitweb использует алгоритм yespwer, который просто поддерживает операции процессора, снижает стоимость участия каждого человека, позволяет расширить участие и использовать BTE.",
+    "trustlessText2": "потребление энергии ниже, и горняки, участвующие в добыче полезных ископаемых, могут получить награду за 50 монет БТЭ в каждом блоке.",
+    "trustlessText3": "битеб использовала LWMA для корректировки объема производства в два раза на 840 000 блоков.",
+    "fairDistributionTitle": "хранение стоимости",
+    "fairDistributionText1": "эффективная зашифрованная валюта имеет достаточно широкое и справедливое распределение для обеспечения того, чтобы все поставки монет не были сосредоточены в руках очень немногих.",
+    "fairDistributionText2": "Bitweb - это система p2p, разработанная на основе битовых денег.  унаследовали все особенности битов, были усовершенствованы и оптимизированы на основе оригинальных битов, Bitweb был успешным, и мы хотим, чтобы больше людей участвовали и использовали BTE.",
+    "fairDistributionText3": "в целях повышения уровня осведомленности о битвебе мы предварительно добыли 2,58 млн.",
+    "fairDistributionText4": "Это всего лишь около 3% от максимального объема поставок, поэтому мы надеемся, что битвеб станет лучше вместо битов в качестве зашифрованной валюты для оплаты.",
+    "getStartedTitle": "Начнем",
+    "collapsables": {
+      "walletTitle": "Кошелек",
+      "walletText1": "<a href=\"/wallet\">Кошелек bitweb</a> доступен на платформах Windows, Mac OSX și Linux.",
+      "walletText2": "Также доступны возможности командной строки.",
+      "walletText3": "Чтобы начать работу, смотрите Страницу Загрузки кошелька и Руководство по установке.",
+      "mineTitle": "Майнинг",
+      "mineText1": "битвеб использовала алгоритм Yespower для подтверждения работ по эксгумации.  Это означает, что любой может добыть битвеба.",
+      "communityTitle": "Сообщество",
+      "communityText1": "Присоединяйтесь на <a href=\"https://community.bitwebcore.org/\">Форуме</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>для общения с другими участниками и разработчиками сообщества Bitweb."
+    }
+  },
+  "notFoundPage": {
+    "title": "404 - запрошенный URL не найден",
+    "description": "Нажмите <a href=\"https://bitwebcore.org/\" style=\"color: white;\">здесь</a> для просмотра Главной страницы."
+  }
+}

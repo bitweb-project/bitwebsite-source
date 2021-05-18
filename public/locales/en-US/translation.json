@@ -1,0 +1,131 @@
+{
+  "menuComponent": {
+    "links": {
+      "home": {
+        "title": "Home"
+      },
+      "getStarted": {
+        "title": "Get Started"
+      },
+      "resources": {
+        "title": "Resources",
+        "exchanges": "Exchanges",
+        "blockExplorers": "Block Explorers",
+        "whitepaper": "Whitepaper"
+      },
+      "wallet": {
+        "title": "Wallet"
+      },
+      "community": {
+        "title": "Community",
+        "forum": "Forum",
+        "twitter": "Twitter",
+        "discord": "Discord",
+        "github": "Github"
+      }
+    }
+  },
+  "resourcesPage": {
+    "title": "Resources",
+    "description": "Tools and community resources: including exchanges, block explorers and more!",
+    "actions": {
+      "action1": "Exchanges",
+      "action2": "Block Explorers",
+      "action4": "Whitepaper"
+    },
+    "exchangesTitle": "Exchanges",
+    "exchangesType1": "Exchange",
+    "explorersTitle": "Explorer",
+    "whitepaperTitle": "Whitepaper",
+    "whitepaperEnglish": "English"
+  },
+  "walletPage": {
+    "title": "Wallets",
+    "description": "Send, receive, and store bitweb. The desktop wallet also enables minting blocks and securing of the network.",
+    "actions": {
+      "action1": "Installation",
+      "action2": "Paper Wallet",
+      "action3": "Unofficial Wallets"
+    },
+    "desktopWalletTitle": "Desktop Wallets",
+    "walletWindows": "Windows",
+    "walletMac": "macOS",
+    "walletLinux": "Linux",
+    "installationTitle": "Installation",
+    "sectionWindows": {
+      "title1": "Windows",
+      "text1": "Open <code>{{file}}</code>",
+      "text2": "Default installation directory is <code>C:\\Program Files\\Bitweb or C:\\Program Files\\bitweb</code>",
+      "text3": "Run <code>Bitweb-qt</code> or <code>Bitweb</code> from the Start menu or the installation directory",
+      "title2": "Daemon",
+      "text4": "Create Bitweb.conf in <code>%APPDATA%\\Bitweb</code>",
+      "text5": "Run <code>daemon\\Bitwebd</code>",
+      "text6": "Your wallet is located in <code>C:\\Users\\{username}\\AppData</code> (hidden folder).",
+      "text7": "Open the folder with <code>Start menu -> Run...</code> (or press <code>Winkey-R</code>), type <code>%APPDATA%\\Bitweb</code> into the field, and press Enter."
+    },
+    "sectionMac": {
+      "title1": "macOS",
+      "text1": "Open <code className=\"green\">{{file}}</code>",
+      "text2": "Mount <code className=\"green\">bitweb-Qt.dmg</code> by opening it",
+      "text3": "Drag <code className=\"green\">bitweb-Qt.app</code> or <code className=\"green\">bitweb.app</code> to <code className=\"green\">Applications</code>",
+      "text4": "Go to <code className=\"green\">Applications</code> and open <code className=\"green\">bitweb-Qt.app</code> or <code className=\"green\">bitweb.app</code>",
+      "title2": "Daemon",
+      "text5": "Unzip <code className=\"green\">Bitwebd.zip</code>",
+      "text6": "Create <code className=\"green\">bitweb.conf</code> in <code className=\"green\">~/Library/Application Support/Bitweb</code>",
+      "text7": "Run <code className=\"green\">Bitwebd</code>",
+      "text8": "Your wallet is located in <code>~/Library/Application Support/Bitweb</code>. To open the folder, press <code>Command-Shift-G</code> in Finder, insert the path, and press Enter."
+    },
+    "sectionLinux": {
+      "title1": "Linux",
+      "text1": "Unpack <code className=\"green\">{{file}}</code>",
+      "text2": "Run <code className=\"green\">bin/Bitweb-qt</code>",
+      "title3": "Daemon",
+      "text6": "Create <code className=\"green\">Bitweb.conf</code> in <code className=\"green\">~/.Bitweb</code>",
+      "text7": "Run <code className=\"green\">bin/Bitwebd</code>",
+      "text8": "Your wallet is located in <code>~/.Bitweb</code>."
+    },
+    "paperWalletTitle": "Paper Wallet",
+    "paperWalletSubtitle1": "Paper Wallet",
+    "paperWalletSubtitle2": "Unofficial Wallets",
+    "type1": "Hardware Wallet",
+    "type2": "Mobile/Web Wallet",
+    "type3": "Web Wallet",
+    "type4": "Mobile Wallet"
+  },
+  "indexPage": {
+    "title": "A new Peer-to-Peer Electronic Cash System",
+    "description": "The world's leading payment network, secure and efficient cryptocurrency.",
+    "efficientEnergyTitle": "Safety Stability",
+    "efficientEnergyText1": "Bitweb is based on bitcoin and inherits all the characteristics of bitcoin system --- security, stability and efficiency.",
+    "efficientEnergyText2": "Bitweb's supply is limited, with a maximum supply of 84 million coins, unaffected by inflation.",
+    "efficientEnergyText3": "It supports legacy, p2sh segwit and bech32 addresses to protect privacy.",
+    "userGovernanceTitle": "Fast Transaction",
+    "userGovernanceText1": "In bitweb, the upper limit of the block is 100 megabytes, which is 100 times that of bitcoin. At the same time, it supports Segwit isolation witness.",
+    "userGovernanceText2": "It provides transaction capacity for bitweb. With segwit isolation witness, it may never reach 100 megabytes.Lower transaction fees",
+    "userGovernanceText3": "Bitweb's every block time is 60 seconds, so its transaction speed is very fast, 10 times that of bitcoin.",
+    "trustlessTitle": "Proof Of Work",
+    "trustlessText1": "Bitweb uses yespwer algorithm, which only supports CPU computing, reduces everyone's participation cost, and allows more people to participate and use BTE.",
+    "trustlessText2": "Energy consumption is lower, and miners can get rewards for participating in mining, with 50 BTE coins per block.",
+    "trustlessText3": "Bitweb uses LWMA difficulty adjustment to halve the production per 840000 blocks.",
+    "fairDistributionTitle": "Value Storage",
+    "fairDistributionText1": "An effective cryptocurrency has a wide enough equitable distribution to ensure that all coin supply is not concentrated in the hands of very few people.",
+    "fairDistributionText2": "Bitweb is a P2P money system based on bitcoin. It inherits all the features of bitcoin and makes further improvement and Optimization on the basis of bitcoin. Bitweb is successful. We hope more people will participate in and use BTE.",
+    "fairDistributionText3": "To get more people to know bitweb, we mined 2.58 million coins in advance for infrastructure development.",
+    "fairDistributionText4": "That's only about 3% of the maximum supply, so we want bitweb to be better and replace bitcoin as the cryptocurrency for payment.",
+    "getStartedTitle": "Get Started",
+    "collapsables": {
+      "walletTitle": "Wallet",
+      "walletText1": "The <a href=\"/wallet\">Bitweb wallet</a> is available on Windows, Mac OSX, and Linux platforms.",
+      "walletText2": "Command-line experiences are also available.",
+      "walletText3": "To get started, check out the Wallet download page and the Installation guide's.",
+      "mineTitle": "Mine",
+      "mineText1": "Bitweb uses the Yespower algorithm for proof-of-work mining. This means that anyone can exploit bitweb.",
+      "communityTitle": "Community",
+      "communityText1": "Join our <a href=\"https://community.bitwebcore.org/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> to chat with other bitweb community members and developers."
+    }
+  },
+  "notFoundPage": {
+    "title": "404 - Requested URL Not Found",
+    "description": "Click <a href=\"https://bitwebcore.org/\" style=\"color: white;\">here</a> to return to the homepage."
+  }
+}
