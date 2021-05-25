@@ -1,0 +1,65 @@
+
+@import "../../style/_variables";
+@import "../../style/_viewports";
+
+.RoadmapPage {
+  h3.title {
+    padding: 0;
+    margin-top: 0;
+    font-weight: normal;
+
+    & + .blocks-list {
+      margin-top: 15px;
+    }
+  }
+}
+
+.text-sections {
+  .title {
+    font-weight: 500;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  p {
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+  }
+
+  .row {
+    margin-top: 50px;
+  }
+
+  ul {
+    li {
+      padding: 5px;
+    }
+  }
+
+  a:not(.btn) {
+    color: $color-green;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+}
+
+.description {
+  color: $color-green;
+  font-style: italic;
+  text-align: center;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 2.3rem;
+}
+.vertical-timeline::before {
+  background: $color-green !important;
+}
+

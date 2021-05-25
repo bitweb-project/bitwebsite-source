@@ -16,12 +16,17 @@
       "wallet": {
         "title": "钱包"
       },
+      "roadmap": {
+        "title": "路线图"
+      },
       "community": {
         "title": "社区",
         "forum": "论坛",
         "twitter": "Twitter",
         "discord": "Discord",
-        "github": "Github"
+        "github": "Github",
+        "bitcointalk": "Bitcointalk",
+        "telegram": "Telegram"
       }
     }
   },
@@ -38,6 +43,10 @@
     "explorersTitle": "区块链浏览器",
     "whitepaperTitle": "白皮书",
     "whitepaperEnglish": "英文"
+  },
+  "RoadmapPage": {
+    "title": "路线图",
+    "description": "Bitweb发展路线，长期更新"
   },
   "walletPage": {
     "title": "钱包",
@@ -93,7 +102,7 @@
     "type4": "移动"
   },
   "indexPage": {
-    "title": "一种新型的点对点电子现金系统",
+    "title": "比特网,一种新型的点对点电子现金系统",
     "description": "全球领先的支付网络，安全，高效的加密货币。",
     "efficientEnergyTitle": "安全稳定",
     "efficientEnergyText1": "Bitweb(BTE)基于比特币，继承比特币系统的所有特性---安全，稳定，高效。",

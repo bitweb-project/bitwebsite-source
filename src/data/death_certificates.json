@@ -1,0 +1,86 @@
+[
+  {
+    "date": "May 03, 2021",
+    "author": "Jcchain",
+    "sourceURL": "https://github.com/bitweb-project/bitweb",
+    "text": "Bitweb main line and start mining.",
+    "price": 0.00
+  },
+  {
+    "date": "May 05, 2021",
+    "author": "Jcchain",
+    "sourceURL": "https://miningpoolstats.stream/bitweb",
+    "text": "Adding bitweb coins to mining pool.",
+    "price": 0.00
+  },
+  {
+    "date": "May 09, 2021",
+    "author": "Jcchain",
+    "sourceURL": "https://community.bitwebcore.org/",
+    "text": "Official forum officially released and discord group established.",
+    "price": 0.00
+  },
+  {
+    "date": "May 11, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://github.com/bitweb-project/bitweb/releases.",
+    "text": "Upgrade wallet to v0.21.1.0 .",
+    "price": 0.00
+  },
+  {
+    "date": "May 12, 2021",
+    "author": "Jcchain",
+    "sourceURL": "https://bitwebcore.org/",
+    "text": "New official website.",
+    "price": 0.00
+  },
+  {
+    "date": "May 13, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://explorer.bitwebcore.org/",
+    "text": "New Explorer development completed.",
+    "price": 0.00
+  },
+  {
+    "date": "May 16, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://github.com/bitweb-project/bitweb/releases",
+    "text": "Upgrade wallet to v0.21.1.1 .",
+    "price": 0.00
+  },
+  {
+    "date": "May 17, 2021",
+    "author": "Jcchain",
+    "sourceURL": "https://bitcointalk.org/index.php?topic=5338488.0",
+    "text": "Post bitcoin talk",
+    "price": 0.00
+  },
+  {
+    "date": "May 19, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://paperwallet.bitwebcore.org/",
+    "text": "Paper wallet development completed.",
+    "price": 0.00
+  },
+  {
+    "date": "May 24, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://github.com/bitweb-project/electrumx",
+    "text": "The development of electrumx is completed.",
+    "price": 0.00
+  },
+  {
+    "date": "May 25, 2021",
+    "author": "Jcchain",
+    "sourceURL": "https://bitwebcore.org/",
+    "text": "Official website updated again. ",
+    "price": 0.00
+  },
+  {
+    "date": "May 25, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://github.com/bitweb-project/electrum-bte",
+    "text": "Electrum-bte development completed. ",
+    "price": 0.00
+  }
+]

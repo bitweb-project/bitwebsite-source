@@ -16,12 +16,17 @@
       "wallet": {
         "title": "Кошельки"
       },
+      "roadmap": {
+        "title": "маршрутная карта"
+      },
       "community": {
         "title": "Сообщество",
         "forum": "Форум",
         "twitter": "Twitter",
         "discord": "Discord",
-        "github": "Github"
+        "github": "Github",
+        "bitcointalk": "Bitcointalk",
+        "telegram": "Telegram"
       }
     }
   },
@@ -38,6 +43,10 @@
     "explorersTitle": "Обозреватель блоков",
     "whitepaperTitle": "Белая Бумага",
     "whitepaperEnglish": "Английский"
+  },
+  "RoadmapPage": {
+    "title": "маршрутная карта",
+    "description": "Bitweb Development Road, долгосрочное обновление"
   },
   "walletPage": {
     "title": "Кошельки",
@@ -93,7 +102,7 @@
     "type4": "Мобильный Кошелек"
   },
   "indexPage": {
-    "title": "Новая система точка - точка",
+    "title": "Bitweb,Новая система точка - точка",
     "description": "ведущие платёжные сети в мире, надежные и эффективные зашифрованные валюты.",
     "efficientEnergyTitle": "безопасность и стабильность",
     "efficientEnergyText1": "Bitweb (BTE) основан на исходных кодах последний версии биткоина 0.21.1, унаследованных от всех характеристик системы биткоина - безопасность, стабильность и эффективность.",

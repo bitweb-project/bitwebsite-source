@@ -16,12 +16,17 @@
       "wallet": {
         "title": "財布"
       },
+      "roadmap": {
+        "title": "路線図"
+      },
       "community": {
         "title": "コミュニティ",
         "forum": "フォーラム",
         "twitter": "Twitter",
         "discord": "Discord",
-        "github": "Github"
+        "github": "Github",
+        "bitcointalk": "Bitcointalk",
+        "telegram": "Telegram"
       }
     }
   },
@@ -38,6 +43,10 @@
     "explorersTitle": "ブロックブラウザ",
     "whitepaperTitle": "白書",
     "whitepaperEnglish": "英語"
+  },
+  "RoadmapPage": {
+    "title": "路線図",
+    "description": "Bitweb発展路線、長期更新"
   },
   "walletPage": {
     "title": "財布",
@@ -93,7 +102,7 @@
     "type4": "携帯"
   },
   "indexPage": {
-    "title": "新しいタイプのポイント対点電子現金システム",
+    "title": "Bitweb,新しいタイプのポイント対点電子現金システム",
     "description": "世界トップの支払ネットワークは、セキュリティ、効率的な暗号化通貨です。",
     "efficientEnergyTitle": "安全で安定しています",
     "efficientEnergyText1": "Bitweb（BTE）はビットコインに基づいて、ビットコインシステムのすべての特性を継承します。",

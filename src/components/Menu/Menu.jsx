@@ -82,6 +82,11 @@ function Menu() {
               </Link>
             </li>
             <li>
+              <Link to="/roadmap">
+                <span>{t("menuComponent.links.roadmap.title")}</span>
+              </Link>
+            </li>
+            <li>
               <span>{t("menuComponent.links.community.title")}</span>
               <img src="/img/icon-menu-arrow-down.svg" alt="" />
               <ul className="menu__main__submenu">
@@ -105,11 +110,26 @@ function Menu() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/SACSaveCoin/bitweb"
+                    href="https://github.com/bitweb-project"
                     className="submenu"
                   >
                     <img src="/img/icons/github_green.png" alt="" />
                     {t("menuComponent.links.community.github")}
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://bitcointalk.org/index.php?topic=5338488.0"
+                    className="submenu"
+                  >
+                    <img src="/img/icons/bitcoinchat_green.png" alt="" />
+                    {t("menuComponent.links.community.bitcointalk")}
+                  </a>
+                </li>
+                <li>
+                  <a href="https://t.me/bitweb" className="submenu">
+                    <img src="/img/icons/telegram_green.png" alt="" />
+                    {t("menuComponent.links.community.telegram")}
                   </a>
                 </li>
               </ul>

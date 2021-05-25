@@ -16,12 +16,17 @@
       "wallet": {
         "title": "Últimas noticias"
       },
+      "roadmap": {
+        "title": "Hoja de ruta"
+      },
       "community": {
         "title": "Comunidad",
         "forum": "Foro",
         "twitter": "Twitter",
         "discord": "Discord",
-        "github": "Github"
+        "github": "Github",
+        "bitcointalk": "Bitcointalk",
+        "telegram": "Telegram"
       }
     }
   },
@@ -38,6 +43,10 @@
     "explorersTitle": "Exploradores de bloque",
     "whitepaperTitle": "Whitepaper",
     "whitepaperEnglish": "English"
+  },
+  "RoadmapPage": {
+    "title": "Hoja de ruta",
+    "description": "Ruta de desarrollo de bitwebs, actualización a largo plazo"
   },
   "walletPage": {
     "title": "Carteras",
@@ -93,7 +102,7 @@
     "type4": "Movil"
   },
   "indexPage": {
-    "title": "Un nuevo sistema de efectivo electrónico punto a punto",
+    "title": "Bitweb,Un nuevo sistema de efectivo electrónico punto a punto",
     "description": "La red de pagos líder en el mundo, una moneda encriptada segura y eficiente.",
     "efficientEnergyTitle": "Seguridad y estabilidad",
     "efficientEnergyText1": "Bitwebs (Bte) se basa en Bitcoin y hereda todas las características del sistema Bitcoin - Seguridad, estabilidad y eficiencia.",

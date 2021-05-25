@@ -4,6 +4,7 @@ import "./style/main.scss";
 import Index from "./pages/Index/Index.jsx";
 import Resources from "./pages/Resources/Resources.jsx";
 import Wallet from "./pages/Wallet/Wallet";
+import Roadmap from "./pages/Roadmap/Roadmap";
 import ScrollTop from "./components/ScrollTop/ScrollTop";
 import Privacy from "./pages/Privacy/Privacy";
 import Contribute from "./pages/Contribute/Contribute";
@@ -24,6 +25,7 @@ function App() {
           <Route path="/resources" component={Resources} />
           <Route path="/privacy" component={Privacy} />
           <Route path="/wallet" component={Wallet} />
+          <Route path="/roadmap" component={Roadmap} />
           <Route path="/contribute" component={Contribute} />
           <Route path="/*" component={NotFound} />
         </Switch>

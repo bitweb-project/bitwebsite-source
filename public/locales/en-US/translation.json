@@ -16,12 +16,17 @@
       "wallet": {
         "title": "Wallet"
       },
+      "roadmap": {
+        "title": "Roadmap"
+      },
       "community": {
         "title": "Community",
         "forum": "Forum",
         "twitter": "Twitter",
         "discord": "Discord",
-        "github": "Github"
+        "github": "Github",
+        "bitcointalk": "Bitcointalk",
+        "telegram": "Telegram"
       }
     }
   },
@@ -38,6 +43,10 @@
     "explorersTitle": "Explorer",
     "whitepaperTitle": "Whitepaper",
     "whitepaperEnglish": "English"
+  },
+  "RoadmapPage": {
+    "title": "Roadmap",
+    "description": "Bitweb development route, long term update"
   },
   "walletPage": {
     "title": "Wallets",
@@ -93,7 +102,7 @@
     "type4": "Mobile Wallet"
   },
   "indexPage": {
-    "title": "A new Peer-to-Peer Electronic Cash System",
+    "title": "Bitweb,A new Peer-to-Peer Electronic Cash System",
     "description": "The world's leading payment network, secure and efficient cryptocurrency.",
     "efficientEnergyTitle": "Safety Stability",
     "efficientEnergyText1": "Bitweb is based on bitcoin and inherits all the characteristics of bitcoin system --- security, stability and efficiency.",
