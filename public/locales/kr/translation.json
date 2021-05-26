@@ -52,54 +52,53 @@
     "title": "지갑",
     "description": "피어코인을 보내고, 받고, 저장하세요. 데스크탑용 지갑은 블록을 채굴하고 네트워크를 안전하게 합니다.",
     "actions": {
-      "action1": "설치",
-      "action2": "종이 지갑",
-      "action3": "비공식 지갑"
+      "action1": "Electrum Bitweb Wallet",
+      "action2": "다른 지갑",
+      "action4": "지갑"
     },
     "desktopWalletTitle": "데스크탑용 지갑",
     "walletWindows": "Windows",
     "walletMac": "macOS",
     "walletLinux": "Linux",
-    "installationTitle": "설치",
+    "walletAndroid": "Android(7.0 and higher)",
+    "walletPython": "Python (3.6.1 and higher)",
+    "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
-      "title1": "Windows",
-      "text1": "Open <code>{{file}}</code>",
-      "text2": "기본 설치 폴더는 <code>C:\\Program Files\\Bitweb 또는 C:\\Program Files\\bitweb</code>",
-      "text3": "<code>bitweb-qt</code> 또는 <code>bitweb</code> 을 시작 메뉴 또는 설치 디렉토리에서 실행하세요",
-      "title2": "데몬",
-      "text4": "bitweb.conf 를 <code>%APPDATA%Bitweb</code> 에 생성",
-      "text5": "<code>daemon\\bitwebd</code> 실행",
-      "text6": "당신의 지갑은 <code>C:Users&lt;username&gt;AppData</code> 에 있습니다(숨김 폴더)..",
-      "text7": "<code>시작 메뉴 -> 실행...</code> (또는 단축키 <code>Winkey-R</code>) 메뉴를 선택하여 <code>%APPDATA%Bitweb</code> 라고 입력 후 엔터를 클릭해서 폴더를 엽니다."
+      "title1": "Standalone Executable",
+      "text1": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Standalone Executable</a>",
+      "title2": "Windows Installer",
+      "text2": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Windows Installer</a>",
+      "title3": "Portable version (security advice)",
+      "text3": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Portable version (security advice)</a>"
     },
     "sectionMac": {
-      "title1": "macOS",
-      "text1": "<code className=\"green\">{{file}}</code> 파일 실행 또는 압축 풀기",
-      "text2": "<code className=\"green\">bitweb-Qt.dmg</code> 를 열어서 마운트",
-      "text3": "<code className=\"green\">bitweb-Qt.app</code> 또는 <code className=\"green\">bitweb.app</code> 를 <code className=\"green\">Applications</code> 으로 그래그",
-      "text4": "<code className=\"green\">Applications</code> 으로 이동 후 <code className=\"green\">bitweb-Qt.app</code> 또는 <code className=\"green\">bitweb.app</code> 를 열기",
-      "title2": "Daemon",
-      "text5": "<code className=\"green\">bitwebd.zip</code> 압축 풀기",
-      "text6": "<code className=\"green\">bitweb.conf</code> 파일을 <code className=\"green\">~/Library/Application Support/Bitweb</code> 에 생성",
-      "text7": "<code className=\"green\">bitwebd</code> 실행",
-      "text8": "여러분의 지갑은<code>~/Library/Application Support/Bitweb</code>. 에 있습니다. 폴더를 열기 위해, Finder에서 Command-Shift-G키를 누른 후, 경로를 넣고, Enter키를 누르세요."
+      "title1": "Executable for OS X",
+      "text1": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Executable for OS X</a>"
     },
     "sectionLinux": {
-      "title1": "Linux",
-      "text1": "<code className=\"green\">{{file}}</code> 압축 풀기",
-      "text2": "<code className=\"green\">bin/32/bitweb-qt</code> 실행(libqt5-gui 필요)",
-      "title3": "Daemon",
-      "text6": "<code className=\"green\">bitweb.conf</code> 파일을 <code className=\"green\">~/.bitweb</code> 에 생성",
-      "text7": "<code className=\"green\">bin/32/bitwebd</code> 실행",
-      "text8": "당신의 지갑은 에 있습니다 <code>~/.bitweb</code>."
+      "title1": "Appimage",
+      "text1": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Appimage</a>"
     },
-    "paperWalletTitle": "종이 지갑",
-    "paperWalletSubtitle1": "종이 지갑",
-    "paperWalletSubtitle2": "비공식 지갑",
-    "type1": "하드웨어 지갑",
-    "type2": "모바일/웹 지갑",
-    "type3": "웹 지갑",
-    "type4": "모바일"
+    "sectionAndroid": {
+      "title1": "Android(8.0)",
+      "text1": "다운로드 하 다. <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0)</a>",
+      "title2": "Android(7.0)",
+      "text2": "다운로드 하 다. <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0)</a>"
+    },
+    "sectionPython": {
+      "title1": "Electrum-bitweb-4.1.2.tar.gz",
+      "text1": "다운로드 하 다. <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "title2": "Linux installation from Python sources",
+      "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
+      "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
+      "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
+    },
+    "paperWalletTitle": "다른 지갑",
+    "paperWalletSubtitle1": "종이 클립",
+    "paperWalletSubtitle2": "ElectrumX-Bitweb",
+    "type1": "Hardware Wallet",
+    "type2": "Mobile/Web Wallet",
+    "type3": "Web Wallet"
   },
   "indexPage": {
     "title": "Bitweb,새로운 맞 춤 형 전자 현금 시스템",

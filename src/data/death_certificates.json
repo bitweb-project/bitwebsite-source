@@ -82,5 +82,12 @@
     "sourceURL": "https://github.com/bitweb-project/electrum-bte",
     "text": "Electrum-bte development completed. ",
     "price": 0.00
+  },
+  {
+    "date": "May 26, 2021",
+    "author": "Mraksoll and Jcchian",
+    "sourceURL": "https://github.com/bitweb-project/electrum-bte/releases/tag/4.1.2",
+    "text": "Electrum Bitweb Wallet(Windows,macOS,Linux,Android v7.0 and higher,Python v3.6.1 and higher) and Official website updated again. ",
+    "price": 0.00
   }
 ]

@@ -57,7 +57,7 @@ function Menu() {
               <img
                 src="/img/logo-menu-white.svg"
                 alt="Peercoin"
-				height="50"
+		height="50"
                 className="menu__logo"
               />
             </Link>

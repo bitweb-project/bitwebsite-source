@@ -52,54 +52,53 @@
     "title": "钱包",
     "description": "发送、接收和存储Bitweb。桌面钱包还支持生成块和网络安全。",
     "actions": {
-      "action1": "安装",
-      "action2": "纸钱包",
-      "action3": "其他钱包"
+      "action1": "Electrum Bitweb Wallet",
+      "action2": "其它钱包",
+      "action4": "钱包"
     },
     "desktopWalletTitle": "桌面钱包",
     "walletWindows": "Windows",
     "walletMac": "macOS",
     "walletLinux": "Linux",
-    "installationTitle": "安装",
+    "walletAndroid": "Android(7.0 and higher)",
+    "walletPython": "Python (3.6.1 and higher)",
+    "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
-      "title1": "Windows",
-      "text1": "打开 <code>{{file}}</code>",
-      "text2": "默认安装目录为 <code>C:\\Program Files\\bitweb 或者 C:\\Program Files\\bitweb</code>",
-      "text3": "运行 <code>bitweb-qt</code> 或者 <code>bitweb</code> 从“开始”菜单或“安装”目录",
-      "title2": "Daemon",
-      "text4": "创建 bitweb.conf 在 <code>%APPDATA%\\bitweb</code>",
-      "text5": "运行 <code>daemon\\bitwebd</code>",
-      "text6": "你的钱包位置在 <code>C:\\Users\\{username}\\AppData</code> (隐藏文件).",
-      "text7": "打开文档 <code>开始菜单 -> 运行...</code> (或者按<code>Winkey-R</code>)), 输入 <code>%APPDATA%\\bitweb</code> 进入字段，并按Enter键。"
+      "title1": "Standalone Executable",
+      "text1": "下载 <a href=\"https://community.bitwebcore.org/\">Standalone Executable</a>",
+      "title2": "Windows Installer",
+      "text2": "下载 <a href=\"https://community.bitwebcore.org/\">Windows Installer</a>",
+      "title3": "Portable version (security advice)",
+      "text3": "下载 <a href=\"https://community.bitwebcore.org/\">Portable version (security advice)</a>"
     },
     "sectionMac": {
-      "title1": "macOS",
-      "text1": "打开 <code className=\"green\">{{file}}</code>",
-      "text2": "选择 <code className=\"green\">bitweb-Qt.dmg</code> 并且打开它",
-      "text3": "托 <code className=\"green\">bitweb-Qt.app</code> 或 <code className=\"green\">bitweb.app</code> 到  <code className=\"green\">应用</code>",
-      "text4": "到 <code className=\"green\">应用</code> 和开放 <code className=\"green\">bitweb-Qt.app</code> 或 <code className=\"green\">bitweb.app</code>",
-      "title2": "Daemon",
-      "text5": "解压 <code className=\"green\">bitwebd.zip</code>",
-      "text6": "创建 <code className=\"green\">bitweb.conf</code> 在 <code className=\"green\">~/Library/Application Support/bitweb</code>",
-      "text7": "运行 <code className=\"green\">bitwebd</code>",
-      "text8": "你的钱包在 <code>~/Library/Application Support/bitweb</code>。打开文件夹，在Finder中按<code>Command-Shift-G</code>键，插入路径，然后回车。"
+      "title1": "Executable for OS X",
+      "text1": "下载 <a href=\"https://community.bitwebcore.org/\">Executable for OS X</a>"
     },
     "sectionLinux": {
-      "title1": "Linux",
-      "text1": "解压 <code className=\"green\">{{file}}</code>",
-      "text2": "运行 <code className=\"green\">bin/32/bitweb-qt</code> (需要 libqt5-gui)",
-      "title3": "Daemon",
-      "text6": "创建 <code className=\"green\">bitweb.conf</code 在 <code className=\"green\">~/.bitweb</code>",
-      "text7": "运行 <code className=\"green\">bin/32/bitwebd</code>",
-      "text8": "你的钱包在 <code>~/.bitweb</code>."
+      "title1": "Appimage",
+      "text1": "下载 <a href=\"https://community.bitwebcore.org/\">Appimage</a>"
     },
-    "paperWalletTitle": "纸钱包",
+    "sectionAndroid": {
+      "title1": "Android(8.0)",
+      "text1": "下载 <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0)</a>",
+      "title2": "Android(7.0)",
+      "text2": "下载 <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0)</a>"
+    },
+    "sectionPython": {
+      "title1": "Electrum-bitweb-4.1.2.tar.gz",
+      "text1": "下载 <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "title2": "Linux installation from Python sources",
+      "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
+      "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
+      "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
+    },
+    "paperWalletTitle": "其它钱包",
     "paperWalletSubtitle1": "纸钱包",
-    "paperWalletSubtitle2": "其他钱包",
+    "paperWalletSubtitle2": "ElectrumX-Bitweb",
     "type1": "硬件钱包",
     "type2": "移动/ Web的钱包",
-    "type3": "网络钱包",
-    "type4": "移动"
+    "type3": "网络钱包"
   },
   "indexPage": {
     "title": "比特网,一种新型的点对点电子现金系统",

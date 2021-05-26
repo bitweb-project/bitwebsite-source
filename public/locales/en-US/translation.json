@@ -52,54 +52,53 @@
     "title": "Wallets",
     "description": "Send, receive, and store bitweb. The desktop wallet also enables minting blocks and securing of the network.",
     "actions": {
-      "action1": "Installation",
-      "action2": "Paper Wallet",
-      "action3": "Unofficial Wallets"
+      "action1": "Electrum Bitweb Wallet",
+      "action2": "Other Wallets",
+      "action4": "Wallets"
     },
     "desktopWalletTitle": "Desktop Wallets",
     "walletWindows": "Windows",
     "walletMac": "macOS",
     "walletLinux": "Linux",
-    "installationTitle": "Installation",
+    "walletAndroid": "Android(7.0 and higher)",
+    "walletPython": "Python (3.6.1 and higher)",
+    "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
-      "title1": "Windows",
-      "text1": "Open <code>{{file}}</code>",
-      "text2": "Default installation directory is <code>C:\\Program Files\\Bitweb or C:\\Program Files\\bitweb</code>",
-      "text3": "Run <code>Bitweb-qt</code> or <code>Bitweb</code> from the Start menu or the installation directory",
-      "title2": "Daemon",
-      "text4": "Create Bitweb.conf in <code>%APPDATA%\\Bitweb</code>",
-      "text5": "Run <code>daemon\\Bitwebd</code>",
-      "text6": "Your wallet is located in <code>C:\\Users\\{username}\\AppData</code> (hidden folder).",
-      "text7": "Open the folder with <code>Start menu -> Run...</code> (or press <code>Winkey-R</code>), type <code>%APPDATA%\\Bitweb</code> into the field, and press Enter."
+      "title1": "Standalone Executable",
+      "text1": "Download <a href=\"https://community.bitwebcore.org/\">Standalone Executable</a>",
+      "title2": "Windows Installer",
+      "text2": "Download <a href=\"https://community.bitwebcore.org/\">Windows Installer</a>",
+      "title3": "Portable version (security advice)",
+      "text3": "Download <a href=\"https://community.bitwebcore.org/\">Portable version (security advice)</a>"
     },
     "sectionMac": {
-      "title1": "macOS",
-      "text1": "Open <code className=\"green\">{{file}}</code>",
-      "text2": "Mount <code className=\"green\">bitweb-Qt.dmg</code> by opening it",
-      "text3": "Drag <code className=\"green\">bitweb-Qt.app</code> or <code className=\"green\">bitweb.app</code> to <code className=\"green\">Applications</code>",
-      "text4": "Go to <code className=\"green\">Applications</code> and open <code className=\"green\">bitweb-Qt.app</code> or <code className=\"green\">bitweb.app</code>",
-      "title2": "Daemon",
-      "text5": "Unzip <code className=\"green\">Bitwebd.zip</code>",
-      "text6": "Create <code className=\"green\">bitweb.conf</code> in <code className=\"green\">~/Library/Application Support/Bitweb</code>",
-      "text7": "Run <code className=\"green\">Bitwebd</code>",
-      "text8": "Your wallet is located in <code>~/Library/Application Support/Bitweb</code>. To open the folder, press <code>Command-Shift-G</code> in Finder, insert the path, and press Enter."
+      "title1": "Executable for OS X",
+      "text1": "Download <a href=\"https://community.bitwebcore.org/\">Executable for OS X</a>"
     },
     "sectionLinux": {
-      "title1": "Linux",
-      "text1": "Unpack <code className=\"green\">{{file}}</code>",
-      "text2": "Run <code className=\"green\">bin/Bitweb-qt</code>",
-      "title3": "Daemon",
-      "text6": "Create <code className=\"green\">Bitweb.conf</code> in <code className=\"green\">~/.Bitweb</code>",
-      "text7": "Run <code className=\"green\">bin/Bitwebd</code>",
-      "text8": "Your wallet is located in <code>~/.Bitweb</code>."
+      "title1": "Appimage",
+      "text1": "Download <a href=\"https://community.bitwebcore.org/\">Appimage</a>"
     },
-    "paperWalletTitle": "Paper Wallet",
+    "sectionAndroid": {
+      "title1": "Android(8.0)",
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0)</a>",
+      "title2": "Android(7.0)",
+      "text2": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0)</a>"
+    },
+    "sectionPython": {
+      "title1": "Electrum-bitweb-4.1.2.tar.gz",
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "title2": "Linux installation from Python sources",
+      "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
+      "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
+      "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
+    },
+    "paperWalletTitle": "Other Wallets",
     "paperWalletSubtitle1": "Paper Wallet",
-    "paperWalletSubtitle2": "Unofficial Wallets",
+    "paperWalletSubtitle2": "ElectrumX-Bitweb",
     "type1": "Hardware Wallet",
     "type2": "Mobile/Web Wallet",
-    "type3": "Web Wallet",
-    "type4": "Mobile Wallet"
+    "type3": "Web Wallet"
   },
   "indexPage": {
     "title": "Bitweb,A new Peer-to-Peer Electronic Cash System",

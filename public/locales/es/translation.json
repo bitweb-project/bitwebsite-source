@@ -52,54 +52,53 @@
     "title": "Carteras",
     "description": "Enviar, recibir y almacenar bitweb. La billetera de escritorio también permite la creación de bloques y la protección de la red.",
     "actions": {
-      "action1": "Instalación",
-      "action2": "Billetera de papel",
-      "action3": "Carteras no oficiales"
+      "action1": "Electrum Bitweb Wallet",
+      "action2": "Otras carteras",
+      "action4": "Cartera"
     },
     "desktopWalletTitle": "Billeteras de escritorio",
     "walletWindows": "Windows",
     "walletMac": "macOS",
     "walletLinux": "Linux",
-    "installationTitle": "Installation",
+    "walletAndroid": "Android(7.0 and higher)",
+    "walletPython": "Python (3.6.1 and higher)",
+    "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
-      "title1": "Windows",
-      "text1": "Open <code>{{file}}</code>",
-      "text2": "El directorio de instalación predeterminado es <code>C:\\Program Files\\bitweb or C:\\Program Files\\bitweb</code>",
-      "text3": "Correr <code>bitweb-qt</code> o <code>bitweb</code> desde el menú Inicio o desde el directorio de instalación.",
-      "title2": "Daemon",
-      "text4": "Create bitweb.conf in <code>%APPDATA%\\bitweb</code>",
-      "text5": "Correr <code>daemon\\bitwebd</code>",
-      "text6": "Su billetera se encuentra en <code>C:\\Users\\{username}\\AppData</code> (carpeta oculta).",
-      "text7": "Abra la carpeta co <code>Menú de inicio -> Ejecutar ...</code> (o presione <code>Winkey-R</code>), escriba <code>%APPDATA%\\bitweb</code> en el campo, y presione Enter."
+      "title1": "Standalone Executable",
+      "text1": "Descargar <a href=\"https://community.bitwebcore.org/\">Standalone Executable</a>",
+      "title2": "Windows Installer",
+      "text2": "Descargar <a href=\"https://community.bitwebcore.org/\">Windows Installer</a>",
+      "title3": "Portable version (security advice)",
+      "text3": "Descargar <a href=\"https://community.bitwebcore.org/\">Portable version (security advice)</a>"
     },
     "sectionMac": {
-      "title1": "macOS",
-      "text1": "Abrir <code className=\"green\">{{file}}</code>",
-      "text2": "Montar <code className=\"green\">bitweb-Qt.dmg</code> abriéndolo",
-      "text3": "Arrastrar <code className=\"green\">bitweb-Qt.app</code> o <code className=\"green\">bitweb.app</code> to <code className=\"green\">Aplicaciones</code>",
-      "text4": "Arranque en <code className=\"green\">Aplicaciones</code> y abra <code className=\"green\">bitweb-Qt.app</code> or <code className=\"green\">bitweb.app</code>",
-      "title2": "Daemon",
-      "text5": "Unzip <code className=\"green\">bitwebd.zip</code>",
-      "text6": "Create <code className=\"green\">ppcoin.conf</code> in <code className=\"green\">~/Library/Application Support/bitweb</code>",
-      "text7": "Correr <code className=\"green\">bitwebd</code>",
-      "text8": "Su billetera se encuentra en 1 <code>~/Library/Application Support/bitweb</code>. Para abrir la carpeta, presione <code>Command-Shift-G</code> en el Finder, inserte la ruta y presione Enter."
+      "title1": "Executable for OS X",
+      "text1": "Descargar <a href=\"https://community.bitwebcore.org/\">Executable for OS X</a>"
     },
     "sectionLinux": {
-      "title1": "Linux",
-      "text1": "Extraer <code className=\"green\">{{file}}</code>",
-      "text2": "Correr <code className=\"green\">bin/32/bitweb-qt</code> (requires libqt5-gui)",
-      "title3": "Daemon",
-      "text6": "Crear <code className=\"green\">bitweb.conf</code> en <code className=\"green\">~/.bitweb</code>",
-      "text7": "Correr <code className=\"green\">bin/32/bitwebd</code>",
-      "text8": "Su billetera se encuentra en <code>~/.bitweb</code>."
+      "title1": "Appimage",
+      "text1": "Descargar <a href=\"https://community.bitwebcore.org/\">Appimage</a>"
     },
-    "paperWalletTitle": "Billetera de papel",
-    "paperWalletSubtitle1": "Billetera de papel",
-    "paperWalletSubtitle2": "Carteras no oficiales",
-    "type1": "Cartera de hardware3",
-    "type2": "Movil/ Billetera Web3",
-    "type3": "Billetera Web",
-    "type4": "Movil"
+    "sectionAndroid": {
+      "title1": "Android(8.0)",
+      "text1": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0)</a>",
+      "title2": "Android(7.0)",
+      "text2": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0)</a>"
+    },
+    "sectionPython": {
+      "title1": "Electrum-bitweb-4.1.2.tar.gz",
+      "text1": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "title2": "Linux installation from Python sources",
+      "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
+      "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
+      "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
+    },
+    "paperWalletTitle": "Otras carteras",
+    "paperWalletSubtitle1": "Cartera de papel",
+    "paperWalletSubtitle2": "ElectrumX-Bitweb",
+    "type1": "Hardware Wallet",
+    "type2": "Mobile/Web Wallet",
+    "type3": "Web Wallet"
   },
   "indexPage": {
     "title": "Bitweb,Un nuevo sistema de efectivo electrónico punto a punto",
