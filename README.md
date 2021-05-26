@@ -1,4 +1,3 @@
-
 ### Installing and Running
 ```sh
 npm install
