@@ -9,8 +9,8 @@ import Loader from "../../components/Loader/Loader";
 
 function Wallet() {
   const { t } = useTranslation();
-  const [ cs1, setCs1 ] = useState(true);
-  const [ cs2, setCs2 ] = useState(false);
+  const [ cs1, setCs1 ] = useState(false);
+  const [ cs2, setCs2 ] = useState(true);
   const [ cs3, setCs3 ] = useState(false);
   const [ cs4, setCs4 ] = useState(false);
   const [ cs5, setCs5 ] = useState(false);
@@ -121,10 +121,6 @@ function Wallet() {
       <div className="main main--dark">
         <div className="anchor" data-id="install"></div>
         <div className="container">
-          <h1 className="title title--white title--left">
-	  <img src="/img/electrum/electrum.png" alt="" height="100"/>
-            {t("walletPage.installationTitle")}
-          </h1>
 
           <div className="timeline timeline--dark">
             <div className="timeline__body">
@@ -133,10 +129,21 @@ function Wallet() {
                 open={cs1}
                 trigger={
                   <div className="timeline__body__section">
-		  <img src="/img/electrum/os_windows.gif" alt=""/>
+		  <img src="/img/electrum/electrum.png" alt="" height="28"/>
+                    {t("walletPage.installationTitle")}
+                  </div>
+                }
+              >
+              </Collapsible>
+              <Collapsible
+                onOpening={() => handleOpen(2)}
+                trigger={
+                  <div className="timeline__body__section">
+		  <img src="/img/electrum/os_windows.gif" alt="" />
                     {t("walletPage.walletWindows")}
                   </div>
                 }
+                open={cs2}
               >
                 <div className="timeline__body__content">
                   <div className="timeline__body__content__text">
@@ -162,14 +169,14 @@ function Wallet() {
                 </div>
               </Collapsible>
               <Collapsible
-                onOpening={() => handleOpen(2)}
+                onOpening={() => handleOpen(3)}
                 trigger={
                   <div className="timeline__body__section">
 		  <img src="/img/electrum/os_apple.png" alt="" />
                     {t("walletPage.walletMac")}
                   </div>
                 }
-                open={cs2}
+                open={cs3}
               >
                 <div className="timeline__body__content">
                   <div className="timeline__body__content__text">
@@ -181,14 +188,14 @@ function Wallet() {
                 </div>
               </Collapsible>
               <Collapsible
-                onOpening={() => handleOpen(3)}
+                onOpening={() => handleOpen(4)}
                 trigger={
                   <div className="timeline__body__section">
 		  <img src="/img/electrum/os_linux.gif" alt="" />
                     {t("walletPage.walletLinux")}
                   </div>
                 }
-                open={cs3}
+                open={cs4}
               >
                 <div className="timeline__body__content">
                   <div className="timeline__body__content__text">
@@ -200,14 +207,14 @@ function Wallet() {
                 </div>
               </Collapsible>
               <Collapsible
-                onOpening={() => handleOpen(4)}
+                onOpening={() => handleOpen(5)}
                 trigger={
                   <div className="timeline__body__section">
 		  <img src="/img/electrum/android_icon.png" alt="" />
                     {t("walletPage.walletAndroid")}
                   </div>
                 }
-                open={cs4}
+                open={cs5}
               >
                 <div className="timeline__body__content">
                   <div className="timeline__body__content__text">
@@ -223,14 +230,14 @@ function Wallet() {
                 </div>
               </Collapsible>
               <Collapsible
-                onOpening={() => handleOpen(5)}
+                onOpening={() => handleOpen(6)}
                 trigger={
                   <div className="timeline__body__section">
 		  <img src="/img/electrum/tar-gz.png" alt="" />
                     {t("walletPage.walletPython")}
                   </div>
                 }
-                open={cs5}
+                open={cs6}
               >
                 <div className="timeline__body__content">
                   <div className="timeline__body__content__text">
@@ -280,7 +287,7 @@ function Wallet() {
               </h4>
               <img
                 className="blocks-list__block__img"
-                src="/img/explorers/bitwebexp.png"
+                src="/img/electrum/electrum_launcher.png"
                 alt=""
               />
             </a>

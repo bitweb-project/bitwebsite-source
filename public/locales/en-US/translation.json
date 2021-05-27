@@ -61,7 +61,7 @@
     "walletMac": "macOS",
     "walletLinux": "Linux",
     "walletAndroid": "Android(7.0 and higher)",
-    "walletPython": "Python (3.6.1 and higher)",
+    "walletPython": "Python (3.7.1 and higher)",
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
@@ -101,7 +101,8 @@
     "type3": "Web Wallet"
   },
   "indexPage": {
-    "title": "Bitweb,A new Peer-to-Peer Electronic Cash System",
+    "title1": "Bitweb",
+    "title": "New Peer-to-Peer Electronic Cash System",
     "description": "The world's leading payment network, secure and efficient cryptocurrency.",
     "efficientEnergyTitle": "Safety Stability",
     "efficientEnergyText1": "Bitweb is based on bitcoin and inherits all the characteristics of bitcoin system --- security, stability and efficiency.",

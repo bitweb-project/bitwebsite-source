@@ -61,7 +61,7 @@
     "walletMac": "macOS",
     "walletLinux": "Linux",
     "walletAndroid": "Android(7.0 and higher)",
-    "walletPython": "Python (3.6.1 and higher)",
+    "walletPython": "Python (3.7.1 and higher)",
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
@@ -101,7 +101,8 @@
     "type3": "Web Wallet"
   },
   "indexPage": {
-    "title": "Bitweb,新しいタイプのポイント対点電子現金システム",
+    "title1": "Bitweb",
+    "title": "新しいタイプのポイント対点電子現金システム",
     "description": "世界トップの支払ネットワークは、セキュリティ、効率的な暗号化通貨です。",
     "efficientEnergyTitle": "安全で安定しています",
     "efficientEnergyText1": "Bitweb（BTE）はビットコインに基づいて、ビットコインシステムのすべての特性を継承します。",

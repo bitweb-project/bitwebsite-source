@@ -61,7 +61,7 @@
     "walletMac": "macOS",
     "walletLinux": "Linux",
     "walletAndroid": "Android(7.0 and higher)",
-    "walletPython": "Python (3.6.1 and higher)",
+    "walletPython": "Python (3.7.1 and higher)",
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
@@ -101,7 +101,8 @@
     "type3": "Web Wallet"
   },
   "indexPage": {
-    "title": "Bitweb,새로운 맞 춤 형 전자 현금 시스템",
+    "title1": "Bitweb",
+    "title": "새로운 맞 춤 형 전자 현금 시스템",
     "description": "전 세계 에서 앞장 서 는 결제 네트워크, 안전, 효율 적 인 암호 화 화폐.",
     "efficientEnergyTitle": "안전 하고 안정되다.",
     "efficientEnergyText1": "Bitweb (BTE) 는 비트 코 인 을 바탕 으로 비트 코 인 시스템 의 모든 특성 - 안전, 안정, 효율 을 계승 합 니 다.",

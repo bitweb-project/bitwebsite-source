@@ -61,7 +61,7 @@
     "walletMac": "macOS",
     "walletLinux": "Linux",
     "walletAndroid": "Android(7.0 and higher)",
-    "walletPython": "Python (3.6.1 and higher)",
+    "walletPython": "Python (3.7.1 and higher)",
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
@@ -101,7 +101,8 @@
     "type3": "Web Wallet"
   },
   "indexPage": {
-    "title": "Bitweb,Новая система точка - точка",
+    "title1": "Bitweb",
+    "title": "Новая система точка - точка",
     "description": "ведущие платёжные сети в мире, надежные и эффективные зашифрованные валюты.",
     "efficientEnergyTitle": "безопасность и стабильность",
     "efficientEnergyText1": "Bitweb (BTE) основан на исходных кодах последний версии биткоина 0.21.1, унаследованных от всех характеристик системы биткоина - безопасность, стабильность и эффективность.",

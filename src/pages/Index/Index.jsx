@@ -2,7 +2,6 @@ import React, { Suspense, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import Collapsible from 'react-collapsible';
 import renderHTML from 'react-render-html';
-import YouTube from 'react-youtube';
 import './Index.scss';
 import Menu from '../../components/Menu/Menu';
 import Footer from '../../components/Footer/Footer';
@@ -36,6 +35,7 @@ function Index() {
     <Menu />
     <div className="Index hero">
       <img src="/img/logo-white.svg" alt="Peercoin Logo" width="220" />
+      <h1 className="hero__title">{t('indexPage.title1')}</h1>
       <h1 className="hero__title">{t('indexPage.title')}</h1>
       <p className="hero__description">
       {t('indexPage.description')}

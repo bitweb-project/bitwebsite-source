@@ -61,7 +61,7 @@
     "walletMac": "macOS",
     "walletLinux": "Linux",
     "walletAndroid": "Android(7.0 and higher)",
-    "walletPython": "Python (3.6.1 and higher)",
+    "walletPython": "Python (3.7.1 and higher)",
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
@@ -101,7 +101,8 @@
     "type3": "Web Wallet"
   },
   "indexPage": {
-    "title": "Bitweb,Un nuevo sistema de efectivo electrónico punto a punto",
+    "title1": "Bitweb",
+    "title": "Un nuevo sistema de efectivo electrónico punto a punto",
     "description": "La red de pagos líder en el mundo, una moneda encriptada segura y eficiente.",
     "efficientEnergyTitle": "Seguridad y estabilidad",
     "efficientEnergyText1": "Bitwebs (Bte) se basa en Bitcoin y hereda todas las características del sistema Bitcoin - Seguridad, estabilidad y eficiencia.",
