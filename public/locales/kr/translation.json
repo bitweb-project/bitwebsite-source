@@ -40,7 +40,7 @@
     },
   "RoadmapPage": {
     "title": "노선 도",
-    "description": "Bitweb 코스,장기 업데이트"
+    "description": "Bitweb 코스 장기 업데이트"
   },
     "exchangesTitle": "거래소",
     "exchangesType1": "거래소",
@@ -65,29 +65,29 @@
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
-      "text1": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Standalone Executable</a>",
+      "text1": "다운로드 하 다 <a href=\"https://community.bitwebcore.org/\">Standalone Executable</a>",
       "title2": "Windows Installer",
-      "text2": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Windows Installer</a>",
+      "text2": "다운로드 하 다 <a href=\"https://community.bitwebcore.org/\">Windows Installer</a>",
       "title3": "Portable version (security advice)",
-      "text3": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Portable version (security advice)</a>"
+      "text3": "다운로드 하 다 <a href=\"https://community.bitwebcore.org/\">Portable version (security advice)</a>"
     },
     "sectionMac": {
       "title1": "Executable for OS X",
-      "text1": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Executable for OS X</a>"
+      "text1": "다운로드 하 다 <a href=\"https://community.bitwebcore.org/\">Executable for OS X</a>"
     },
     "sectionLinux": {
       "title1": "Appimage",
-      "text1": "다운로드 하 다. <a href=\"https://community.bitwebcore.org/\">Appimage</a>"
+      "text1": "다운로드 하 다 <a href=\"https://community.bitwebcore.org/\">Appimage</a>"
     },
     "sectionAndroid": {
       "title1": "Android(8.0)",
-      "text1": "다운로드 하 다. <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0)</a>",
+      "text1": "다운로드 하 다 <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
       "title2": "Android(7.0)",
-      "text2": "다운로드 하 다. <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0)</a>"
+      "text2": "다운로드 하 다 <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
     },
     "sectionPython": {
       "title1": "Electrum-bitweb-4.1.2.tar.gz",
-      "text1": "다운로드 하 다. <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "text1": "다운로드 하 다 <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
       "title2": "Linux installation from Python sources",
       "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
       "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",

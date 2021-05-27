@@ -81,9 +81,9 @@
     },
     "sectionAndroid": {
       "title1": "Android(8.0)",
-      "text1": "ダウンロード <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0)</a>",
+      "text1": "ダウンロード <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
       "title2": "Android(7.0)",
-      "text2": "ダウンロード <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0)</a>"
+      "text2": "ダウンロード <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
     },
     "sectionPython": {
       "title1": "Electrum-bitweb-4.1.2.tar.gz",
