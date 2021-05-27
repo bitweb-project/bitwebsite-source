@@ -81,13 +81,13 @@
     },
     "sectionAndroid": {
       "title1": "Android(8.0)-64bit",
-      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
       "title2": "Android(7.0)-32bit arch",
-      "text2": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
+      "text2": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
     },
     "sectionPython": {
       "title1": "Electrum-bitweb-4.1.2.tar.gz",
-      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/v4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
       "title2": "Linux installation from Python sources",
       "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
       "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
