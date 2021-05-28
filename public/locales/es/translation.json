@@ -5,13 +5,13 @@
         "title": "Inicio"
       },
       "getStarted": {
-        "title": "Inicio"
+        "title": "Empezar"
       },
       "resources": {
         "title": "Recursos",
-        "exchanges": "Intercambios",
-        "blockExplorers": "Exploradores de bloque",
-        "whitepaper": "Papel blanco"
+        "exchanges": "Exchanges",
+        "blockExplorers": "Exploradores de bloques",
+        "whitepaper": "Whitepaper"
       },
       "wallet": {
         "title": "Últimas noticias"
@@ -32,51 +32,51 @@
   },
   "resourcesPage": {
     "title": "Recursos",
-    "description": "Herramientas y recursos comunitarios: incluidos intercambios, exploradores de bloques, gráficos, redes sociales, foros, chats y más.",
+    "description": "Herramientas y recursos de la Comunidad: incluidos exchanges, exploradores de bloques, gráficos, redes sociales, foros, chats y más.",
     "actions": {
-      "action1": "Intercambious",
-      "action2": "Exploradores de bloque",
-      "action4": "Papel blanco"
+      "action1": "Exchanges",
+      "action2": "Exploradores de bloques",
+      "action4": "Whitepaper"
     },
-    "exchangesTitle": "Intercambios",
-    "exchangesType1": "Intercambios",
-    "explorersTitle": "Exploradores de bloque",
+    "exchangesTitle": "Exchanges",
+    "exchangesType1": "Exchanges",
+    "explorersTitle": "Exploradores de bloques",
     "whitepaperTitle": "Whitepaper",
     "whitepaperEnglish": "English"
   },
   "RoadmapPage": {
     "title": "Hoja de ruta",
-    "description": "Ruta de desarrollo de bitwebs, actualización a largo plazo"
+    "description": "Ruta de desarrollo de Bitweb, actualización a largo plazo"
   },
   "walletPage": {
-    "title": "Carteras",
-    "description": "Enviar, recibir y almacenar bitweb. La billetera de escritorio también permite la creación de bloques y la protección de la red.",
+    "title": "Billeteras",
+    "description": "Enviar, recibir y almacenar Bitweb. La billetera de escritorio también permite la creación de bloques y la protección de la red.",
     "actions": {
       "action1": "Electrum Bitweb Wallet",
-      "action2": "Otras carteras",
-      "action4": "Cartera"
+      "action2": "Otras billeteras",
+      "action4": "Billetera"
     },
     "desktopWalletTitle": "Billeteras de escritorio",
     "walletWindows": "Windows",
-    "walletMac": "macOS",
+    "walletMac": "MacOS",
     "walletLinux": "Linux",
-    "walletAndroid": "Android(7.0 and higher)",
-    "walletPython": "Python (3.7.1 and higher)",
+    "walletAndroid": "Android(7.0 o mayor)",
+    "walletPython": "Python (3.7.1 o mayor)",
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
-      "title1": "Standalone Executable",
+      "title1": "Ejecutable independiente",
       "text1": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2.exe\">Standalone Executable</a>",
-      "title2": "Windows Installer",
+      "title2": "Instalador de Windows",
       "text2": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-setup.exe\">Windows Installer</a>",
-      "title3": "Portable version (security advice)",
+      "title3": "Versión portátil (consejo de seguridad)",
       "text3": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-portable.exe\">Portable version (security advice)</a>"
     },
     "sectionMac": {
-      "title1": "Executable for OS X",
+      "title1": "Ejecutable para OS X",
       "text1": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-4.1.2-2-ga9375a8a0.dmg\">Executable for OS X</a>"
     },
     "sectionLinux": {
-      "title1": "Appimage",
+      "title1": "AppImage para Linux",
       "text1": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-x86_64.AppImage\">Appimage</a>"
     },
     "sectionAndroid": {
@@ -88,53 +88,53 @@
     "sectionPython": {
       "title1": "Electrum-bitweb-4.1.2.tar.gz",
       "text1": "Descargar <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/v4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
-      "title2": "Linux installation from Python sources",
+      "title2": "Instalación de Linux desde fuentes de Python",
       "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
       "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
       "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
     },
-    "paperWalletTitle": "Otras carteras",
-    "paperWalletSubtitle1": "Cartera de papel",
+    "paperWalletTitle": "Otras Billeteras",
+    "paperWalletSubtitle1": "Billetera de papel",
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
-    "type1": "Hardware Wallet",
-    "type2": "Mobile/Web Wallet",
-    "type3": "Web Wallet"
+    "type1": "Billetera Física",
+    "type2": "Billetera Móvil/Web",
+    "type3": "Billetera Web"
   },
   "indexPage": {
     "title1": "Bitweb",
     "title": "Un nuevo sistema de efectivo electrónico punto a punto",
-    "description": "La red de pagos líder en el mundo, una moneda encriptada segura y eficiente.",
+    "description": "La red de pagos líder en el mundo, una moneda encriptada, segura y eficiente.",
     "efficientEnergyTitle": "Seguridad y estabilidad",
-    "efficientEnergyText1": "Bitwebs (Bte) se basa en Bitcoin y hereda todas las características del sistema Bitcoin - Seguridad, estabilidad y eficiencia.",
-    "efficientEnergyText2": "La oferta de bitwebs es limitada, con un máximo de 84 millones de monedas, independientemente de la inflación.",
+    "efficientEnergyText1": "Bitweb (BTE) se basa en Bitcoin y hereda todas las características del sistema Bitcoin - Seguridad, estabilidad y eficiencia.",
+    "efficientEnergyText2": "La oferta de Bitweb es limitada, con un máximo de 84 millones de monedas, independientemente de la inflación.",
     "efficientEnergyText3": "Soporta tres tipos de direcciones: Legacy, p2sh segwit y bech32 para proteger la privacidad.",
     "userGovernanceTitle": "Comercio rápido",
-    "userGovernanceText1": "En bitwebs, el límite superior del bloque es de 100 m, 100 veces el Bitcoin, y segwit segwit segwit segwit Witness.",
-    "userGovernanceText2": "Proporciona capacidad de procesamiento de transacciones para bitweb.Con segwit Isolation Witness, su bloque nunca podría alcanzar los 100 m.Tiene una tarifa de transacción más baja.",
-    "userGovernanceText3": "Bitwebs tiene 60 segundos por bloque, por lo que es 10 veces más rápido que Bitcoin.",
+    "userGovernanceText1": "En Bitweb, el límite superior del bloque es de 100 m, 100 veces el Bitcoin, y segwit segwit segwit segwit Witness.",
+    "userGovernanceText2": "Proporciona capacidad de procesamiento de transacciones para bitweb.Con segwit Isolation Witness, su bloque nunca podría alcanzar los 100 m. Tiene una tarifa de transacción más baja.",
+    "userGovernanceText3": "Bitweb tiene 60 segundos por bloque, por lo que es 10 veces más rápido que Bitcoin.",
     "trustlessTitle": "Prueba del volumen de trabajo",
-    "trustlessText1": "Bitwebs utiliza el algoritmo yespwer, que sólo soporta CPU, reduce el costo de participación de todos, y permite que más personas participen y usen BTE.",
+    "trustlessText1": "Bitweb utiliza el algoritmo YesPower, que sólo soporta CPU, reduce el costo de participación de todos, y permite que más personas participen y usen BTE.",
     "trustlessText2": "El consumo de energía es menor, y los mineros que participan en la minería reciben una recompensa de 50 monedas BTE por bloque.",
-    "trustlessText3": "Bitwebs utiliza el ajuste de dificultad LMWA para reducir a la mitad la producción por 840.000 bloques.",
+    "trustlessText3": "Bitweb utiliza el ajuste de dificultad LMWA para reducir a la mitad la producción por 840.000 bloques.",
     "fairDistributionTitle": "Almacenamiento de valor",
     "fairDistributionText1": "Las criptocurrencias efectivas tienen una distribución equitativa lo suficientemente amplia como para garantizar que todos los suministros de monedas no se concentren en manos de muy pocas personas.",
-    "fairDistributionText2": "Bitwebs es un sistema de dinero P2P basado en Bitcoin.Heredamos todas las características de Bitcoin, y hacemos más mejoras y optimizaciones sobre la base de Bitcoin original. Bitwebs es un éxito. Esperamos que más personas participen y usen BTE.",
-    "fairDistributionText3": "Para que más gente conozca bitwebs, hemos pre - minero 2,58 millones de monedas para el desarrollo de la infraestructura.",
-    "fairDistributionText4": "Esto es s ólo alrededor del 3% de la oferta máxima, por lo que esperamos que bitwebs mejore en lugar de Bitcoin como moneda de pago encriptada.",
+    "fairDistributionText2": "Bitweb es un sistema de dinero P2P basado en Bitcoin. Heredamos todas las características de Bitcoin, y hacemos más mejoras y optimizaciones sobre la base de Bitcoin original. Bitweb es un éxito. Esperamos que más personas participen y usen BTE.",
+    "fairDistributionText3": "Para que más gente conozca Bitweb, hemos pre - minado 2,58 millones de monedas para el desarrollo de la infraestructura.",
+    "fairDistributionText4": "Esto es solo alrededor del 3% de la oferta máxima, por lo que esperamos que Bitweb mejore en lugar de Bitcoin como moneda de pago encriptada.",
     "getStartedTitle": "Empezar",
     "collapsables": {
       "walletTitle": "Billetera",
-      "walletText1": "El <a href=\"/wallet\">Monedero bitweb</a> está disponible en las plataformas Windows, Mac OSX y Linux.",
+      "walletText1": "El <a href=\"/wallet\">Monedero bitweb</a> está disponible en las plataformas Windows, Mac OS X y Linux.",
       "walletText2": "Las experiencias de línea de comando también están disponibles.",
-      "walletText3": "Para comenzar, visite la página de descarga de Wallet y la guía de instalación.",
+      "walletText3": "Para comenzar, visite la página de descarga de Billetera y la guía de instalación.",
       "mineTitle": "Minar",
-      "mineText1": "Bitwebs utiliza el algoritmo yespower para la minería de pruebas de trabajo.Eso significa que cualquiera puede explotar bitwebs.",
+      "mineText1": "Bitweb utiliza el algoritmo YesPower para la minería de pruebas de trabajo. Eso significa que cualquiera puede explotar Bitweb.",
       "communityTitle": "Comunidad",
-      "communityText1": "Únete a nuestro <a href=\"https://community.bitwebcore.org/\">Foro</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>, para chatear con otros miembros de la comunidad bitweb y desarrolladores. "
+      "communityText1": "Únete a nuestro <a href=\"https://community.bitwebcore.org/\">Foro</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>, para chatear con otros miembros de la comunidad Bitweb y desarrolladores. "
     }
   },
   "notFoundPage": {
     "title": "404 - Página no encontrada",
-    "description": "Haga clic <a href=\"https://bitwebcore.org/\" style=\"color: white;\">aqui</a> para volver a la página principal."
+    "description": "Haga clic <a href=\"https://bitwebcore.org/\" style=\"color: white;\">aquí</a> para volver a la Página principal."
   }
 }
