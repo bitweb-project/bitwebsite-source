@@ -96,5 +96,12 @@
     "sourceURL": "https://quokasoft.com/",
     "text": "Welcome Quokasoft company join the Bitweb project development team. ",
     "price": 0.00
+  },
+  {
+    "date": "June 02, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://github.com/bitweb-project/bitweb/releases/tag/v0.21.1.2",
+    "text": "The wallet version was upgraded again to v0.21.1.2. Add new seeds , fix some typo , update gitrepo links , fix bip34, return fallbackfee.",
+    "price": 0.00
   }
 ]
