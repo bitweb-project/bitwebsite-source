@@ -92,6 +92,16 @@ function Foundation() {
                   bitwebcore@gmail.com
                 </a>
               </p>
+              <p>Mraksoll:
+                <a href="mailto:mraksoll4@gmail.com">
+                  mraksoll4@gmail.com
+                </a>
+              </p>
+              <p>Jcchain:
+                <a href="mailto:jcchain999@gmail.com">
+                  jcchain999@gmail.com
+                </a>
+              </p>
             </div>
           </div>
         </div>
