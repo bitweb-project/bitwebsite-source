@@ -13,6 +13,9 @@
         "blockExplorers": "ブロックチェーンブラウザ",
         "whitepaper": "白書"
       },
+      "project": {
+        "peercoinFoundation": "私たちに関しては"
+      },
       "wallet": {
         "title": "財布"
       },
@@ -29,6 +32,23 @@
         "telegram": "Telegram"
       }
     }
+  },
+  "footerComponent": {
+    "copyright": {
+      "copyright": "著作権 ©",
+      "rights": "Bitweb | すべての権利を留保する"
+    }
+  },
+  "foundationPage": {
+    "missionStatementTitle": "開発者",
+    "missionStatementText": "30 歳の Mraksoll は、ブロックチェーン技術をこよなく愛するプログラマーです。 彼はブロックチェーン開発で 7 年以上の経験があり、さまざまなコンピューター言語に精通しています。 彼は多くのブロックチェーン プロジェクトに参加しており、BitWeb プロジェクトのコア開発者です。 将来的には、DEFI、Lightning Network、その他のエコシステムの確立に大きく貢献します。",
+    "missionStatementText1": "23歳のJcchianは、ブロックチェーン技術が大好きなプログラマーです。 4 年の開発経験があり、JS、C++、HTML、Vue、PHP などのコンピューター言語に精通しています。 彼は他の分野の多くのプロジェクトに参加しており、BitWeb プロジェクトではマイナーな開発者でした。",
+    "missionStatementText2": "Quokasoft は、フロントエンド、バックエンド、デスクトップ、モバイル、およびその他の開発者のチームであり、主にソフトウェア開発サービスを提供しています。 Quokasoft について詳しく知る必要がある場合は、Web サイト https://quokasoft.com にアクセスしてください。 彼らは Bitweb プロジェクトを愛しているので、開発者チームに参加しました。 彼らは BitWeb エコシステムのソウルフルなチームです。",
+    "technicalSupportTitle": "サポート",
+    "technicalSupportText": "Bitweb に参加したい場合、または開発者をサポートしたい場合は、いくつかの選択肢があります。 Bitweb プロジェクトの開発者になることに興味がある場合は、bitwebcore@gamil.com にメールを送信してください。 プロジェクトの開発を支援するために Bitweb に BTE を寄付したい場合は、BTE の寄付を以下のアドレスに送信してください。 BTE の寄付が 100,000 を超える場合、パートナーに寄付をリストすることを選択できます。 メールでお問い合わせください。 BTE パートナーまたは投資家になりたい場合は、bitwebcore@gmail.com までメールでお問い合わせください。",
+    "generalFundPpcAddress": "<strong>BTE</strong> Donation Address:",
+    "contactUsTitle": "お問い合わせ",
+    "partnerTitle": "投資機関・パートナー"
   },
   "resourcesPage": {
     "title": "リソース",

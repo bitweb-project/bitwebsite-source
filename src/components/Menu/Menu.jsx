@@ -97,7 +97,7 @@ function Menu() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/Jcchain2" className="submenu">
+                  <a href="https://twitter.com/BitwebBTE" className="submenu">
                     <img src="/img/icons/twitter_green.png" alt="" />
                     {t("menuComponent.links.community.twitter")}
                   </a>
@@ -133,6 +133,11 @@ function Menu() {
                   </a>
                 </li>
               </ul>
+            </li>
+            <li>
+                <Link to="/foundation">
+                  {t("menuComponent.links.project.peercoinFoundation")}
+                </Link>
             </li>
             <li>
               <span>

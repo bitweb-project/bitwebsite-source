@@ -13,6 +13,9 @@
         "blockExplorers": "区块链浏览器",
         "whitepaper": "白皮书"
       },
+      "project": {
+        "peercoinFoundation": "关于我们"
+      },
       "wallet": {
         "title": "钱包"
       },
@@ -29,6 +32,23 @@
         "telegram": "Telegram"
       }
     }
+  },
+  "footerComponent": {
+    "copyright": {
+      "copyright": "版权 ©",
+      "rights": "比特网  |  保留所有权利"
+    }
+  },
+  "foundationPage": {
+    "missionStatementTitle": "开发者",
+    "missionStatementText": "Mraksoll, 30岁，是一个非常喜欢区块链技术的程序员。他有超过7年区块链开发经验，熟悉各种计算机语言。他参与了许多区块链项目，是BitWeb项目的核心开发者。未来，他将为DEFI、Lightning Network等生态系统的建立做出巨大贡献。",
+    "missionStatementText1": "23岁的Jcchian是一名热爱区块链技术的程序员。4年的开发经验，熟悉JS、c++、HTML、Vue、PHP等计算机语言。他参与过很多其他领域的项目，在BitWeb项目中他更像是一个小开发者。",
+    "missionStatementText2": "Quokasoft是由前端、后端、桌面、移动等开发人员组成的团队，主要提供软件开发服务。如果你想了解更多关于Quokasoft的信息，请访问他们的网站https://quokasoft.com。他们加入开发团队是因为他们热爱Bitweb项目。他们是BitWeb生态系统中一个充满深情的团队。",
+    "technicalSupportTitle": "支持",
+    "technicalSupportText": "如果你想加入Bitweb，或者想支持开发者，这里有几个选项。如果你有兴趣成为Bitweb项目的开发者，请发送电子邮件到bitwebcore@gamil.com。如果您想向Bitweb捐赠BTE以支持项目的发展，请将您的BTE捐赠发送到以下地址。如果您的BTE捐赠超过10万，您可以选择在合作伙伴中列出您的捐赠。请邮件我们。如果您想成为BTE的合作伙伴或投资者，请发送电子邮件至bitwebcore@gmail.com。",
+    "generalFundPpcAddress": "BTE Donation Address:",
+    "contactUsTitle": "联系我们",
+    "partnerTitle": "投资机构/合作伙伴"
   },
   "resourcesPage": {
     "title": "资源",

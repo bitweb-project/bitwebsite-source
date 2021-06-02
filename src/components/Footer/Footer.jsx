@@ -17,13 +17,14 @@ function Footer() {
             <div className="footer__twitter">
               <TwitterTimelineEmbed
                 sourceType="profile"
-                screenName="Jcchain2"
+                screenName="BitwebBTE"
                 options={{width: 365, height: 360}}
               />
             </div>
 			<img src="/img/table.png"  width="720" height="360" alt="" />
           </footer>
         </div>
+        <div className="footer-wrapper__copyright">{t('footerComponent.copyright.copyright')} {(new Date()).getFullYear()} {t('footerComponent.copyright.rights')}</div>
       </div>
     </div>
   );
