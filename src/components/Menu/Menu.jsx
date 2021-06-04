@@ -135,7 +135,7 @@ function Menu() {
               </ul>
             </li>
             <li>
-                <Link to="/foundation">
+                <Link to="/about">
                   {t("menuComponent.links.project.peercoinFoundation")}
                 </Link>
             </li>
