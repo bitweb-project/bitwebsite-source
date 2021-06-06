@@ -11,7 +11,8 @@
         "title": "资源",
         "exchanges": "交易所",
         "blockExplorers": "区块链浏览器",
-        "whitepaper": "白皮书"
+        "whitepaper": "白皮书",
+        "graphics": "图形"
       },
       "project": {
         "peercoinFoundation": "关于我们"
@@ -21,15 +22,6 @@
       },
       "roadmap": {
         "title": "路线图"
-      },
-      "community": {
-        "title": "社区",
-        "forum": "论坛",
-        "twitter": "Twitter",
-        "discord": "Discord",
-        "github": "Github",
-        "bitcointalk": "Bitcointalk",
-        "telegram": "Telegram"
       }
     }
   },
@@ -52,15 +44,22 @@
   },
   "resourcesPage": {
     "title": "资源",
-    "description": "工具和社区资源:包括交换，块探索者和更多!",
+    "description": "工具和社区资源:包括交换，块探索者，图形，社会媒体，论坛，聊天和更多!",
     "actions": {
       "action1": "交易所",
       "action2": "区块浏览器",
-      "action4": "白皮书"
+      "action3": "社区",
+      "action4": "白皮书",
+      "action5": "图形",
+      "action6": "合作伙伴",
+      "action7": "申请列出"
     },
     "exchangesTitle": "交易所",
     "exchangesType1": "交易所",
     "explorersTitle": "区块链浏览器",
+    "Unofficialcommunity": "非官方社区",
+    "communityTitle": "社区",
+    "graphicsTitle": "图形",
     "whitepaperTitle": "白皮书",
     "whitepaperEnglish": "英文"
   },

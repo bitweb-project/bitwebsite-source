@@ -106,55 +106,6 @@ function Foundation() {
           </div>
         </div>
       </div>
-      <div className="main">
-	  <div className="anchor"></div>
-	    <div className="container">
-		<h2 className="title title--green">
-		  {t("foundationPage.partnerTitle")}
-		</h2>
-	    <div className="blocks-list">
-            <a
-              href="https://scalaris.info/"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                Scalaris Project - partner
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/partner/sla.png"
-                alt=""
-              />
-            </a>
-            <a
-              href="https://widecoin.org/"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                Widecoin Project - partner
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/partner/wcn.png"
-                alt=""
-              />
-            </a>
-            <a
-              href="https://miningpoolstats.stream/bitweb"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                Mining pool stats - partner
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/partner/miningpools.jpg"
-                alt=""
-              />
-            </a>
-	  </div>
-      </div>
-    </div>
       <Footer />
     </>
   );

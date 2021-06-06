@@ -11,7 +11,8 @@
         "title": "Resources",
         "exchanges": "Exchanges",
         "blockExplorers": "Block Explorers",
-        "whitepaper": "Whitepaper"
+        "whitepaper": "Whitepaper",
+        "graphics": "Graphics"
       },
       "project": {
         "peercoinFoundation": "About us"
@@ -21,15 +22,6 @@
       },
       "roadmap": {
         "title": "Roadmap"
-      },
-      "community": {
-        "title": "Community",
-        "forum": "Forum",
-        "twitter": "Twitter",
-        "discord": "Discord",
-        "github": "Github",
-        "bitcointalk": "Bitcointalk",
-        "telegram": "Telegram"
       }
     }
   },
@@ -52,15 +44,22 @@
   },
   "resourcesPage": {
     "title": "Resources",
-    "description": "Tools and community resources: including exchanges, block explorers and more!",
+    "description": "Tools and community resources: including exchanges, block explorers, graphics, social media, forums, chats and more!",
     "actions": {
       "action1": "Exchanges",
       "action2": "Block Explorers",
-      "action4": "Whitepaper"
+      "action3": "Community",
+      "action4": "Whitepaper",
+      "action5": "Graphics",
+      "action6": "Partners",
+      "action7": "Application List"
     },
     "exchangesTitle": "Exchanges",
     "exchangesType1": "Exchange",
     "explorersTitle": "Explorer",
+    "Unofficialcommunity": "Unofficial community",
+    "graphicsTitle": "Graphics",
+    "communityTitle": "Community",
     "whitepaperTitle": "Whitepaper",
     "whitepaperEnglish": "English"
   },

@@ -11,7 +11,8 @@
         "title": "Ресурсы",
         "exchanges": "Биржи",
         "blockExplorers": "Обозреватель Блоков",
-        "whitepaper": "Белая Бумага"
+        "whitepaper": "Белая Бумага",
+        "graphics": "Графика"
       },
       "project": {
         "peercoinFoundation": "О нас"
@@ -21,15 +22,6 @@
       },
       "roadmap": {
         "title": "маршрутная карта"
-      },
-      "community": {
-        "title": "Сообщество",
-        "forum": "Форум",
-        "twitter": "Twitter",
-        "discord": "Discord",
-        "github": "Github",
-        "bitcointalk": "Bitcointalk",
-        "telegram": "Telegram"
       }
     }
   },
@@ -56,11 +48,18 @@
     "actions": {
       "action1": "Биржи",
       "action2": "Обозреватель блоков",
-      "action4": "Белая Бумага"
+      "action3": "Сообщество",
+      "action4": "Белая Бумага",
+      "action5": "Графика",
+      "action6": "Партнеры",
+      "action7": "список заявок"
     },
     "exchangesTitle": "Биржи",
     "exchangesType1": "Биржи",
     "explorersTitle": "Обозреватель блоков",
+    "Unofficialcommunity": "Неофициальное сообщество",
+    "graphicsTitle": "Графика",
+    "communityTitle": "Сообщество",
     "whitepaperTitle": "Белая Бумага",
     "whitepaperEnglish": "Английский"
   },

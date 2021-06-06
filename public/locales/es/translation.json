@@ -11,7 +11,8 @@
         "title": "Recursos",
         "exchanges": "Exchanges",
         "blockExplorers": "Exploradores de bloques",
-        "whitepaper": "Whitepaper"
+        "whitepaper": "Whitepaper",
+        "graphics": "Gráficos"
       },
       "project": {
         "peercoinFoundation": "Sobre nosotros"
@@ -21,15 +22,6 @@
       },
       "roadmap": {
         "title": "Hoja de ruta"
-      },
-      "community": {
-        "title": "Comunidad",
-        "forum": "Foro",
-        "twitter": "Twitter",
-        "discord": "Discord",
-        "github": "Github",
-        "bitcointalk": "Bitcointalk",
-        "telegram": "Telegram"
       }
     }
   },
@@ -52,15 +44,22 @@
   },
   "resourcesPage": {
     "title": "Recursos",
-    "description": "Herramientas y recursos de la Comunidad: incluidos exchanges, exploradores de bloques, gráficos, redes sociales, foros, chats y más.",
+    "description": "Herramientas y recursos comunitarios: incluidos intercambios, exploradores de bloques, gráficos, redes sociales, foros, chats y más.",
     "actions": {
       "action1": "Exchanges",
       "action2": "Exploradores de bloques",
-      "action4": "Whitepaper"
+      "action3": "Comunidad",
+      "action4": "Whitepaper",
+      "action5": "Gráficos",
+      "action6": "socios",
+      "action7": "Lista de solicitudes"
     },
     "exchangesTitle": "Exchanges",
     "exchangesType1": "Exchanges",
     "explorersTitle": "Exploradores de bloques",
+    "Unofficialcommunity": "Comunidad no oficial",
+    "graphicsTitle": "Gráficos",
+    "communityTitle": "Comunidad",
     "whitepaperTitle": "Whitepaper",
     "whitepaperEnglish": "English"
   },

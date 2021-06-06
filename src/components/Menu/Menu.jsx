@@ -87,54 +87,6 @@ function Menu() {
               </Link>
             </li>
             <li>
-              <span>{t("menuComponent.links.community.title")}</span>
-              <img src="/img/icon-menu-arrow-down.svg" alt="" />
-              <ul className="menu__main__submenu">
-                <li>
-                  <a href="https://community.bitwebcore.org/" className="submenu">
-                    <img src="/img/icons/forum_green.png" alt="" />
-                    {t("menuComponent.links.community.forum")}
-                  </a>
-                </li>
-                <li>
-                  <a href="https://twitter.com/BitwebBTE" className="submenu">
-                    <img src="/img/icons/twitter_green.png" alt="" />
-                    {t("menuComponent.links.community.twitter")}
-                  </a>
-                </li>
-                <li>
-                  <a href="https://discord.gg/jQdttwgsJa" className="submenu">
-                    <img src="/img/icons/discord_green.png" alt="" />
-                    {t("menuComponent.links.community.discord")}
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://github.com/bitweb-project"
-                    className="submenu"
-                  >
-                    <img src="/img/icons/github_green.png" alt="" />
-                    {t("menuComponent.links.community.github")}
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://bitcointalk.org/index.php?topic=5338488.0"
-                    className="submenu"
-                  >
-                    <img src="/img/icons/bitcoinchat_green.png" alt="" />
-                    {t("menuComponent.links.community.bitcointalk")}
-                  </a>
-                </li>
-                <li>
-                  <a href="https://t.me/bitweb" className="submenu">
-                    <img src="/img/icons/telegram_green.png" alt="" />
-                    {t("menuComponent.links.community.telegram")}
-                  </a>
-                </li>
-              </ul>
-            </li>
-            <li>
                 <Link to="/about">
                   {t("menuComponent.links.project.peercoinFoundation")}
                 </Link>

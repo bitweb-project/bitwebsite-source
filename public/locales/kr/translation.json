@@ -11,7 +11,8 @@
         "title": "리소스",
         "exchanges": "거래소",
         "blockExplorers": "블록 익스플로러",
-        "whitepaper": "백서"
+        "whitepaper": "백서",
+        "graphics": "그래픽"
       },
       "project": {
         "peercoinFoundation": "우리에 대해"
@@ -21,15 +22,6 @@
       },
       "roadmap": {
         "title": "노선 도"
-      },
-      "community": {
-        "title": "커뮤니티",
-        "forum": "포럼",
-        "twitter": "Twitter",
-        "discord": "Discord",
-        "github": "Github",
-        "bitcointalk": "Bitcointalk",
-        "telegram": "Telegram"
       }
     }
   },
@@ -52,11 +44,15 @@
   },
   "resourcesPage": {
     "title": "리소스",
-    "description": "도구와 커뮤니티 자원: 거래소, 블록 탐색기있습니다!",
+    "description": "도구와 커뮤니티 자원: 거래소, 블록 탐색기, 그래픽, 소셜 미디어, 포럼, 채팅 등을 포함하고 있습니다!",
     "actions": {
       "action1": "거래소",
       "action2": "블록 탐색기",
-      "action4": "백서"
+      "action3": "커뮤니티",
+      "action4": "백서",
+      "action5": "그래픽",
+      "action6": "파트너",
+      "action7": "신청 목록"
     },
   "RoadmapPage": {
     "title": "노선 도",
@@ -65,6 +61,9 @@
     "exchangesTitle": "거래소",
     "exchangesType1": "거래소",
     "explorersTitle": "블록 탐색기",
+    "graphicsTitle": "그래픽",
+    "Unofficialcommunity": "비공식 커뮤니티",
+    "communityTitle": "커뮤니티",
     "whitepaperTitle": "백서",
     "whitepaperEnglish": "English"
   },

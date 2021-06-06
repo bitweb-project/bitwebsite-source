@@ -11,7 +11,8 @@
         "title": "リソース",
         "exchanges": "市場",
         "blockExplorers": "ブロックチェーンブラウザ",
-        "whitepaper": "白書"
+        "whitepaper": "白書",
+        "graphics": "図"
       },
       "project": {
         "peercoinFoundation": "私たちに関しては"
@@ -21,15 +22,6 @@
       },
       "roadmap": {
         "title": "路線図"
-      },
-      "community": {
-        "title": "コミュニティ",
-        "forum": "フォーラム",
-        "twitter": "Twitter",
-        "discord": "Discord",
-        "github": "Github",
-        "bitcointalk": "Bitcointalk",
-        "telegram": "Telegram"
       }
     }
   },
@@ -52,15 +44,22 @@
   },
   "resourcesPage": {
     "title": "リソース",
-    "description": "ツールとコミュニティの資源：交換を含みます。",
+    "description": "ツールとコミュニティの資源：交換を含んで、ブロックの探求者、図形、社会のメディア、フォーラム、チャットともっと多いです。",
     "actions": {
       "action1": "市場",
       "action2": "ブロックブラウザ",
-      "action4": "白書"
+      "action3": "コミュニティ",
+      "action4": "白書",
+      "action5": "図",
+      "action6": "パートナー",
+      "action7": "申請のリスト"
     },
     "exchangesTitle": "市場",
     "exchangesType1": "市場",
     "explorersTitle": "ブロックブラウザ",
+    "communityTitle": "コミュニティ",
+    "graphicsTitle": "図",
+    "Unofficialcommunity": "非公式コミュニティ",
     "whitepaperTitle": "白書",
     "whitepaperEnglish": "英語"
   },

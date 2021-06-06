@@ -103,5 +103,12 @@
     "sourceURL": "https://github.com/bitweb-project/bitweb/releases/tag/v0.21.1.2",
     "text": "The wallet version was upgraded again to v0.21.1.2. Add new seeds , fix some typo , update gitrepo links , fix bip34, return fallbackfee.",
     "price": 0.00
+  },
+  {
+    "date": "June 06, 2021",
+    "author": "Mraksoll and Jcchian",
+    "sourceURL": "https://discord.gg/9hVt7XHmA6",
+    "text": "Discord tip-bot development completed,Can directly generate addresses, check balances, and send transactions. The official website is updated again.",
+    "price": 0.00
   }
 ]

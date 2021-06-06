@@ -129,7 +129,7 @@ function Wallet() {
                 open={cs1}
                 trigger={
                   <div className="timeline__body__section">
-		  <img src="/img/electrum/electrum.png" alt="" height="50"/>
+		  <img src="/img/electrum/electrum.png" alt="" height="30"/>
                     {t("walletPage.installationTitle")}
                   </div>
                 }
