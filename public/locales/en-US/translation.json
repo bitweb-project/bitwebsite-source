@@ -116,8 +116,9 @@
     "paperWalletSubtitle1": "Paper Wallet",
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
     "type1": "Hardware Wallet",
-    "type2": "Mobile/Web Wallet",
-    "type3": "Web Wallet"
+    "type2": "Api Server",
+    "type3": "Web Wallet",
+    "type4": "Mobile Wallet"
   },
   "indexPage": {
     "title1": "Bitweb",

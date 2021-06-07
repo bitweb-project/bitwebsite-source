@@ -113,11 +113,12 @@
       "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
     },
     "paperWalletTitle": "다른 지갑",
-    "paperWalletSubtitle1": "종이 클립",
+    "paperWalletSubtitle1": "종이 지갑",
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
-    "type1": "Hardware Wallet",
-    "type2": "Mobile/Web Wallet",
-    "type3": "Web Wallet"
+    "type1": "하드웨어 지갑",
+    "type2": "Api Server",
+    "type3": "웹 지갑",
+    "type4": "모바일"
   },
   "indexPage": {
     "title1": "Bitweb",

@@ -116,7 +116,7 @@
     "paperWalletSubtitle1": "纸钱包",
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
     "type1": "硬件钱包",
-    "type2": "移动/ Web的钱包",
+    "type2": "Api Server",
     "type3": "网络钱包"
   },
   "indexPage": {

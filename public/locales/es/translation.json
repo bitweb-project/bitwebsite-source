@@ -115,9 +115,10 @@
     "paperWalletTitle": "Otras Billeteras",
     "paperWalletSubtitle1": "Billetera de papel",
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
-    "type1": "Billetera Física",
-    "type2": "Billetera Móvil/Web",
-    "type3": "Billetera Web"
+    "type1": "Cartera de hardware3",
+    "type2": "Api Server",
+    "type3": "Billetera Web",
+    "type4": "Movil"
   },
   "indexPage": {
     "title1": "Bitweb",

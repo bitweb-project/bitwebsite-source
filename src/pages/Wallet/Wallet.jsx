@@ -75,7 +75,7 @@ function Wallet() {
             {t("walletPage.actions.action1")}
           </a>
           <a
-            href="#paperwallet"
+            href="#otherwallet"
             className="hero__actions__action hero__actions__action--white"
           >
             {t("walletPage.actions.action2")}
@@ -259,12 +259,25 @@ function Wallet() {
         </div>
       </div>
       <div className="main">
-        <div className="anchor" data-id="paperwallet"></div>
+        <div className="anchor" data-id="otherwallet"></div>
         <div className="container">
           <h2 className="title title--green">
             {t("walletPage.paperWalletTitle")}
           </h2>
           <div className="blocks-list">
+            <a
+              href="https://webwallet.bitwebcore.org/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                {t("walletPage.type3")}
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/wallets/webwallet.png"
+                alt=""
+              />
+            </a>
             <a
               href="https://paperwallet.bitwebcore.org/"
               className="blocks-list__block"
@@ -274,7 +287,20 @@ function Wallet() {
               </h4>
               <img
                 className="blocks-list__block__img"
-                src="/img/explorers/bitwebexp.png"
+                src="/img/wallets/paperwallet.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://api.bitwebcore.org/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                {t("walletPage.type2")}
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/wallets/apiserver.png"
                 alt=""
               />
             </a>
