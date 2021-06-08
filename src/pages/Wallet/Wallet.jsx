@@ -279,6 +279,19 @@ function Wallet() {
               />
             </a>
             <a
+              href="https://discord.gg/9hVt7XHmA6"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Discord Wallet
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/wallets/discordwallet.png"
+                alt=""
+              />
+            </a>
+            <a
               href="https://paperwallet.bitwebcore.org/"
               className="blocks-list__block"
             >
