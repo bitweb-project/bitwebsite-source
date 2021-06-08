@@ -328,6 +328,19 @@ function Resources() {
               />
             </a>
             <a
+              href="https://cointomine.today/calculator/coin/BTE/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Coin To Mine - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/cointomine.png"
+                alt=""
+              />
+            </a>
+            <a
               href="https://t.me/jcchain2"
               className="blocks-list__block"
             >
