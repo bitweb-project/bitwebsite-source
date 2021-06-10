@@ -55,6 +55,7 @@
       "action7": "申请列出"
     },
     "exchangesTitle": "交易所",
+    "exchangesText": "免责声明:在bitweb列出之前，不要相信任何人，如果您丢失了BTE，我们将不承担任何责任。",
     "exchangesType1": "交易所",
     "explorersTitle": "区块链浏览器",
     "Unofficialcommunity": "非官方社区",
@@ -132,7 +133,7 @@
     "userGovernanceText2": "它为bitweb提供了事务处理能力。有了segwit隔离见证，它的区块可能永远不会达到100M。它交易手续费更低。",
     "userGovernanceText3": "Bitweb的每个区块时间为60秒，因此它的交易速度非常快，是比特币的10倍。",
     "trustlessTitle": "工作量证明",
-    "trustlessText1": "Bitweb使用yespwer算法，这种算法仅仅支持CPU进行运算，降低了每个人的参与成本，可以让更多人参与并且使用BTE。",
+    "trustlessText1": "Bitweb使用yespower算法，这种算法仅仅支持CPU进行运算，降低了每个人的参与成本，可以让更多人参与并且使用BTE。",
     "trustlessText2": " 能源消耗它是更低的，矿工参与采矿可以获得奖励，每个区块奖励50枚BTE硬币。",
     "trustlessText3": " Bitweb使用了LWMA难度调整，每84万个区块产量减半。",
     "fairDistributionTitle": "价值储存",

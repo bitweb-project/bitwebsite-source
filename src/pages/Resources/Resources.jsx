@@ -61,6 +61,7 @@ function Resources() {
           <h2 className="title title--green">
             {t("resourcesPage.exchangesTitle")}
           </h2>
+          <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
 
           </div>
@@ -155,67 +156,6 @@ function Resources() {
               />
             </a>
           </div>
-          <h2 className="title title--green">
-          
-          </h2>
-          <h3 className="title title--green">
-            {t("resourcesPage.Unofficialcommunity")}
-          </h3>
-          <div className="blocks-list">
-            <a
-              href="https://t.me/joinchat/4JkrqqwgrfQ0YzNl"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">Thailand Group 1</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/Thailand-tg.png"
-                alt=""
-              />
-            </a>
-            <a
-              href="https://im.qq.com/"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">China Group 1</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/China-qq.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                Group 728874097
-              </div>
-            </a>
-            <a
-              href="https://weixin.qq.com/"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">China Group 2</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/China-wechat.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                ID BTE1319
-              </div>
-            </a>
-            <a
-              href="https://t.me/jcchain2"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">Add Group</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/addgroup.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                Contact us
-              </div>
-            </a>
-          </div>
         </div>
       </div>
 
@@ -276,6 +216,34 @@ function Resources() {
               </a>
               <a href="/img/logos/png/bitweb1024px.png">
                 <span>1024px.png</span>
+              </a>
+            </div>
+            <div className="blocks-list__block">
+              <img
+                className="blocks-list__block__img"
+                src="/img/logos/svg/bitweb256px.svg"
+                alt=""
+              />
+              <a href="/img/logos/svg/bitweb16px.svg">
+                <span>16px.svg</span>
+              </a>
+              <a href="/img/logos/svg/bitweb32px.svg">
+                <span>32px.svg</span>
+              </a>
+              <a href="/img/logos/svg/bitweb64px.svg">
+                <span>64px.svg</span>
+              </a>
+              <a href="/img/logos/svg/bitweb128px.svg">
+                <span>128px.svg</span>
+              </a>
+              <a href="/img/logos/svg/bitweb256px.svg">
+                <span>256px.svg</span>
+              </a>
+              <a href="/img/logos/svg/bitweb512px.svg">
+                <span>512px.svg</span>
+              </a>
+              <a href="/img/logos/svg/bitweb1024px.svg">
+                <span>1024px.svg</span>
               </a>
             </div>
           </div>
