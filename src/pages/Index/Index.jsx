@@ -124,8 +124,6 @@ function Index() {
           </div>
         </div>
       </div>
-      <div className="main">
-      </div>
     </div>
     <Footer />
     </>

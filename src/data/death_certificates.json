@@ -117,5 +117,12 @@
     "sourceURL": "https://webwallet.bitwebcore.org/",
     "text": "The development of webwallet and API server is completed. Webwallet logs in by email. It can view the balance, send BTE, receive BTE, and support multiple languages.",
     "price": 0.00
+  },
+  {
+    "date": "June 12, 2021",
+    "author": "Jcchain",
+    "sourceURL": "https://bitwebcore.org/",
+    "text": "The official website was updated, new icons were added, partners were added, and French translation was added.",
+    "price": 0.00
   }
 ]

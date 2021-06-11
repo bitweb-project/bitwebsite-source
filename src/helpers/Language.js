@@ -6,6 +6,7 @@ export function getAvailableLanguages() {
     'pt-BR',
     'cn',
     'es',
+    'fr',
     'kr',
     'ru',
     'jp'

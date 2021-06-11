@@ -63,7 +63,20 @@ function Resources() {
           </h2>
           <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
-
+            <a
+              href="https://t.me/jcchain2"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">Add Exchanges</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/addgroup.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                Contact us
+              </div>
+            </a>
           </div>
         </div>
       </div>
@@ -305,6 +318,19 @@ function Resources() {
               <img
                 className="blocks-list__block__img"
                 src="/img/partner/cointomine.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://bitcourier.co.uk/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                BitCourier Media - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/bitcour.png"
                 alt=""
               />
             </a>

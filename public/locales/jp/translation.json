@@ -134,7 +134,7 @@
     "userGovernanceText2": "これはbitwebのための事務処理能力を提供しています。segwitの隔離の証明があって、そのブロックは永遠に100 Mに達することができないかもしれません。それは取引手数料がもっと低いです。",
     "userGovernanceText3": "Bitwebの各ブロック時間は60秒であるため、ビットコインの10倍の取引速度が非常に速い。",
     "trustlessTitle": "作業量証明",
-    "trustlessText1": "Bitwebはyespwerアルゴリズムを使用しており、このアルゴリズムはCPUの演算のみをサポートし、一人当たりの参加コストを低減し、より多くの人が参加し、BTEを使用することができる。",
+    "trustlessText1": "Bitwebはyespowerアルゴリズムを使用しており、このアルゴリズムはCPUの演算のみをサポートし、一人当たりの参加コストを低減し、より多くの人が参加し、BTEを使用することができる。",
     "trustlessText2": " エネルギー消費は、より低いですが、鉱山労働者の参加は、各ブロックに50枚のBTE硬貨を奨励することができます。",
     "trustlessText3": " BitwebはLWMAを使用しており、84万ブロック当たりの生産量は半減しています。",
     "fairDistributionTitle": "価値の蓄え",

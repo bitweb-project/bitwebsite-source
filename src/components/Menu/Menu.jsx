@@ -114,6 +114,9 @@ function Menu() {
                 <li onClick={() => i18n.changeLanguage("es")}>
                   <img className="menu-flag" src="img/flags/ES.svg" alt="es" />
                 </li>
+                <li onClick={() => i18n.changeLanguage("fr")}>
+                  <img className="menu-flag" src="img/flags/FR.svg" alt="fr" />
+                </li>
                 <li onClick={() => i18n.changeLanguage("kr")}>
                   <img className="menu-flag" src="img/flags/KR.svg" alt="kr" />
                 </li>
