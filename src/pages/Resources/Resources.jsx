@@ -335,6 +335,19 @@ function Resources() {
               />
             </a>
             <a
+              href="https://www.trustpilot.com/review/bitwebcore.org"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Trustpilot - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/trustpilot.png"
+                alt=""
+              />
+            </a>
+            <a
               href="https://t.me/jcchain2"
               className="blocks-list__block"
             >
