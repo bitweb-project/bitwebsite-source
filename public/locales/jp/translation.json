@@ -20,6 +20,9 @@
       "wallet": {
         "title": "財布"
       },
+      "ecology": {
+        "title": "生態系"
+      },
       "roadmap": {
         "title": "路線図"
       }
@@ -41,6 +44,15 @@
     "generalFundPpcAddress": "<strong>BTE</strong> Donation Address:",
     "contactUsTitle": "お問い合わせ",
     "partnerTitle": "投資機関・パートナー"
+  },
+  "ecologyPage": {
+    "title": "生態系",
+    "description": "Bitwebを使用して構築されたエコシステム",
+    "actions": {
+      "action1": "支払う",
+      "action2": "ゲーム",
+      "action3": "その他"
+    }
   },
   "resourcesPage": {
     "title": "リソース",

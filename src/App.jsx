@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./style/main.scss";
 import Index from "./pages/Index/Index.jsx";
 import Resources from "./pages/Resources/Resources.jsx";
+import Ecology from "./pages/Ecology/Ecology";
 import About from "./pages/About/About";
 import Wallet from "./pages/Wallet/Wallet";
 import Roadmap from "./pages/Roadmap/Roadmap";
@@ -22,6 +23,7 @@ function App() {
         <Switch>
           <Route exact path="/" component={Index} />
           <Route path="/resources" component={Resources} />
+          <Route path="/ecology" component={Ecology} />
           <Route path="/about" component={About} />
           <Route path="/wallet" component={Wallet} />
           <Route path="/roadmap" component={Roadmap} />

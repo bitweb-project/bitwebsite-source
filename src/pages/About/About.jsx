@@ -5,7 +5,7 @@ import Menu from "../../components/Menu/Menu";
 import Footer from "../../components/Footer/Footer";
 import Loader from "../../components/Loader/Loader";
 
-function Foundation() {
+function About() {
   const { t } = useTranslation();
 
   return (
@@ -13,9 +13,9 @@ function Foundation() {
       <Menu />
       <div className="hero hero--thin">
         <img
-          src="/img/logo-foundation-white.png"
-          alt="Peercoin Foundation"
-          className="logo-foundation"
+          src="/img/logos/png/bitweb256px.png"
+          alt="About us"
+          className="logo-about"
         />
       </div>
 
@@ -114,7 +114,7 @@ function Foundation() {
 function HoF() {
   return (
     <Suspense fallback={<Loader open={true} />}>
-      <Foundation />
+      <About />
     </Suspense>
   );
 }

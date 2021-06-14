@@ -67,11 +67,6 @@ function Menu() {
               <Link to="/">{t("menuComponent.links.home.title")}</Link>
             </li>
             <li>
-              <a href="/#getstarted">
-                {t("menuComponent.links.getStarted.title")}
-              </a>
-            </li>
-            <li>
               <Link to="/resources">
                 {t("menuComponent.links.resources.title")}
               </Link>
@@ -79,6 +74,11 @@ function Menu() {
             <li>
               <Link to="/wallet">
                 <span>{t("menuComponent.links.wallet.title")}</span>
+              </Link>
+            </li>
+            <li>
+              <Link to="/ecology">
+                <span>{t("menuComponent.links.ecology.title")}</span>
               </Link>
             </li>
             <li>

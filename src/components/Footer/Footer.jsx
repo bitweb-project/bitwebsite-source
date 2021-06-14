@@ -14,14 +14,15 @@ function Footer() {
         <div className="footer-wrapper__white_bg"></div>
         <div className="container">
           <footer className="footer">
+	    <img src="/img/table.png"  width="720" height="360" alt="" />
             <div className="footer__twitter">
               <TwitterTimelineEmbed
                 sourceType="profile"
                 screenName="BitwebBTE"
-                options={{width: 365, height: 360}}
+                options={{width: 385, height: 360}}
               />
             </div>
-			<img src="/img/table.png"  width="720" height="360" alt="" />
+
           </footer>
         </div>
         <div className="footer-wrapper__copyright">{t('footerComponent.copyright.copyright')} {(new Date()).getFullYear()} {t('footerComponent.copyright.rights')}</div>

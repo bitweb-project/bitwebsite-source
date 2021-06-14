@@ -20,6 +20,9 @@
       "wallet": {
         "title": "Кошельки"
       },
+      "ecology": {
+        "title": "Экосистема"
+      },
       "roadmap": {
         "title": "маршрутная карта"
       }
@@ -41,6 +44,15 @@
     "generalFundPpcAddress": "<strong>BTE</strong> Donation Address:",
     "contactUsTitle": "Свяжитесь с нами",
     "partnerTitle": "Инвестиционные институты / Партнеры"
+  },
+  "ecologyPage": {
+    "title": "Экосистема",
+    "description": "Экосистема построена с использованием Bitweb",
+    "actions": {
+      "action1": "Платить",
+      "action2": "Игра",
+      "action3": "Другие"
+    }
   },
   "resourcesPage": {
     "title": "Ресурсы",

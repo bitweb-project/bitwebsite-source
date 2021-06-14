@@ -20,6 +20,9 @@
       "wallet": {
         "title": "지갑"
       },
+      "ecology": {
+        "title": "생태계"
+      },
       "roadmap": {
         "title": "노선 도"
       }
@@ -41,6 +44,15 @@
     "generalFundPpcAddress": "<strong>BTE</strong> Donation Address:",
     "contactUsTitle": "문의하기",
     "partnerTitle": "투자 기관 / 파트너"
+  },
+  "ecologyPage": {
+    "title": "생태계",
+    "description": "Bitweb을 사용하여 구축 된 생태계",
+    "actions": {
+      "action1": "지불",
+      "action2": "경기",
+      "action3": "기타"
+    }
   },
   "resourcesPage": {
     "title": "리소스",

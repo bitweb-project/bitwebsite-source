@@ -20,6 +20,9 @@
       "wallet": {
         "title": "钱包"
       },
+      "ecology": {
+        "title": "生态系统"
+      },
       "roadmap": {
         "title": "路线图"
       }
@@ -41,6 +44,15 @@
     "generalFundPpcAddress": "BTE Donation Address:",
     "contactUsTitle": "联系我们",
     "partnerTitle": "投资机构/合作伙伴"
+  },
+  "ecologyPage": {
+    "title": "生态系统",
+    "description": "使用Bitweb构建的生态系统",
+    "actions": {
+      "action1": "支付",
+      "action2": "游戏",
+      "action3": "其它"
+    }
   },
   "resourcesPage": {
     "title": "资源",

@@ -20,6 +20,9 @@
       "wallet": {
         "title": "Portefeuille"
       },
+      "ecology": {
+        "title": "Écosystème"
+      },
       "roadmap": {
         "title": "Feuille de route"
       }
@@ -41,6 +44,15 @@
     "generalFundPpcAddress": "<strong>BTE</strong> Adresse du don:",
     "contactUsTitle": "Nous contacter",
     "partnerTitle": "Institutions d'investissement/Partenaires"
+  },
+  "ecologyPage": {
+    "title": "Écosystème",
+    "description": "Écosystème construit avec Bitweb",
+    "actions": {
+      "action1": "Payer",
+      "action2": "Jeu",
+      "action3": "autres"
+    }
   },
   "resourcesPage": {
     "title": "Resources",
