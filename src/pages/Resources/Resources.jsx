@@ -158,6 +158,17 @@ function Resources() {
               />
             </a>
             <a
+              href="https://www.reddit.com/r/BitwebBTE"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">Reddit</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/reddit.png"
+                alt=""
+              />
+            </a>
+            <a
               href="https://github.com/bitweb-project"
               className="blocks-list__block"
             >
