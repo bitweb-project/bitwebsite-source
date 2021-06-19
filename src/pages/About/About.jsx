@@ -38,9 +38,7 @@ function About() {
               </h2>
               <p>{t("foundationPage.technicalSupportText")}</p>
               <p>
-                <Trans i18nKey="foundationPage.generalFundPpcAddress">
                   <strong>BTE</strong> Donation Address
-                </Trans>
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -48,6 +46,56 @@ function About() {
                 >
                   {" "}
                   web1q48wnxkm0xfz8jhkv0555m2pxqed39fglzs5gpl
+                </a>
+                <br />
+                  <strong>BTC</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://www.blockchain.com/ru/btc/address/bc1q2uq8qdys5n8s555tahqe0lfelvwqn45hpuz7ed"
+                >
+                  {" "}
+                  bc1q2uq8qdys5n8s555tahqe0lfelvwqn45hpuz7ed
+                </a>
+                <br />
+                  <strong>DOGE</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://blockchair.com/dogecoin/address/DCFbm2FgbVJe1vfk6pTBTz3jHjFZAV568E"
+                >
+                  {" "}
+                  DCFbm2FgbVJe1vfk6pTBTz3jHjFZAV568E
+                </a>
+                <br />
+                  <strong>ETH</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://etherscan.io/address/0x900cc73447606e2151f0fd89f908e5dd0ab2a744"
+                >
+                  {" "}
+                  0x900cc73447606E2151F0fD89F908e5dD0Ab2a744
+                </a>
+                <br />
+                  <strong>USDT ERC20</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://etherscan.io/address/0x900cc73447606e2151f0fd89f908e5dd0ab2a744"
+                >
+                  {" "}
+                  0x900cc73447606E2151F0fD89F908e5dD0Ab2a744
+                </a>
+                <br />
+                  <strong>BNB</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://bscscan.com/address/0x900cc73447606e2151f0fd89f908e5dd0ab2a744"
+                >
+                  {" "}
+                  0x900cc73447606E2151F0fD89F908e5dD0Ab2a744
                 </a>
               </p>
             </div>

@@ -130,8 +130,16 @@ function Resources() {
                 alt=""
               />
             </a>
+            <a href="https://t.me/bitweb_en" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">Telegram_English</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/tg.png"
+                alt=""
+              />
+            </a>
             <a href="https://t.me/bitweb" className="blocks-list__block">
-              <h4 className="blocks-list__block__title">Telegram</h4>
+              <h4 className="blocks-list__block__title">Telegram_Chinese</h4>
               <img
                 className="blocks-list__block__img"
                 src="/img/group/tg.png"
@@ -165,6 +173,17 @@ function Resources() {
               <img
                 className="blocks-list__block__img"
                 src="/img/group/reddit.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://www.youtube.com/channel/UCLZx6FcnBRGO-e9NLHTmtbw"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">YouTuBe</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/youtube.png"
                 alt=""
               />
             </a>
