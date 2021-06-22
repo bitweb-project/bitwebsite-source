@@ -111,6 +111,9 @@ function Menu() {
                 <li onClick={() => i18n.changeLanguage("cn")}>
                   <img className="menu-flag" src="img/flags/CN.svg" alt="cn" />
                 </li>
+                <li onClick={() => i18n.changeLanguage("de")}>
+                  <img className="menu-flag" src="img/flags/DE.svg" alt="de" />
+                </li>
                 <li onClick={() => i18n.changeLanguage("es")}>
                   <img className="menu-flag" src="img/flags/ES.svg" alt="es" />
                 </li>
@@ -128,6 +131,12 @@ function Menu() {
                 </li>
                 <li onClick={() => i18n.changeLanguage("ua")}>
                   <img className="menu-flag" src="img/flags/UA.svg" alt="ua" />
+                </li>
+                <li onClick={() => i18n.changeLanguage("pt")}>
+                  <img className="menu-flag" src="img/flags/PT.svg" alt="pt" />
+                </li>
+                <li onClick={() => i18n.changeLanguage("pl")}>
+                  <img className="menu-flag" src="img/flags/PL.svg" alt="pl" />
                 </li>
               </ul>
             </li>

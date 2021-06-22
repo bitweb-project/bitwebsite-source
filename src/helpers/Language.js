@@ -3,13 +3,15 @@ import i18n from 'i18next';
 export function getAvailableLanguages() {
   return [
     'en-US',
-    'pt-BR',
     'cn',
+    'de',
     'es',
     'fr',
     'kr',
     'ru',
     'ua',
+    'pt',
+    'pl',
     'jp'
   ];
 }

@@ -1,0 +1,176 @@
+{
+  "menuComponent": {
+    "links": {
+      "home": {
+        "title": "Página Inicial"
+      },
+      "getStarted": {
+        "title": "Comece"
+      },
+      "resources": {
+        "title": "Recursos",
+        "exchanges": "Intercâmbios",
+        "blockExplorers": "Explorar Blocos",
+        "whitepaper": "Whitepaper",
+        "graphics": "Gráficos"
+      },
+      "project": {
+        "peercoinFoundation": "Sobre nós"
+      },
+      "wallet": {
+        "title": "Carteira"
+      },
+      "ecology": {
+        "title": "Ecossistema"
+      },
+      "roadmap": {
+        "title": "Roteiro"
+      }
+    }
+  },
+  "footerComponent": {
+    "copyright": {
+      "copyright": "direito autoral ©",
+      "rights": "Bitweb | Todos os direitos reservados"
+    }
+  },
+  "latestNewsComp": {
+    "readMore": "Consulte Mais informação"
+  },
+  "foundationPage": {
+    "missionStatementTitle": "Desenvolvedores",
+    "missionStatementText": "Mraksoll, 30 anos, é um programador que adora tecnologia de blockchain. Ele tem mais de 7 anos de experiência no desenvolvimento de blockchain e está familiarizado com várias linguagens de computador. Ele participou de muitos projetos de blockchain e é o desenvolvedor principal do projeto Bitweb. No futuro, ele fará uma grande contribuição para o estabelecimento de DEFI, Lightning Network e outros ecossistemas.",
+    "missionStatementText1": "Jcchian, 23 anos, é um programador que adora tecnologia de cadeia de blocos. Com 4 anos de experiência em desenvolvimento, ele está familiarizado com JS, C ++, HTML, Vue, PHP e outras linguagens de computador. Ele participou de muitos projetos em outras áreas, ele foi mais um desenvolvedor secundário no projeto Bitweb.",
+    "missionStatementText2": "A Quokasoft é uma equipe de desenvolvedores front-end, back-end, desktop, mobile e outros, principalmente fornecendo serviços de desenvolvimento de software. Se você precisar saber mais sobre a Quokasoft, visite o site https://quokasoft.com. Eles se juntaram à equipe de desenvolvedores porque amam o projeto Bitweb. Eles são uma equipe comovente no ecossistema Bitweb.",
+    "technicalSupportTitle": "Apoiar",
+    "technicalSupportText": "Se você deseja participar do Bitweb, ou se deseja apoiar desenvolvedores, existem várias opções disponíveis. Se você estiver interessado em se tornar um desenvolvedor no projeto Bitweb, envie um e-mail para bitwebcore@gmail.com. Se você deseja doar BTE para a Bitweb para apoiar o desenvolvimento do projeto, basta enviar sua doação BTE para o endereço abaixo. Se sua doação BTE for superior a 100.000, você pode optar por listar sua contribuição entre os parceiros. Envie-nos um email. Se você deseja se tornar um parceiro BTE ou investidor, envie um e-mail para bitwebcore@gmail.com.",
+    "contactUsTitle": "Contate-Nos",
+    "partnerTitle": "Instituições de investimento / parceiros"
+  },
+  "ecologyPage": {
+    "title": "Ecossistema",
+    "description": "Ecossistema construído usando Bitweb",
+    "actions": {
+      "action1": "pagar",
+      "action2": "Jogo",
+      "action3": "Outros"
+    }
+  },
+  "resourcesPage": {
+    "title": "Recursos",
+    "description": "Ferramentas e recursos da comunidade: incluindo trocas, exploradores de blocos, gráficos, mídia social, fóruns, bate-papos e muito mais!",
+    "actions": {
+      "action1": "Intercâmbios",
+      "action2": "Exploração de Blocos",
+      "action3": "Comunidade",
+      "action4": "Papel branco",
+      "action5": "Gráficos",
+      "action6": "Sócios",
+      "action7": "Lista de Aplicativos"
+    },
+    "exchangesTitle": "Intercâmbio",
+    "exchangesText": "AVISO LEGAL: Antes da listagem do bitweb, não confie em ninguém, se você perder o BTE, não assumiremos qualquer responsabilidade.",
+    "exchangesType1": "Intercâmbio",
+    "explorersTitle": "Exploradores de Blocos",
+    "Unofficialcommunity": "Comunidade não oficial",
+    "graphicsTitle": "Gráficos",
+    "communityTitle": "Comunidade",
+    "whitepaperTitle": "Papel branco",
+    "whitepaperEnglish": "Inglês"
+  },
+  "RoadmapPage": {
+    "title": "Roteiro",
+    "description": "Rota de desenvolvimento de Bitweb, atualização de longo prazo"
+  },
+  "walletPage": {
+    "title": "Carteiras",
+    "description": "Envie, receba e armazene Peercoin. A carteira de ambiente de trabalho também permite o minting de blocos e assegurar a rede.",
+    "actions": {
+      "action1": "Electrum Bitweb Wallet",
+      "action2": "Outras carteiras",
+      "action4": "Carteiras"
+    },
+    "desktopWalletTitle": "Carteiras de Ambiente de Trabalho",
+    "walletWindows": "Windows",
+    "walletMac": "macOS",
+    "walletLinux": "Linux",
+    "walletAndroid": "Android(7.0 and higher)",
+    "walletPython": "Python (3.7.1 and higher)",
+    "installationTitle": "Electrum Bitweb Wallet",
+    "sectionWindows": {
+      "title1": "Executável autônomo",
+      "text1": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2.exe\">Standalone Executable</a>",
+      "title2": "Windows Installer",
+      "text2": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-setup.exe\">Windows Installer</a>",
+      "title3": "Portable version (security advice)",
+      "text3": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-portable.exe\">Portable version (security advice)</a>"
+    },
+    "sectionMac": {
+      "title1": "Executable for OS X",
+      "text1": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-4.1.2-2-ga9375a8a0.dmg\">Executable for OS X</a>"
+    },
+    "sectionLinux": {
+      "title1": "Appimage",
+      "text1": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-x86_64.AppImage\">Appimage</a>"
+    },
+    "sectionAndroid": {
+      "title1": "Android(8.0)-64bit",
+      "text1": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
+      "title2": "Android(7.0)-32bit arch",
+      "text2": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
+    },
+    "sectionPython": {
+      "title1": "Electrum-bitweb-4.1.2.tar.gz",
+      "text1": "Baixar <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/v4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "title2": "Linux installation from Python sources",
+      "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
+      "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
+      "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
+    },
+    "paperWalletTitle": "Outras carteiras",
+    "paperWalletSubtitle1": "Carteira de Papel",
+    "paperWalletSubtitle2": "ElectrumX-Bitweb",
+    "type1": "Carteira de Hardware",
+    "type2": "Api Server",
+    "type3": "Web Carteira",
+    "type4": "Carteira móvel"
+  },
+  "indexPage": {
+    "title1": "Bitweb",
+    "title": "Novo sistema de caixa eletrônico ponto a ponto",
+    "description": "A rede de pagamentos líder mundial, criptomoeda segura e eficiente.",
+    "efficientEnergyTitle": "Estabilidade de Segurança",
+    "efficientEnergyText1": "Bitweb é baseado em bitcoin e herda todas as características do sistema bitcoin --- segurança, estabilidade e eficiência.",
+    "efficientEnergyText2": "O suprimento da Bitweb é limitado, com um suprimento máximo de 84 milhões de moedas, não afetado pela inflação.",
+    "efficientEnergyText3": "Ele suporta endereços legados, p2sh segwit e bech32 para proteger a privacidade.",
+    "userGovernanceTitle": "Transação Rápida",
+    "userGovernanceText1": "No bitweb, o limite superior do bloco é 100 megabytes, que é 100 vezes o do bitcoin. Ao mesmo tempo, ele oferece suporte à testemunha de isolamento Segwit.",
+    "userGovernanceText2": "Ele fornece capacidade de transação para bitweb. Com a testemunha de isolamento segwit, ele nunca pode chegar a 100 megabytes. Taxas de transação mais baixas.",
+    "userGovernanceText3": "O tempo de cada bloco do Bitweb é de 60 segundos, então sua velocidade de transação é muito rápida, 10 vezes a do bitcoin.",
+    "trustlessTitle": "Prova de Trabalho",
+    "trustlessText1": "O Bitweb usa o algoritmo yespower, que suporta apenas computação de CPU, reduz o custo de participação de todos e permite que mais pessoas participem e usem BTE.",
+    "trustlessText2": "O consumo de energia é menor e os mineiros podem obter recompensas por participar da mineração, com 50 moedas BTE por bloco.",
+    "trustlessText3": "O Bitweb usa o ajuste de dificuldade LWMA para reduzir pela metade a produção por 840000 blocos.",
+    "fairDistributionTitle": "Armazenamento de valor",
+    "fairDistributionText1": "Uma criptomoeda eficaz tem uma distribuição justa e ampla o suficiente para garantir que todo o suprimento de moedas não fique concentrado nas mãos de muito poucas pessoas.",
+    "fairDistributionText2": "Bitweb é um sistema de dinheiro P2P baseado em bitcoin. Ele herda todos os recursos do bitcoin e faz melhorias e otimizações adicionais com base no bitcoin. O Bitweb foi bem-sucedido. Esperamos que mais pessoas participem e usem o BTE.",
+    "fairDistributionText3": "Para que mais pessoas conheçam o bitweb, extraímos 2,58 milhões de moedas antecipadamente para o desenvolvimento de infraestrutura.",
+    "fairDistributionText4": "Isso é apenas cerca de 3% do suprimento máximo, então queremos que o bitweb seja melhor e substitua o bitcoin como a criptomoeda para pagamento.",
+    "getStartedTitle": "Iniciar",
+    "collapsables": {
+      "walletTitle": "Carteira",
+      "walletText1": "A <a href=\"/wallet\"> carteira Bitweb </a> está disponível nas plataformas Windows, Mac OSX e Linux.",
+      "walletText2": "Experiências de linha de comando também estão disponíveis.",
+      "walletText3": "Para começar, verifique a página de download da Carteira e o guia de instalação.",
+      "mineTitle": "Meu",
+      "mineText1": "Bitweb usa o algoritmo Yespower para mineração de prova de trabalho. Isso significa que qualquer pessoa pode explorar o bitweb.",
+      "communityTitle": "Comunidade",
+      "communityText1": "Junte-se ao nosso <a href=\"https://community.bitwebcore.org/\"> Fórum </a>, <a href=\"https://discord.gg/jQdttwgsJa\"> Discord </a> para conversar com outros membros da comunidade bitweb e desenvolvedores."
+    },
+    "latestNewsTitle": "Últimas Notícias"
+  },
+  "notFoundPage": {
+    "title": "404 - Página não encontrada",
+    "description": "Clique <a href=\"https://bitwebcore.org/\" style=\"color: white;\"> aqui </a> para retornar à página inicial."
+  }
+}
