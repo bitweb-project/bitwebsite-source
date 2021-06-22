@@ -24,7 +24,7 @@
         "title": "Экосистема"
       },
       "roadmap": {
-        "title": "маршрутная карта"
+        "title": "Маршрутная Карта"
       }
     }
   },
@@ -40,7 +40,7 @@
     "missionStatementText1": "Jcchian, 23 года, программист, который любит технологию блокчейн. Имея 4-летний опыт разработки, он знаком с JS, C ++, HTML, Vue, PHP и другими компьютерными языками. Он участвовал во многих проектах в других областях. Он был скорее второстепенным разработчиком в проекте BitWeb.",
     "missionStatementText2": "Quokasoft - это команда разработчиков интерфейса, серверной части, настольных компьютеров, мобильных устройств и других разработчиков, которые в основном предоставляют услуги по разработке программного обеспечения. Если вам нужно узнать больше о Quokasoft, посетите их веб-сайт https://quokasoft.com. Они присоединились к команде разработчиков, потому что им нравится проект Bitweb. Это душевная команда в экосистеме BitWeb.",
     "technicalSupportTitle": "Служба поддержки",
-    "technicalSupportText": "Если вы хотите участвовать в Bitweb или поддерживать разработчиков, есть несколько вариантов. Если вы заинтересованы в том, чтобы стать разработчиком проекта Bitweb, отправьте электронное письмо по адресу bitwebcore@gamil.com. Если вы хотите пожертвовать BTE Bitweb для поддержки развития проекта, просто отправьте пожертвование BTE по указанному ниже адресу. Если ваше пожертвование BTE превышает 100000, вы можете указать свой взнос среди партнеров. Напишите нам. Если вы хотите стать партнером или инвестором BTE, напишите нам по адресу bitwebcore@gmail.com.",
+    "technicalSupportText": "Если вы хотите участвовать в Bitweb или поддерживать разработчиков, есть несколько вариантов. Если вы заинтересованы в том, чтобы стать разработчиком проекта Bitweb, отправьте электронное письмо по адресу bitwebcore@gmail.com. Если вы хотите пожертвовать BTE Bitweb для поддержки развития проекта, просто отправьте пожертвование BTE по указанному ниже адресу. Если ваше пожертвование BTE превышает 100000, вы можете указать свой взнос среди партнеров. Напишите нам. Если вы хотите стать партнером или инвестором BTE, напишите нам по адресу bitwebcore@gmail.com.",
     "contactUsTitle": "Свяжитесь с нами",
     "partnerTitle": "Инвестиционные институты / Партнеры"
   },
@@ -58,73 +58,73 @@
     "description": "Инструменты и ресурсы сообщества: в том числе обмен, обозреватель блоков, графики, социальные сети, форумы, чаты и т.д.",
     "actions": {
       "action1": "Биржи",
-      "action2": "Обозреватель блоков",
+      "action2": "Обозреватель Блоков",
       "action3": "Сообщество",
       "action4": "Белая Бумага",
       "action5": "Графика",
       "action6": "Партнеры",
-      "action7": "список заявок"
+      "action7": "Список Заявок"
     },
     "exchangesTitle": "Биржи",
     "exchangesText": "ВНИМАНИЕ: Перед листингом Bitweb никому не доверяйте, если вы потеряете BTE, мы не несем никакой ответственности.",
     "exchangesType1": "Биржи",
-    "explorersTitle": "Обозреватель блоков",
-    "Unofficialcommunity": "Неофициальное сообщество",
+    "explorersTitle": "Обозреватель Блоков",
+    "Unofficialcommunity": "Неофициальное Сообщество",
     "graphicsTitle": "Графика",
     "communityTitle": "Сообщество",
     "whitepaperTitle": "Белая Бумага",
     "whitepaperEnglish": "Английский"
   },
   "RoadmapPage": {
-    "title": "маршрутная карта",
-    "description": "Bitweb Development Road, долгосрочное обновление"
+    "title": "Маршрутная Карта",
+    "description": "Bitweb Путь разработки, долгосрочное обновление"
   },
   "walletPage": {
     "title": "Кошельки",
     "description": "Отправляйте, получайте и храните bitweb. Десктопный кошелек также позволяет создавать блоки и защищать нашу сеть.",
     "actions": {
       "action1": "Electrum Bitweb Wallet",
-      "action2": "другой кошелек",
+      "action2": "Другие Кошельки",
       "action4": "Кошельки"
     },
     "desktopWalletTitle": "Десктопные кошельки",
     "walletWindows": "Windows",
     "walletMac": "macOS",
     "walletLinux": "Linux",
-    "walletAndroid": "Android(7.0 and higher)",
-    "walletPython": "Python (3.7.1 and higher)",
+    "walletAndroid": "Android(7.0 и выше)",
+    "walletPython": "Python (3.7.1 и выше)",
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
-      "text1": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2.exe\">Standalone Executable</a>",
+      "text1": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2.exe\">Standalone Executable</a>",
       "title2": "Windows Installer",
-      "text2": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-setup.exe\">Windows Installer</a>",
+      "text2": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-setup.exe\">Windows Installer</a>",
       "title3": "Portable version (security advice)",
-      "text3": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-portable.exe\">Portable version (security advice)</a>"
+      "text3": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-portable.exe\">Portable version (security advice)</a>"
     },
     "sectionMac": {
       "title1": "Executable for OS X",
-      "text1": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-4.1.2-2-ga9375a8a0.dmg\">Executable for OS X</a>"
+      "text1": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-4.1.2-2-ga9375a8a0.dmg\">Executable for OS X</a>"
     },
     "sectionLinux": {
       "title1": "Appimage",
-      "text1": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-x86_64.AppImage\">Appimage</a>"
+      "text1": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-x86_64.AppImage\">Appimage</a>"
     },
     "sectionAndroid": {
       "title1": "Android(8.0)-64bit",
-      "text1": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
+      "text1": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
       "title2": "Android(7.0)-32bit arch",
-      "text2": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
+      "text2": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
     },
     "sectionPython": {
       "title1": "Electrum-bitweb-4.1.2.tar.gz",
-      "text1": "загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/v4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "text1": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/v4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
       "title2": "Linux installation from Python sources",
       "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
       "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
       "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
     },
-    "paperWalletTitle": "другой кошелек",
+    "paperWalletTitle": "Другие Кошельки",
     "paperWalletSubtitle1": "Бумажный Кошелек",
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
     "type1": "Hardware Wallet",
@@ -133,39 +133,39 @@
   },
   "indexPage": {
     "title1": "Bitweb",
-    "title": "Новая система точка - точка",
-    "description": "ведущие платёжные сети в мире, надежные и эффективные зашифрованные валюты.",
-    "efficientEnergyTitle": "безопасность и стабильность",
+    "title": "Новая система P2P",
+    "description": "Ведущие платёжные сети в мире, надежные и эффективные зашифрованные валюты.",
+    "efficientEnergyTitle": "Безопасность и стабильность.",
     "efficientEnergyText1": "Bitweb (BTE) основан на исходных кодах последний версии биткоина 0.21.1, унаследованных от всех характеристик системы биткоина - безопасность, стабильность и эффективность.",
-    "efficientEnergyText2": "битвеб имеет ограниченный выпуск монет, халвинг период 840 000. Максимальное количество монет доступных для майнинга 84 000 000, абсолютное количевство включая пре-майн 86.579,950.",
+    "efficientEnergyText2": "Bitweb имеет ограниченный выпуск монет, халвинг период 840 000. Максимальное количество монет доступных для майнинга 84 000 000, абсолютное количевство включая пре-майн 86.579,950.",
     "efficientEnergyText3": "Он поддерживает legacy, p2sh - segwit, besh32 три типа адресов, защищающих неприкосновенность частной жизни.",
-    "userGovernanceTitle": "быстрая торговля",
-    "userGovernanceText1": "в среднем районе битвеб максимальный размер блоков составляет 100 м, что в 100 раз больше, чем в пересчете на биты, и при этом обеспечивается защита свидетелей сегвита.",
-    "userGovernanceText2": "Он предоставляет битweb возможности для обработки данных.  после того, как сегуит изолировал свидетеля, его блок, возможно, никогда не достигнет 100 м.  Это меньше комиссионных.",
-    "userGovernanceText3": "Каждый участок в битвебе занимает 60 секунд, и поэтому он торгует очень быстро, в 10 раз больше, чем в битах.",
-    "trustlessTitle": "справка об объеме работы",
-    "trustlessText1": "Bitweb использует алгоритм yespower, который просто поддерживает операции процессора, снижает стоимость участия каждого человека, позволяет расширить участие и использовать BTE.",
-    "trustlessText2": "потребление энергии ниже, и горняки, участвующие в добыче полезных ископаемых, могут получить награду за 50 монет БТЭ в каждом блоке.",
-    "trustlessText3": "битеб использовала LWMA для корректировки объема производства в два раза на 840 000 блоков.",
-    "fairDistributionTitle": "хранение стоимости",
-    "fairDistributionText1": "эффективная зашифрованная валюта имеет достаточно широкое и справедливое распределение для обеспечения того, чтобы все поставки монет не были сосредоточены в руках очень немногих.",
+    "userGovernanceTitle": "Быстрая торговля",
+    "userGovernanceText1": "В среднем у Bitweb максимальный размер блоков составляет 100 м, что в 100 раз больше, чем у Bitcoin, и при этом обеспечивается защита путем поддержки Segwit.",
+    "userGovernanceText2": "Segwit предоставляет Bitweb возможности для обработки данных. благодоря Segwit, размер блока возможно никогда не достигнет 100 м. И также способствует более низкой комиссии за транзакцию.",
+    "userGovernanceText3": "Каждый блок в Bitweb создается каждые 60 секунд, и поэтому транзакции проходят очень быстро - время блока в 10 раз меньше чем в Bitcoin.",
+    "trustlessTitle": "Справка об объеме работы",
+    "trustlessText1": "Bitweb использует алгоритм yespower, который поддерживает операции процессора, снижает стоимость добычи и затраты энергии, позволяет расширить использовать BTE.",
+    "trustlessText2": "Потребление энергии ниже, и майнеры, участвующие в добыче, могут получить награду 50 монет BTE в каждом блоке.",
+    "trustlessText3": "В Bitweb для корректировки сложности использовала LWMA.",
+    "fairDistributionTitle": "Хранение стоимости",
+    "fairDistributionText1": "Эффективная криптовалюта имеет достаточно широкое и справедливое распределение для обеспечения того, чтобы вся генерация монет не была сосредоточена в малого круга лиц.",
     "fairDistributionText2": "Bitweb - это система p2p, разработанная на основе битовых денег.  унаследовали все особенности битов, были усовершенствованы и оптимизированы на основе оригинальных битов, Bitweb был успешным, и мы хотим, чтобы больше людей участвовали и использовали BTE.",
-    "fairDistributionText3": "в целях повышения уровня осведомленности о битвебе мы предварительно добыли 2,58 млн.",
-    "fairDistributionText4": "Это всего лишь около 3% от максимального объема поставок, поэтому мы надеемся, что битвеб станет лучше вместо битов в качестве зашифрованной валюты для оплаты.",
+    "fairDistributionText3": "Чтобы больше людей узнали о Bitweb, мы заранее добыли 2,58 миллиона монет для развития инфраструктуры.",
+    "fairDistributionText4": "Это всего лишь около 3% от максимального обьема, поэтому мы надеемся, что Bitweb станет лучше и будет использоватся как криптовалюта для оплаты различных услуг.",
     "getStartedTitle": "Начнем",
     "collapsables": {
       "walletTitle": "Кошелек",
-      "walletText1": "<a href=\"/wallet\">Кошелек bitweb</a> доступен на платформах Windows, Mac OSX și Linux.",
+      "walletText1": "<a href=\"/wallet\">Кошелек bitweb</a> доступен на платформах Windows, Mac OSX и Linux.",
       "walletText2": "Также доступны возможности командной строки.",
       "walletText3": "Чтобы начать работу, смотрите Страницу Загрузки кошелька и Руководство по установке.",
       "mineTitle": "Майнинг",
-      "mineText1": "битвеб использовала алгоритм Yespower для подтверждения работ по эксгумации.  Это означает, что любой может добыть битвеба.",
+      "mineText1": "Bitweb использовала алгоритм Yespower для подтверждения выполненой работы в сети.  Это означает, что любой может добыть Bitweb.",
       "communityTitle": "Сообщество",
       "communityText1": "Присоединяйтесь на <a href=\"https://community.bitwebcore.org/\">Форуме</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>для общения с другими участниками и разработчиками сообщества Bitweb."
     }
   },
   "notFoundPage": {
-    "title": "404 - запрошенный URL не найден",
+    "title": "404 - Запрошенный URL не найден",
     "description": "Нажмите <a href=\"https://bitwebcore.org/\" style=\"color: white;\">здесь</a> для просмотра Главной страницы."
   }
 }

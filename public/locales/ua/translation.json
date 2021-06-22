@@ -1,0 +1,171 @@
+{
+  "menuComponent": {
+    "links": {
+      "home": {
+        "title": "Домашня сторінка"
+      },
+      "getStarted": {
+        "title": "Почати"
+      },
+      "resources": {
+        "title": "Ресурси",
+        "exchanges": "Біржі",
+        "blockExplorers": "Оглядач Блоків",
+        "whitepaper": "Білий Папір",
+        "graphics": "Графіка"
+      },
+      "project": {
+        "peercoinFoundation": "Про нас"
+      },
+      "wallet": {
+        "title": "Гаманці"
+      },
+      "ecology": {
+        "title": "Екосистема"
+      },
+      "roadmap": {
+        "title": "Маршрутна Карта"
+      }
+    }
+  },
+  "footerComponent": {
+    "copyright": {
+      "copyright": "авторське право ©",
+      "rights": "Bitweb | Зберегти всі права"
+    }
+  },
+  "foundationPage": {
+    "missionStatementTitle": "Розробники",
+    "missionStatementText": "Mraksoll, 30 років, програміст, який дуже любить технологію блокчейн. Він має більш ніж 7-річний досвід розробки блокчейнов і знайомий з різними комп'ютерними мовами. Він брав участь у багатьох блокчейн-проектах і є основним розробником проекту BitWeb. У майбутньому він внесе великий внесок у створення DEFI, Lightning Network та інших екосистем.",
+    "missionStatementText1": "Jcchian, 23 року, програміст, який любить технологію блокчейн. Маючи 4-річний досвід розробки, він знайомий з JS, C ++, HTML, Vue, PHP і іншими комп'ютерними мовами. Він брав участь у багатьох проектах в інших областях. Він був радше другорядним розробником в проекті BitWeb.",
+    "missionStatementText2": "Quokasoft - це команда розробників інтерфейсу, серверної частини, настільних комп'ютерів, мобільних пристроїв та інших розробників, які в основному надають послуги з розробки програмного забезпечення. Якщо вам потрібно дізнатися більше про Quokasoft, відвідайте їх веб-сайт https://quokasoft.com. Вони приєдналися до команди розробників, тому що їм подобається проект Bitweb. Це душевна команда в екосистемі BitWeb.",
+    "technicalSupportTitle": "Служба підтримки",
+    "technicalSupportText": "Якщо ви хочете брати участь в Bitweb або підтримувати розробників, є кілька варіантів. Якщо ви зацікавлені в тому, щоб стати розробником проекту Bitweb, надішліть листа електронною поштою за адресою bitwebcore@gmail.com. Якщо ви хочете пожертвувати BTE Bitweb для підтримки розвитку проекту, просто відправте пожертвування BTE за вказаною нижче адресою. Якщо ваше пожертвування BTE перевищує 100000, ви можете вказати свій внесок серед партнерів. Напишіть нам. Якщо ви хочете стати партнером або інвестором BTE, напишіть нам за адресою bitwebcore@gmail.com.",
+    "contactUsTitle": "Зв'яжіться з нами",
+    "partnerTitle": "Інвестиційні інститути / Партнери"
+  },
+  "ecologyPage": {
+    "title": "Екосистема",
+    "description": "Екосистема побудована з використанням Bitweb",
+    "actions": {
+      "action1": "Платити",
+      "action2": "Гра",
+      "action3": "Інші"
+    }
+  },
+  "resourcesPage": {
+    "title": "Ресурси",
+    "description": "Інструменти і ресурси громади: в тому числі обмін, оглядач блоків, графіки, соціальні мережі, форуми, чати і т.д.",
+    "actions": {
+      "action1": "Біржі",
+      "action2": "Оглядач Блоків",
+      "action3": "Спільнота",
+      "action4": "Білий Папір",
+      "action5": "Графіка",
+      "action6": "Партнери",
+      "action7": "Список Заявок"
+    },
+    "exchangesTitle": "Біржі",
+    "exchangesText": "УВАГА: Перед лістингом Bitweb нікому не довіряйте, якщо ви втратите BTE, ми не несемо ніякої відповідальності.",
+    "exchangesType1": "Біржі",
+    "explorersTitle": "Оглядач Блоків",
+    "Unofficialcommunity": "Неофіційні Спільноти",
+    "graphicsTitle": "Графіка",
+    "communityTitle": "Спільнота",
+    "whitepaperTitle": "Білий Папір",
+    "whitepaperEnglish": "Українська"
+  },
+  "RoadmapPage": {
+    "title": "Маршрутна Карта",
+    "description": "Bitweb Шлях розробки, довгострокове оновлення"
+  },
+  "walletPage": {
+    "title": "Гаманці",
+    "description": "Надсилайте, отримуйте і зберігайте bitweb. Десктопний гаманець також дозволяє створювати блоки і захищати нашу мережу.",
+    "actions": {
+      "action1": "Electrum Bitweb Wallet",
+      "action2": "Інші гаманці",
+      "action4": "Гаманці"
+    },
+    "desktopWalletTitle": "Десктопні гаманці",
+    "walletWindows": "Windows",
+    "walletMac": "macOS",
+    "walletLinux": "Linux",
+    "walletAndroid": "Android(7.0 і вище)",
+    "walletPython": "Python (3.7.1 і вище)",
+    "installationTitle": "Electrum Bitweb Wallet",
+    "sectionWindows": {
+      "title1": "Standalone Executable",
+      "text1": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2.exe\">Standalone Executable</a>",
+      "title2": "Windows Installer",
+      "text2": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-setup.exe\">Windows Installer</a>",
+      "title3": "Portable version (security advice)",
+      "text3": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-portable.exe\">Portable version (security advice)</a>"
+    },
+    "sectionMac": {
+      "title1": "Executable for OS X",
+      "text1": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-4.1.2-2-ga9375a8a0.dmg\">Executable for OS X</a>"
+    },
+    "sectionLinux": {
+      "title1": "Appimage",
+      "text1": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-x86_64.AppImage\">Appimage</a>"
+    },
+    "sectionAndroid": {
+      "title1": "Android(8.0)-64bit",
+      "text1": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
+      "title2": "Android(7.0)-32bit arch",
+      "text2": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
+    },
+    "sectionPython": {
+      "title1": "Electrum-bitweb-4.1.2.tar.gz",
+      "text1": "Завантаження <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/v4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "title2": "Linux installation from Python sources",
+      "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
+      "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
+      "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
+    },
+    "paperWalletTitle": "Інші гаманці",
+    "paperWalletSubtitle1": "Паперовий Гаманець",
+    "paperWalletSubtitle2": "ElectrumX-Bitweb",
+    "type1": "Апаратний Гаманець",
+    "type2": "Api Server",
+    "type3": "Веб-Гаманець"
+  },
+  "indexPage": {
+    "title1": "Bitweb",
+    "title": "Нова система P2P",
+    "description": "Провідні платіжні мережі в світі, надійні і ефективні зашифровані валюти.",
+    "efficientEnergyTitle": "Безпека і стабільність",
+    "efficientEnergyText1": "Bitweb (BTE) заснований на вихідних кодах останній версії біткоіни 0.21.1, успадкованих від всіх характеристик системи біткоіни - безпека, стабільність і ефективність.",
+    "efficientEnergyText2": "Bitweb має обмежений випуск монет, халвінг період 840 000. Максимальна кількість монет доступних для Майнінг 84 000 000, абсолютне колічевство включаючи пре-майн 86.579,950.",
+    "efficientEnergyText3": "Він підтримує legacy, p2sh - segwit, besh32 три типи адрес, що захищають недоторканність приватного життя.",
+    "userGovernanceTitle": "Швидка торгівля",
+    "userGovernanceText1": "В середньому у Bitweb максимальний розмір блоків становить 100 м, що в 100 разів більше, ніж в перерахунку на біти, і при цьому забезпечується захист за допомогою підтримки Segwit.",
+    "userGovernanceText2": "Segwit надає Bitweb можливості для обробки даних. Завдяки Segwit, розмір блоку можливо ніколи не досягне 100 м. І також сприяє більш низькою комісії за транзакцію.",
+    "userGovernanceText3": "Кожен блок в Bitweb створюється кожні 60 секунд, і тому транзакції проходять дуже швидко - час блоку в 10 разів менше ніж в Bitcoin.",
+    "trustlessTitle": "Довідка про обсяг роботи",
+    "trustlessText1": "Bitweb використовує алгоритм yespower, який підтримує операції процесора, знижує вартість видобутку і витрати енергії, дозволяє розширити використовувати BTE.",
+    "trustlessText2": "Споживання енергії нижче, і Майнери, які беруть участь у видобутку, можуть отримати нагороду 50 монет BTE в кожному блоці.",
+    "trustlessText3": "У Bitweb для коригування складності використовується LWMA.",
+    "fairDistributionTitle": "Зберігання вартості",
+    "fairDistributionText1": "Ефективна криптовалюта має досить широке і справедливий розподіл для забезпечення того, щоб вся генерація монет не була зосереджена в руках малого кола осіб.",
+    "fairDistributionText2": "Bitweb - це система p2p, розроблена на основі бітових грошей. успадкували всі особливості бітів, були вдосконалені і оптимізовані на основі оригінальних бітів, Bitweb був успішним, і ми хочемо, щоб більше людей брали участь і використовували BTE.",
+    "fairDistributionText3": "Щоб більше людей дізналися про Bitweb, ми заздалегідь добули 2,58 мільйона монет для розвитку інфраструктури.",
+    "fairDistributionText4": "Це всього лише близько 3% від максимального обсягу, тому ми сподіваємося, що Bitweb стане краще і буде використовуватися як криптовалюта для оплати різних послуг.",
+    "getStartedTitle": "Почнемо",
+    "collapsables": {
+      "walletTitle": "Гаманець",
+      "walletText1": "<a href=\"/wallet\">Гаманець bitweb</a> Доступний на платформах Windows, Mac OSX і Linux.",
+      "walletText2": "Також доступні можливості командного рядка.",
+      "walletText3": "Щоб почати роботу, дивіться Сторінку Завантаження гаманця і Керівництво по установці.",
+      "mineTitle": "Майнінг",
+      "mineText1": "Bitweb використовувала алгоритм Yespower для підтвердження виконаної роботи в мережі. Це означає, що будь-хто може добути Bitweb.",
+      "communityTitle": "Спільнота",
+      "communityText1": "Приєднуйтесь на <a href=\"https://community.bitwebcore.org/\">форумі</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>для спілкування з іншими учасниками та розробниками спільноти Bitweb."
+    }
+  },
+  "notFoundPage": {
+    "title": "404 - Запитаний URL не знайдено",
+    "description": "Натисніть <a href=\"https://bitwebcore.org/\" style=\"color: white;\">тут</a> для перегляду Головної сторінки."
+  }
+}

@@ -9,6 +9,7 @@ export function getAvailableLanguages() {
     'fr',
     'kr',
     'ru',
+	'ua',
     'jp'
   ];
 }
