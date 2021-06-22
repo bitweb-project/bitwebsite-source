@@ -378,10 +378,36 @@ function Resources() {
               />
             </a>
             <a
+              href="#"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Jige - investor
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/jige.jpg"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://ltfn.scalaris.info/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                LitecoinFinance - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/ltfn.png"
+                alt=""
+              />
+            </a>
+            <a
               href="https://t.me/jcchain2"
               className="blocks-list__block"
             >
-              <h4 className="blocks-list__block__title">Add Partner</h4>
+              <h4 className="blocks-list__block__title">Add</h4>
               <img
                 className="blocks-list__block__img"
                 src="/img/group/addgroup.png"

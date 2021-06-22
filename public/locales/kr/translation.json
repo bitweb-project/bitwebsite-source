@@ -34,6 +34,9 @@
       "rights": "Bitweb | 모든 권리를 보류하다"
     }
   },
+  "latestNewsComp": {
+    "readMore": "더 읽어보기"
+  },
   "foundationPage": {
     "missionStatementTitle": "개발자",
     "missionStatementText": "30 세인 Mraksoll은 블록 체인 기술을 매우 사랑하는 프로그래머입니다. 그는 블록 체인 개발에 7 년 이상의 경험을 가지고 있으며 다양한 컴퓨터 언어에 익숙합니다. 그는 많은 블록 체인 프로젝트에 참여했으며 BitWeb 프로젝트의 핵심 개발자입니다. 앞으로 그는 DEFI, Lightning Network 및 기타 생태계 구축에 큰 기여를 할 것입니다.",
@@ -163,7 +166,8 @@
       "mineText1": "Bitweb 는 Yespower 알고리즘 을 사용 하여 작업 증명 발굴 을 진행 합 니 다.누구나 Bitweb 를 개발 할 수 있다 는 뜻 이다.",
       "communityTitle": "커뮤니티",
       "communityText1": "피어코인 커뮤니티 멤버 및 개발자들과 소통하기 위해 저희 <a href=\"https://community.bitwebcore.org/\">포럼</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>다른 Bitweb 커 뮤 니 티 멤버 들 과 개발 자 들 과 이 야 기 를 나누다."
-    }
+    },
+    "latestNewsTitle": "최신 소식"
   },
   "notFoundPage": {
     "title": "404 - 페이지를 찾을 수 없음",

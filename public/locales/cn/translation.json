@@ -34,6 +34,9 @@
       "rights": "比特网  |  保留所有权利"
     }
   },
+  "latestNewsComp": {
+    "readMore": "阅读更多"
+  },
   "foundationPage": {
     "missionStatementTitle": "开发者",
     "missionStatementText": "Mraksoll, 30岁，是一个非常喜欢区块链技术的程序员。他有超过7年区块链开发经验，熟悉各种计算机语言。他参与了许多区块链项目，是BitWeb项目的核心开发者。未来，他将为DEFI、Lightning Network等生态系统的建立做出巨大贡献。",
@@ -162,7 +165,8 @@
       "mineText1": "Bitweb使用Yespower算法进行工作证明挖掘。这意味着任何人都可以开采Bitweb。",
       "communityTitle": "社区",
       "communityText1": "加入我们的 <a href=\"https://community.bitwebcore.org/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>与其他Bitweb社区成员和开发人员聊天。"
-    }
+    },
+    "latestNewsTitle": "最新消息"
   },
   "notFoundPage": {
     "title": "404 - 页面找不到",

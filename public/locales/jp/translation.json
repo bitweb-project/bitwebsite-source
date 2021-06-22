@@ -34,6 +34,9 @@
       "rights": "Bitweb | すべての権利を留保する"
     }
   },
+  "latestNewsComp": {
+    "readMore": "続きを読む"
+  },
   "foundationPage": {
     "missionStatementTitle": "開発者",
     "missionStatementText": "30 歳の Mraksoll は、ブロックチェーン技術をこよなく愛するプログラマーです。 彼はブロックチェーン開発で 7 年以上の経験があり、さまざまなコンピューター言語に精通しています。 彼は多くのブロックチェーン プロジェクトに参加しており、BitWeb プロジェクトのコア開発者です。 将来的には、DEFI、Lightning Network、その他のエコシステムの確立に大きく貢献します。",
@@ -163,7 +166,8 @@
       "mineText1": "BitwebはYespowerアルゴリズムを用いて，掘削を実証した。これは誰でもBitwebを採掘できるという意味です。",
       "communityTitle": "コミュニティ",
       "communityText1": "私たちの <a href=\"https://community.bitwebcore.org/\">フォーラム</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>他のBitwebコミュニティのメンバーと開発者とチャットします。"
-    }
+    },
+    "latestNewsTitle": "最新ニュース"
   },
   "notFoundPage": {
     "title": "404 - ページが見つかりません",

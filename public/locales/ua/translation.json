@@ -34,6 +34,9 @@
       "rights": "Bitweb | Зберегти всі права"
     }
   },
+  "latestNewsComp": {
+    "readMore": "Читати більше"
+  },
   "foundationPage": {
     "missionStatementTitle": "Розробники",
     "missionStatementText": "Mraksoll, 30 років, програміст, який дуже любить технологію блокчейн. Він має більш ніж 7-річний досвід розробки блокчейнов і знайомий з різними комп'ютерними мовами. Він брав участь у багатьох блокчейн-проектах і є основним розробником проекту BitWeb. У майбутньому він внесе великий внесок у створення DEFI, Lightning Network та інших екосистем.",
@@ -162,7 +165,8 @@
       "mineText1": "Bitweb використовувала алгоритм Yespower для підтвердження виконаної роботи в мережі. Це означає, що будь-хто може добути Bitweb.",
       "communityTitle": "Спільнота",
       "communityText1": "Приєднуйтесь на <a href=\"https://community.bitwebcore.org/\">форумі</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>для спілкування з іншими учасниками та розробниками спільноти Bitweb."
-    }
+    },
+    "latestNewsTitle": "Останні новини"
   },
   "notFoundPage": {
     "title": "404 - Запитаний URL не знайдено",

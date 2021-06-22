@@ -34,6 +34,9 @@
       "rights": "Bitweb | Todos lo Derechos Reservados"
     }
   },
+  "latestNewsComp": {
+    "readMore": "Lee mas"
+  },
   "foundationPage": {
     "missionStatementTitle": "Desarrolladores",
     "missionStatementText": "Mraksoll, de 30 años, es un programador que ama mucho la tecnología blockchain. Tiene más de 7 años de experiencia en el desarrollo de blockchain y está familiarizado con varios lenguajes informáticos. Ha participado en muchos proyectos de blockchain y es el desarrollador principal del proyecto BitWeb. En el futuro, hará una gran contribución al establecimiento de DEFI, Lightning Network y otros ecosistemas.",
@@ -163,7 +166,8 @@
       "mineText1": "Bitweb utiliza el algoritmo YesPower para la minería de pruebas de trabajo. Eso significa que cualquiera puede explotar Bitweb.",
       "communityTitle": "Comunidad",
       "communityText1": "Únete a nuestro <a href=\"https://community.bitwebcore.org/\">Foro</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>, para chatear con otros miembros de la comunidad Bitweb y desarrolladores. "
-    }
+    },
+    "latestNewsTitle": "Últimas noticias"
   },
   "notFoundPage": {
     "title": "404 - Página no encontrada",

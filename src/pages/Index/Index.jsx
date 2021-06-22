@@ -4,6 +4,7 @@ import Collapsible from 'react-collapsible';
 import renderHTML from 'react-render-html';
 import './Index.scss';
 import Menu from '../../components/Menu/Menu';
+import LatestNews from '../../components/LatestNews/LatestNews';
 import Footer from '../../components/Footer/Footer';
 import Loader from '../../components/Loader/Loader';
 
@@ -34,7 +35,7 @@ function Index() {
     <>
     <Menu />
     <div className="Index hero">
-      <img src="/img/logo-white.svg" alt="Peercoin Logo" width="220" />
+      <img src="/img/logo-white.svg" alt="Bitweb Logo" width="220" />
       <h1 className="hero__title">{t('indexPage.title1')}</h1>
       <h1 className="hero__title">{t('indexPage.title')}</h1>
       <p className="hero__description">
@@ -122,6 +123,12 @@ function Index() {
               </Collapsible>
             </div>
           </div>
+        </div>
+      </div>
+      <div className="main">
+        <div className="container">
+          <h2 className="title title--green">{t('indexPage.latestNewsTitle')}</h2>
+          <LatestNews />
         </div>
       </div>
     </div>
