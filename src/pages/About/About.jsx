@@ -97,8 +97,19 @@ function About() {
                   {" "}
                   0x900cc73447606E2151F0fD89F908e5dD0Ab2a744
                 </a>
+                <br />
+                  <strong>TRC20 USDT</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t/holders"
+                >
+                  {" "}
+                  TSQSNqzmJnZvraatd421pVSh1LyJAd77cY
+                </a>
               </p>
             </div>
+
             <div className="col col--small">
               <h2 className="title title--green title--left">
                 {t("foundationPage.contactUsTitle")}
@@ -154,6 +165,32 @@ function About() {
           </div>
         </div>
       </div>
+      
+      <div className="main">
+	  <div className="anchor" data-id="partner"></div>
+	    <div className="container">
+		<h2 className="title title--green">
+		  Donors
+		</h2>
+	    <div className="blocks-list">
+            <a
+              href="https://forms.gle/qb9nP6rCc1xBeZE26"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">I want</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/donate.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                To donate
+              </div>
+            </a>
+	  </div>
+        </div>
+      </div>
+
       <Footer />
     </>
   );
