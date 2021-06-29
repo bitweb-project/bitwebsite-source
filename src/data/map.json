@@ -138,5 +138,12 @@
     "sourceURL": "https://bitcourier.co.uk/blog/bitweb",
     "text": "The official website is updated, investors are added, and news from the media is released.",
     "price": 0.00
+  },
+  {
+    "date": "June 29, 2021",
+    "author": "Mraksoll",
+    "sourceURL": "https://openchains.info/coin/bitweb/blocks",
+    "text": "Bitweb added to the new block explorer.",
+    "price": 0.00
   }
 ]

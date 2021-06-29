@@ -6,7 +6,7 @@ import Menu from '../../components/Menu/Menu';
 import Footer from '../../components/Footer/Footer';
 import Loader from '../../components/Loader/Loader';
 import TimeLine from "../../components/TimeLine";
-import orbituaries from "../../data/death_certificates.json";
+import orbituaries from "../../data/map.json";
 import CountUp from "react-countup";
 
 function Roadmap() {

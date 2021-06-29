@@ -99,6 +99,17 @@ function Resources() {
                 alt=""
               />
             </a>
+            <a
+              href="https://openchains.info/coin/bitweb/blocks"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">Open Chains</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/explorers/openchains.png"
+                alt=""
+              />
+            </a>
           </div>
         </div>
       </div>
