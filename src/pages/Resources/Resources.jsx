@@ -70,7 +70,7 @@ function Resources() {
               <h4 className="blocks-list__block__title">Scalaris DX</h4>
               <img
                 className="blocks-list__block__img"
-                src="/img/explorers/scalarisdx.png"
+                src="/img/exchanges/scalarisdx.png"
                 alt=""
               />
             </a>
