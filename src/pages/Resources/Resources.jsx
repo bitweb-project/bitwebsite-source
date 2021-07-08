@@ -64,6 +64,28 @@ function Resources() {
           <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
             <a
+              href="https://scalaris.info"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">Scalaris DX</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/explorers/scalarisdx.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://vindax.com/?ref=28d3c0dbe03340810880c0ac66505be5"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">VINDAX</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/vindax.png"
+                alt=""
+              />
+            </a>
+			<a
               href="https://t.me/jcchain2"
               className="blocks-list__block"
             >
