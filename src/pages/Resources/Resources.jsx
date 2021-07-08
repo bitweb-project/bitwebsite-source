@@ -63,6 +63,22 @@ function Resources() {
           </h2>
           <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
+            <a href="https://vindax.com/exchange-base.html?symbol=BTE_USDT" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">BTE/USDT</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/vdx.svg"
+                alt=""
+              />
+            </a>
+            <a href="https://vindax.com/exchange-base.html?symbol=BTE_BTC" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">BTE/BTC</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/vdx.svg"
+                alt=""
+              />
+            </a>
             <a
               href="https://t.me/jcchain2"
               className="blocks-list__block"

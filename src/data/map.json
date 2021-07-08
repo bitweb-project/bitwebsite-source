@@ -145,5 +145,12 @@
     "sourceURL": "https://openchains.info/coin/bitweb/blocks",
     "text": "Bitweb added to the new block explorer.",
     "price": 0.00
+  },
+  {
+    "date": "July 09, 2021",
+    "author": "Mraksoll and Jcchain",
+    "sourceURL": "https://vindax.com/",
+    "text": "listing at https://vindax.com/ ",
+    "price": 13.00
   }
 ]
