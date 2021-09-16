@@ -1,4 +1,3 @@
-https://bitwebcore.org
 
 ### Installing and Running
 ```sh

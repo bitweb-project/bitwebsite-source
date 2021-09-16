@@ -152,5 +152,12 @@
     "sourceURL": "https://vindax.com/",
     "text": "listing at https://vindax.com/ ",
     "price": 13.00
+  },
+  {
+    "date": "July 20, 2021",
+    "author": "Mraksoll and Jcchain",
+    "sourceURL": "https://coinpaprika.com/coin/bte-bitweb/",
+    "text": "Bitweb listed at coinpaprika and AtomicDEX-beta, The official website is updated again and added them.",
+    "price": 2.50
   }
 ]

@@ -304,32 +304,6 @@ function Wallet() {
                 alt=""
               />
             </a>
-            <a
-              href="https://api.bitwebcore.org/"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                {t("walletPage.type2")}
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/wallets/apiserver.png"
-                alt=""
-              />
-            </a>
-            <a
-              href="https://github.com/bitweb-project/electrumx"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                {t("walletPage.paperWalletSubtitle2")}
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/electrum/electrum_launcher.png"
-                alt=""
-              />
-            </a>
           </div>
 
         </div>

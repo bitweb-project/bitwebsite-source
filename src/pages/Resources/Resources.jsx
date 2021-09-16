@@ -63,6 +63,70 @@ function Resources() {
           </h2>
           <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
+            <a
+              href="https://www.coineal.com/trade/BTE-CNV"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Coineal
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/coineal.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                KYC required
+              </div>
+            </a>
+            <a
+              href="https://github.com/KomodoPlatform/atomicDEX-Desktop/suites/3277384964/artifacts/76391403"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Atomic DEX
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/atomicdex.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                beta-WIN10
+              </div>
+            </a>
+            <a
+              href="https://github.com/KomodoPlatform/atomicDEX-Desktop/suites/3277384964/artifacts/76391399"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Atomic DEX
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/atomicdex.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                beta-OSX
+              </div>
+            </a>
+            <a
+              href="https://github.com/KomodoPlatform/atomicDEX-Desktop/suites/3277384964/artifacts/76391402"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Atomic DEX
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/atomicdex.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                beta-Ubuntu
+              </div>
+            </a>
             <a href="https://vindax.com/exchange-base.html?symbol=BTE_USDT" className="blocks-list__block">
               <h4 className="blocks-list__block__title">BTE/USDT</h4>
               <img
@@ -80,28 +144,19 @@ function Resources() {
               />
             </a>
             <a
-              href="https://scalaris.info"
+              href="https://github.com/scalaris-project/scalaris-dx/releases"
               className="blocks-list__block"
             >
-              <h4 className="blocks-list__block__title">Scalaris DX</h4>
+              <h4 className="blocks-list__block__title">
+                Scalaris DX
+              </h4>
               <img
                 className="blocks-list__block__img"
-                src="/img/exchanges/scalarisdx.png"
+                src="/img/partner/sla.png"
                 alt=""
               />
             </a>
             <a
-              href="https://vindax.com/?ref=28d3c0dbe03340810880c0ac66505be5"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">VINDAX</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/exchanges/vindax.png"
-                alt=""
-              />
-            </a>
-			<a
               href="https://t.me/jcchain2"
               className="blocks-list__block"
             >
@@ -181,6 +236,14 @@ function Resources() {
             </a>
             <a href="https://t.me/bitweb_en" className="blocks-list__block">
               <h4 className="blocks-list__block__title">Telegram_English</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/tg.png"
+                alt=""
+              />
+            </a>
+            <a href="https://t.me/bitweb_rus" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">Telegram_Russia</h4>
               <img
                 className="blocks-list__block__img"
                 src="/img/group/tg.png"
@@ -427,19 +490,6 @@ function Resources() {
               />
             </a>
             <a
-              href="#"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                Jige - investor
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/partner/jige.jpg"
-                alt=""
-              />
-            </a>
-            <a
               href="https://ltfn.scalaris.info/"
               className="blocks-list__block"
             >
@@ -449,6 +499,45 @@ function Resources() {
               <img
                 className="blocks-list__block__img"
                 src="/img/partner/ltfn.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://coinpaprika.com/coin/bte-bitweb/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Coinpaprika - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/coinpaprika.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://www.coingecko.com/en/coins/bitweb"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Coingecko - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/coingecko.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="#"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Jige - investor
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/jige.jpg"
                 alt=""
               />
             </a>
