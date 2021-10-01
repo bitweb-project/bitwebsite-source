@@ -80,7 +80,7 @@ function Resources() {
               </div>
             </a>
             <a
-              href="https://github.com/KomodoPlatform/atomicDEX-Desktop/suites/3277384964/artifacts/76391403"
+              href="https://atomicdex.io"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
@@ -91,41 +91,6 @@ function Resources() {
                 src="/img/exchanges/atomicdex.png"
                 alt=""
               />
-              <div className="blocks-list__block__type">
-                beta-WIN10
-              </div>
-            </a>
-            <a
-              href="https://github.com/KomodoPlatform/atomicDEX-Desktop/suites/3277384964/artifacts/76391399"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                Atomic DEX
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/exchanges/atomicdex.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                beta-OSX
-              </div>
-            </a>
-            <a
-              href="https://github.com/KomodoPlatform/atomicDEX-Desktop/suites/3277384964/artifacts/76391402"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                Atomic DEX
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/exchanges/atomicdex.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                beta-Ubuntu
-              </div>
             </a>
             <a href="https://vindax.com/exchange-base.html?symbol=BTE_USDT" className="blocks-list__block">
               <h4 className="blocks-list__block__title">BTE/USDT</h4>
@@ -144,7 +109,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://github.com/scalaris-project/scalaris-dx/releases"
+              href="https://docs.scalaris.info/scalarisdx/setup"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
