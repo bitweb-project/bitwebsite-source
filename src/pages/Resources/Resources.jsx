@@ -325,8 +325,14 @@ function Resources() {
               <a href="/img/logos/png/bitweb64px.png">
                 <span>64px.png</span>
               </a>
+              <a href="/img/logos/png/bitweb80px.png">
+                <span>80px.png</span>
+              </a>
               <a href="/img/logos/png/bitweb128px.png">
                 <span>128px.png</span>
+              </a>
+              <a href="/img/logos/png/bitweb200px.png">
+                <span>200px.png</span>
               </a>
               <a href="/img/logos/png/bitweb256px.png">
                 <span>256px.png</span>
@@ -353,8 +359,14 @@ function Resources() {
               <a href="/img/logos/svg/bitweb64px.svg">
                 <span>64px.svg</span>
               </a>
+              <a href="/img/logos/svg/bitweb80px.svg">
+                <span>80px.svg</span>
+              </a>
               <a href="/img/logos/svg/bitweb128px.svg">
                 <span>128px.svg</span>
+              </a>
+              <a href="/img/logos/svg/bitweb200px.svg">
+                <span>200px.svg</span>
               </a>
               <a href="/img/logos/svg/bitweb256px.svg">
                 <span>256px.svg</span>
