@@ -282,7 +282,7 @@ function Resources() {
           </h2>
           <p className="description">Please take care to protect your cryptocurrency</p>
           <div className="blocks-list">
-            <a href="#" className="blocks-list__block">
+            <a href="https://jq.qq.com/?_wv=1027&k=OreLfke5" className="blocks-list__block">
               <h4 className="blocks-list__block__title">QQ group</h4>
               <img
                 className="blocks-list__block__img"
