@@ -277,6 +277,37 @@ function Resources() {
             </a>
           </div>
         </div>
+          <h2 className="title title--green">
+            Unofficial community
+          </h2>
+          <p className="description">Please take care to protect your cryptocurrency</p>
+          <div className="blocks-list">
+            <a href="#" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">QQ group</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/China-qq.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                746470547
+              </div>
+            </a>
+            <a
+              href="https://t.me/jcchain2"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">Add group</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/addgroup.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                Contact us
+              </div>
+            </a>
+          </div>
       </div>
 
       <div className="main">
@@ -301,23 +332,6 @@ function Resources() {
             </a>
           </div>
         </div>
-          <h2 className="title title--green">
-            Unofficial community
-          </h2>
-          <p className="description">Please take care to protect your cryptocurrency</p>
-          <div className="blocks-list">
-            <a href="#" className="blocks-list__block">
-              <h4 className="blocks-list__block__title">QQ group</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/China-qq.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                746470547
-              </div>
-            </a>
-          </div>
       </div>
 
       <div className="main">
