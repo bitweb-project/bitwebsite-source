@@ -283,7 +283,7 @@ function Resources() {
           <p className="description">Please take care to protect your cryptocurrency</p>
           <div className="blocks-list">
             <a href="https://jq.qq.com/?_wv=1027&k=OreLfke5" className="blocks-list__block">
-              <h4 className="blocks-list__block__title">QQ group</h4>
+              <h4 className="blocks-list__block__title">QQ group 1</h4>
               <img
                 className="blocks-list__block__img"
                 src="/img/group/China-qq.png"
@@ -291,6 +291,17 @@ function Resources() {
               />
               <div className="blocks-list__block__type">
                 746470547
+              </div>
+            </a>
+            <a href="#" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">QQ group 2</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/China-qq.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                970332590
               </div>
             </a>
             <a
