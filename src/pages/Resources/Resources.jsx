@@ -64,11 +64,11 @@ function Resources() {
           <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
             <a
-              href="https://www.coineal.com/trade/BTE-CNV"
+              href="https://www.coinealpro.com/trade/BTE-CNV"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
-                Coineal
+                Coineal Pro
               </h4>
               <img
                 className="blocks-list__block__img"
@@ -320,7 +320,6 @@ function Resources() {
             </a>
           </div>
       </div>
-
       <div className="main">
         <div className="anchor" data-id="whitepaper"></div>
         <div className="container">
@@ -544,6 +543,58 @@ function Resources() {
               <img
                 className="blocks-list__block__img"
                 src="/img/partner/coingecko.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://blockspot.io/coin/bitweb/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Blockspot.io - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/blockspot.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://nomics.com/assets/bte3-bitweb"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Nomics.com - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/nomics.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://dexplorer.io/coin/BTE"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Dexplorer.io - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/dexp.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://coincost.net/en/currency/bitweb"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Coincost.net - partner
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/partner/coincost.png"
                 alt=""
               />
             </a>
