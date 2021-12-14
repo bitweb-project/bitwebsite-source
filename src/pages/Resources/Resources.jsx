@@ -124,6 +124,14 @@ function Resources() {
                 alt=""
               />
             </a>
+            <a href="https://www.exbitron.com/trading/btetrx" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">BTE/TRX</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/exchanges/exbitron.png"
+                alt=""
+              />
+            </a>
             <a
               href="https://docs.scalaris.info/scalarisdx/setup"
               className="blocks-list__block"
