@@ -328,6 +328,17 @@ function Resources() {
                 970332590
               </div>
             </a>
+            <a href="https://t.me/+Wl5olJ7oRG45MDhl" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">Telegram group</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/tg.png"
+                alt=""
+              />
+			  <div className="blocks-list__block__type">
+                China Community Unofficial
+              </div>
+            </a>
             <a
               href="https://t.me/jcchain2"
               className="blocks-list__block"
