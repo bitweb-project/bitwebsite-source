@@ -335,7 +335,7 @@ function Resources() {
                 src="/img/group/tg.png"
                 alt=""
               />
-			  <div className="blocks-list__block__type">
+              <div className="blocks-list__block__type">
                 China Community Unofficial
               </div>
             </a>
