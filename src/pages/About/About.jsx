@@ -42,7 +42,7 @@ function About() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://explorer.bitwebcore.org/address/web1q48wnxkm0xfz8jhkv0555m2pxqed39fglzs5gpl"
+                  href="https://explorer.bitwebcore.net/address/web1q48wnxkm0xfz8jhkv0555m2pxqed39fglzs5gpl"
                 >
                   {" "}
                   web1q48wnxkm0xfz8jhkv0555m2pxqed39fglzs5gpl

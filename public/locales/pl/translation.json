@@ -165,12 +165,12 @@
       "mineTitle": "Mój",
       "mineText1": "Bitweb wykorzystuje algorytm Yespower do wydobywania dowodów pracy. Oznacza to, że każdy może wykorzystać bitweb.",
       "communityTitle": "Społeczność",
-      "communityText1": "Dołącz do naszego <a href=\"https://community.bitwebcore.org/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> rozmawiać z innymi członkami społeczności bitweb i programistami."
+      "communityText1": "Dołącz do naszego <a href=\"https://community.bitwebcore.net/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> rozmawiać z innymi członkami społeczności bitweb i programistami."
     },
     "latestNewsTitle": "Najnowsze wiadomości"
   },
   "notFoundPage": {
     "title": "404 — Nie znaleziono żądanego adresu URL",
-    "description": "Kliknij <a href=\"https://bitwebcore.org/\" style=\"color: white;\">tutaj</a>, aby wrócić do strony głównej."
+    "description": "Kliknij <a href=\"https://bitwebcore.net/\" style=\"color: white;\">tutaj</a>, aby wrócić do strony głównej."
   }
 }

@@ -171,7 +171,7 @@ function Resources() {
           </h2>
           <div className="blocks-list">
             <a
-              href="https://explorer.bitwebcore.org/"
+              href="https://explorer.bitwebcore.net/"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Bitweb Explorer</h4>
@@ -204,7 +204,7 @@ function Resources() {
             {t("resourcesPage.communityTitle")}
           </h2>
           <div className="blocks-list">
-            <a href="https://community.bitwebcore.org/" className="blocks-list__block">
+            <a href="https://community.bitwebcore.net/" className="blocks-list__block">
               <h4 className="blocks-list__block__title">Forum</h4>
               <img
                 className="blocks-list__block__img"
@@ -530,7 +530,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://www.trustpilot.com/review/bitwebcore.org"
+              href="https://www.trustpilot.com/review/bitwebcore.net"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">

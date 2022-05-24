@@ -266,7 +266,7 @@ function Wallet() {
           </h2>
           <div className="blocks-list">
             <a
-              href="https://webwallet.bitwebcore.org/"
+              href="https://webwallet.bitwebcore.net/"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
@@ -292,7 +292,7 @@ function Wallet() {
               />
             </a>
             <a
-              href="https://paperwallet.bitwebcore.org/"
+              href="https://paperwallet.bitwebcore.net/"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">

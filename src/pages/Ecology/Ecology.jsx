@@ -45,7 +45,7 @@ function Ecology() {
           </h2>
           <div className="blocks-list">
             <a
-              href="https://api.bitwebcore.org/"
+              href="https://api.bitwebcore.net/"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">

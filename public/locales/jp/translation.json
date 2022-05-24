@@ -165,12 +165,12 @@
       "mineTitle": "鉱を掘る",
       "mineText1": "BitwebはYespowerアルゴリズムを用いて，掘削を実証した。これは誰でもBitwebを採掘できるという意味です。",
       "communityTitle": "コミュニティ",
-      "communityText1": "私たちの <a href=\"https://community.bitwebcore.org/\">フォーラム</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>他のBitwebコミュニティのメンバーと開発者とチャットします。"
+      "communityText1": "私たちの <a href=\"https://community.bitwebcore.net/\">フォーラム</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>他のBitwebコミュニティのメンバーと開発者とチャットします。"
     },
     "latestNewsTitle": "最新ニュース"
   },
   "notFoundPage": {
     "title": "404 - ページが見つかりません",
-    "description": "<a href=\"https://bitwebcore.org/\" style=\"color: white;\">ここをクリックしてトップページに戻ることができます。</a>"
+    "description": "<a href=\"https://bitwebcore.net/\" style=\"color: white;\">ここをクリックしてトップページに戻ることができます。</a>"
   }
 }

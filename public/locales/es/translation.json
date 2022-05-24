@@ -165,12 +165,12 @@
       "mineTitle": "Minar",
       "mineText1": "Bitweb utiliza el algoritmo YesPower para la minería de pruebas de trabajo. Eso significa que cualquiera puede explotar Bitweb.",
       "communityTitle": "Comunidad",
-      "communityText1": "Únete a nuestro <a href=\"https://community.bitwebcore.org/\">Foro</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>, para chatear con otros miembros de la comunidad Bitweb y desarrolladores. "
+      "communityText1": "Únete a nuestro <a href=\"https://community.bitwebcore.net/\">Foro</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>, para chatear con otros miembros de la comunidad Bitweb y desarrolladores. "
     },
     "latestNewsTitle": "Últimas noticias"
   },
   "notFoundPage": {
     "title": "404 - Página no encontrada",
-    "description": "Haga clic <a href=\"https://bitwebcore.org/\" style=\"color: white;\">aquí</a> para volver a la Página principal."
+    "description": "Haga clic <a href=\"https://bitwebcore.net/\" style=\"color: white;\">aquí</a> para volver a la Página principal."
   }
 }

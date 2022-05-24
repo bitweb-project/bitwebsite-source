@@ -165,12 +165,12 @@
       "mineTitle": "Mine",
       "mineText1": "Bitweb uses the Yespower algorithm for proof-of-work mining. This means that anyone can exploit bitweb.",
       "communityTitle": "Community",
-      "communityText1": "Join our <a href=\"https://community.bitwebcore.org/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> to chat with other bitweb community members and developers."
+      "communityText1": "Join our <a href=\"https://community.bitwebcore.net/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> to chat with other bitweb community members and developers."
     },
     "latestNewsTitle": "Latest News"
   },
   "notFoundPage": {
     "title": "404 - Requested URL Not Found",
-    "description": "Click <a href=\"https://bitwebcore.org/\" style=\"color: white;\">here</a> to return to the homepage."
+    "description": "Click <a href=\"https://bitwebcore.net/\" style=\"color: white;\">here</a> to return to the homepage."
   }
 }

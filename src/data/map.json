@@ -16,7 +16,7 @@
   {
     "date": "May 09, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://community.bitwebcore.org/",
+    "sourceURL": "https://community.bitwebcore.net/",
     "text": "Official forum officially released and discord group established.",
     "price": 0.00
   },
@@ -30,14 +30,14 @@
   {
     "date": "May 12, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://bitwebcore.org/",
+    "sourceURL": "https://bitwebcore.net/",
     "text": "New official website.",
     "price": 0.00
   },
   {
     "date": "May 13, 2021",
     "author": "Mraksoll",
-    "sourceURL": "https://explorer.bitwebcore.org/",
+    "sourceURL": "https://explorer.bitwebcore.net/",
     "text": "New Explorer development completed.",
     "price": 0.00
   },
@@ -58,7 +58,7 @@
   {
     "date": "May 19, 2021",
     "author": "Mraksoll",
-    "sourceURL": "https://paperwallet.bitwebcore.org/",
+    "sourceURL": "https://paperwallet.bitwebcore.net/",
     "text": "Paper wallet development completed.",
     "price": 0.00
   },
@@ -72,7 +72,7 @@
   {
     "date": "May 25, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://bitwebcore.org/",
+    "sourceURL": "https://bitwebcore.net/",
     "text": "Official website updated again. ",
     "price": 0.00
   },
@@ -114,21 +114,21 @@
   {
     "date": "June 08, 2021",
     "author": "Mraksoll",
-    "sourceURL": "https://webwallet.bitwebcore.org/",
+    "sourceURL": "https://webwallet.bitwebcore.net/",
     "text": "The development of webwallet and API server is completed. Webwallet logs in by email. It can view the balance, send BTE, receive BTE, and support multiple languages.",
     "price": 0.00
   },
   {
     "date": "June 12, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://bitwebcore.org/",
+    "sourceURL": "https://bitwebcore.net/",
     "text": "The official website was updated, new icons were added, partners were added, and French translation was added.",
     "price": 0.00
   },
   {
     "date": "June 15, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://bitwebcore.org/ecology",
+    "sourceURL": "https://bitwebcore.net/ecology",
     "text": "The official website is updated again, add ecology page.",
     "price": 0.00
   },

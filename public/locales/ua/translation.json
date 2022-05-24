@@ -164,12 +164,12 @@
       "mineTitle": "Майнінг",
       "mineText1": "Bitweb використовувала алгоритм Yespower для підтвердження виконаної роботи в мережі. Це означає, що будь-хто може добути Bitweb.",
       "communityTitle": "Спільнота",
-      "communityText1": "Приєднуйтесь на <a href=\"https://community.bitwebcore.org/\">форумі</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>для спілкування з іншими учасниками та розробниками спільноти Bitweb."
+      "communityText1": "Приєднуйтесь на <a href=\"https://community.bitwebcore.net/\">форумі</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>для спілкування з іншими учасниками та розробниками спільноти Bitweb."
     },
     "latestNewsTitle": "Останні новини"
   },
   "notFoundPage": {
     "title": "404 - Запитаний URL не знайдено",
-    "description": "Натисніть <a href=\"https://bitwebcore.org/\" style=\"color: white;\">тут</a> для перегляду Головної сторінки."
+    "description": "Натисніть <a href=\"https://bitwebcore.net/\" style=\"color: white;\">тут</a> для перегляду Головної сторінки."
   }
 }
