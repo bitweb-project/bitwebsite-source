@@ -224,7 +224,7 @@ function About() {
 		</h2>
 	    <div className="blocks-list">
             <a
-              href="none"
+              href="mailto:mraksoll4@gmail.com"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">I want</h4>
