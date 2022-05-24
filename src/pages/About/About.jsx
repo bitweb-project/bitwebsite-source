@@ -215,6 +215,31 @@ function About() {
           </div>
         </div>
       </div>
+      
+      <div className="main">
+	  <div className="anchor" data-id="partner"></div>
+	    <div className="container">
+		<h2 className="title title--green">
+		  Donors
+		</h2>
+	    <div className="blocks-list">
+            <a
+              href="none"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">I want</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/donate.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                To donate
+              </div>
+            </a>
+	  </div>
+        </div>
+      </div>
 
       <Footer />
     </>
