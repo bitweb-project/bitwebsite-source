@@ -42,71 +42,121 @@ function About() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://explorer.bitwebcore.net/address/web1q48wnxkm0xfz8jhkv0555m2pxqed39fglzs5gpl"
+                  href="https://explorer.bitwebcore.net/address/web1q8zwkqaz7yzv33aw4rlq6r5te22y2gk9p0q0xwr"
                 >
                   {" "}
-                  web1q48wnxkm0xfz8jhkv0555m2pxqed39fglzs5gpl
+                  web1q8zwkqaz7yzv33aw4rlq6r5te22y2gk9p0q0xwr
+                </a>
+                <br />
+                  <strong>SCA</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://explorer.scalaris.info/address/SjoT92w9e4vQ46T74cH7L1Q1hDL8mmpMe5"
+                >
+                  {" "}
+                  SjoT92w9e4vQ46T74cH7L1Q1hDL8mmpMe5
                 </a>
                 <br />
                   <strong>BTC</strong> Donation Address
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.blockchain.com/ru/btc/address/bc1q2uq8qdys5n8s555tahqe0lfelvwqn45hpuz7ed"
+                  href="https://www.blockchain.com/ru/btc/address/bc1qpgtmsmhaxmh0yrms2fdjwgg6jg24xud5j5rnk3"
                 >
                   {" "}
-                  bc1q2uq8qdys5n8s555tahqe0lfelvwqn45hpuz7ed
+                  bc1qpgtmsmhaxmh0yrms2fdjwgg6jg24xud5j5rnk3
+                </a>
+                <br />
+                  <strong>LTC</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://blockchair.com/ru/litecoin/address/ltc1qsegelz5pnrwvl50nvfh0eef33sef2cm0vvmtjl"
+                >
+                  {" "}
+                  ltc1qsegelz5pnrwvl50nvfh0eef33sef2cm0vvmtjl
                 </a>
                 <br />
                   <strong>DOGE</strong> Donation Address
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://blockchair.com/dogecoin/address/DCFbm2FgbVJe1vfk6pTBTz3jHjFZAV568E"
+                  href="https://blockchair.com/dogecoin/address/D7kEYNpp2P3DTpXyabHJt5XC1GzXRxbRoY"
                 >
                   {" "}
-                  DCFbm2FgbVJe1vfk6pTBTz3jHjFZAV568E
+                  D7kEYNpp2P3DTpXyabHJt5XC1GzXRxbRoY
                 </a>
                 <br />
                   <strong>ETH</strong> Donation Address
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://etherscan.io/address/0x900cc73447606e2151f0fd89f908e5dd0ab2a744"
+                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
                 >
                   {" "}
-                  0x900cc73447606E2151F0fD89F908e5dD0Ab2a744
+                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
+                </a>
+                <br />
+                  <strong>ETH USDT</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
+                >
+                  {" "}
+                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 </a>
                 <br />
                   <strong>USDT ERC20</strong> Donation Address
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://etherscan.io/address/0x900cc73447606e2151f0fd89f908e5dd0ab2a744"
+                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 >
                   {" "}
-                  0x900cc73447606E2151F0fD89F908e5dD0Ab2a744
+                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 </a>
                 <br />
                   <strong>BNB</strong> Donation Address
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://bscscan.com/address/0x900cc73447606e2151f0fd89f908e5dd0ab2a744"
+                  href="https://bscscan.com/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
                 >
                   {" "}
-                  0x900cc73447606E2151F0fD89F908e5dD0Ab2a744
+                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
+                </a>
+                <br />
+
+                  <strong>Polygon MATIC</strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://polygonscan.com/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
+                >
+                  {" "}
+                0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
+                </a>
+                <br />
+                  <strong>TRX/strong> Donation Address
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://tronscan.org/#/address/TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa"
+                >
+                  {" "}
+                  TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa
                 </a>
                 <br />
                   <strong>TRC20 USDT</strong> Donation Address
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t/holders"
+                  href="https://tronscan.org/#/address/TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa"
                 >
                   {" "}
-                  TSQSNqzmJnZvraatd421pVSh1LyJAd77cY
-                </a>
+                  TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa 
               </p>
             </div>
 

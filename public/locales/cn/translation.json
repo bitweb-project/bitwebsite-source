@@ -164,12 +164,12 @@
       "mineTitle": "挖矿",
       "mineText1": "Bitweb使用Yespower算法进行工作证明挖掘。这意味着任何人都可以开采Bitweb。",
       "communityTitle": "社区",
-      "communityText1": "加入我们的 <a href=\"https://community.bitwebcore.org/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>与其他Bitweb社区成员和开发人员聊天。"
+      "communityText1": "加入我们的 <a href=\"https://community.bitwebcore.net/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>与其他Bitweb社区成员和开发人员聊天。"
     },
     "latestNewsTitle": "最新消息"
   },
   "notFoundPage": {
     "title": "404 - 页面找不到",
-    "description": "<a href=\"https://bitwebcore.org/\" style=\"color: white;\">点击这里可以回到首页</a>"
+    "description": "<a href=\"https://bitwebcore.net/\" style=\"color: white;\">点击这里可以回到首页</a>"
   }
 }
