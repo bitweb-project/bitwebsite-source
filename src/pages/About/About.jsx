@@ -156,7 +156,8 @@ function About() {
                   href="https://tronscan.org/#/address/TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa"
                 >
                   {" "}
-                  TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa 
+                  TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa
+				</a>
               </p>
             </div>
             <div className="col col--small">
