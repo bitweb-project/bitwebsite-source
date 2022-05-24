@@ -64,15 +64,15 @@ function Resources() {
           <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
             <a
-              href="https://www.coinealpro.com/trade/BTE-CNV"
+              href="https://www.ztbzh.top/exchange?coin=BTE_USDT"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
-                Coineal Pro
+                ZTBZH
               </h4>
               <img
                 className="blocks-list__block__img"
-                src="/img/exchanges/coineal.png"
+                src="/img/exchanges/ztbzh.png"
                 alt=""
               />
               <div className="blocks-list__block__type">
