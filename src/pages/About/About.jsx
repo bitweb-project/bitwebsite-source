@@ -139,7 +139,7 @@ function About() {
                 0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 </a>
                 <br />
-                  <strong>TRX/strong> Donation Address
+                  <strong>TRX</strong> Donation Address
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
