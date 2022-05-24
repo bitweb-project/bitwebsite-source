@@ -112,7 +112,7 @@ function About() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
+                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
                 >
                   {" "}
                   0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
@@ -159,7 +159,6 @@ function About() {
                   TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa 
               </p>
             </div>
-
             <div className="col col--small">
               <h2 className="title title--green title--left">
                 {t("foundationPage.contactUsTitle")}
