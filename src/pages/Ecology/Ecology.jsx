@@ -71,7 +71,7 @@ function Ecology() {
               />
             </a>
             <a
-              href="https://t.me/jcchain2"
+              href="https://t.me/mraksoll"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add</h4>
@@ -96,7 +96,7 @@ function Ecology() {
           </h2>
           <div className="blocks-list">
             <a
-              href="https://t.me/jcchain2"
+              href="https://t.me/mraksoll"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add</h4>
@@ -121,7 +121,7 @@ function Ecology() {
           </h2>
           <div className="blocks-list">
             <a
-              href="https://t.me/jcchain2"
+              href="https://t.me/mraksoll"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add</h4>
@@ -146,7 +146,7 @@ function Ecology() {
           </h2>
           <div className="blocks-list">
             <a
-              href="https://t.me/jcchain2"
+              href="https://t.me/mraksoll"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add</h4>

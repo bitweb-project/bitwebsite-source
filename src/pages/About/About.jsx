@@ -32,7 +32,8 @@ function About() {
               <p>{t("foundationPage.missionStatementText1")}</p>
 	      <img src="/img/photos/photo3.png" alt="" height="90"/>
               <p>{t("foundationPage.missionStatementText2")}</p>
-
+	      <img src="/img/photos/photo4.jpg" alt="" height="90"/>
+              <p>{t("foundationPage.missionStatementText3")}</p>
               <h2 className="title title--green title--left">
                 {t("foundationPage.technicalSupportTitle")}
               </h2>
@@ -196,19 +197,19 @@ function About() {
                 </a>
                 <br />
               </p>
-              <p>
-                <a href="mailto:bitwebcore@gmail.com">
-                  bitwebcore@gmail.com
-                </a>
-              </p>
               <p>Mraksoll:
                 <a href="mailto:mraksoll4@gmail.com">
                   mraksoll4@gmail.com
                 </a>
               </p>
-              <p>Jcchain:
-                <a href="mailto:jcchain999@gmail.com">
-                  jcchain999@gmail.com
+              <p>Mr_G:
+                <a href="web0x008@gmail.com">
+                  web0x008@gmail.com
+                </a>
+              </p>
+              <p>Mr_G Telegram:
+                <a href="https://t.me/ID_MrG">
+                  Mr_G
                 </a>
               </p>
             </div>

@@ -146,7 +146,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://t.me/jcchain2"
+              href="https://t.me/mraksoll"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add Exchanges</h4>
@@ -340,7 +340,7 @@ function Resources() {
               </div>
             </a>
             <a
-              href="https://t.me/jcchain2"
+              href="https://t.me/mraksoll"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add group</h4>
@@ -647,7 +647,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://t.me/jcchain2"
+              href="https://t.me/mraksoll"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add</h4>
