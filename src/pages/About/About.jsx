@@ -171,7 +171,7 @@ function About() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://twitter.com/BitwebBTE"
+                  href="https://twitter.com/Bitweb_Project"
                 >
                   {" "}
                   Twitter
@@ -196,6 +196,11 @@ function About() {
                   Telegram
                 </a>
                 <br />
+              </p>
+              <p>Contact Us:
+                <a href="mailto:bitwebcoreteam@gmail.com">
+                  bitwebcoreteam@gmail.com
+                </a>
               </p>
               <p>Mraksoll:
                 <a href="mailto:mraksoll4@gmail.com">

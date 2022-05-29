@@ -16,7 +16,7 @@
   {
     "date": "May 09, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://community.bitwebcore.net/",
+    "sourceURL": "https://community.bitwebcore.org/",
     "text": "Official forum officially released and discord group established.",
     "price": 0.00
   },
@@ -30,14 +30,14 @@
   {
     "date": "May 12, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://bitwebcore.net/",
+    "sourceURL": "https://bitwebcore.org/",
     "text": "New official website.",
     "price": 0.00
   },
   {
     "date": "May 13, 2021",
     "author": "Mraksoll",
-    "sourceURL": "https://explorer.bitwebcore.net/",
+    "sourceURL": "https://explorer.bitwebcore.org/",
     "text": "New Explorer development completed.",
     "price": 0.00
   },
@@ -58,7 +58,7 @@
   {
     "date": "May 19, 2021",
     "author": "Mraksoll",
-    "sourceURL": "https://paperwallet.bitwebcore.net/",
+    "sourceURL": "https://paperwallet.bitwebcore.org/",
     "text": "Paper wallet development completed.",
     "price": 0.00
   },
@@ -72,7 +72,7 @@
   {
     "date": "May 25, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://bitwebcore.net/",
+    "sourceURL": "https://bitwebcore.org/",
     "text": "Official website updated again. ",
     "price": 0.00
   },
@@ -114,14 +114,14 @@
   {
     "date": "June 08, 2021",
     "author": "Mraksoll",
-    "sourceURL": "https://webwallet.bitwebcore.net/",
+    "sourceURL": "https://webwallet.bitwebcore.org/",
     "text": "The development of webwallet and API server is completed. Webwallet logs in by email. It can view the balance, send BTE, receive BTE, and support multiple languages.",
     "price": 0.00
   },
   {
     "date": "June 12, 2021",
     "author": "Jcchain",
-    "sourceURL": "https://bitwebcore.net/",
+    "sourceURL": "https://bitwebcore.org/",
     "text": "The official website was updated, new icons were added, partners were added, and French translation was added.",
     "price": 0.00
   },
@@ -151,13 +151,27 @@
     "author": "Mraksoll and Jcchain",
     "sourceURL": "https://vindax.com/",
     "text": "listing at https://vindax.com/ ",
-    "price": 13.00
+    "price": 0.00
   },
   {
     "date": "July 20, 2021",
     "author": "Mraksoll and Jcchain",
     "sourceURL": "https://coinpaprika.com/coin/bte-bitweb/",
     "text": "Bitweb listed at coinpaprika and AtomicDEX-beta, The official website is updated again and added them.",
-    "price": 2.50
+    "price": 0.00
+  },
+  {
+    "date": "May 20, 2022",
+    "author": "Mraksoll and Mr_G",
+    "sourceURL": "https://bitwebcore.net",
+    "text": "Update domain from https://bitwebcore.org to https://bitwebcore.net so and of all subdains what was at this domain changes , explorer , webwallets , etc...",
+    "price": 0.00
+  },
+  {
+    "date": "May 20, 2022",
+    "author": "Mraksoll and Mr_G",
+    "sourceURL": "https://bitwebcore.net",
+    "text": "Update to new social media Accounts/Threads. Twitter , Reddit , Bitcointalk , Trustpilot was updated.",
+    "price": 0.00
   }
 ]

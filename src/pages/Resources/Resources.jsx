@@ -146,7 +146,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://t.me/mraksoll"
+              href="mailto:bitwebcoreteam@gmail.com"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add Exchanges</h4>
@@ -213,7 +213,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://twitter.com/BitwebBTE"
+              href="https://twitter.com/Bitweb_Project"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Twitter</h4>
@@ -231,14 +231,6 @@ function Resources() {
                 alt=""
               />
             </a>
-            <a href="https://t.me/bitweb_rus" className="blocks-list__block">
-              <h4 className="blocks-list__block__title">Telegram_Russia</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/tg.png"
-                alt=""
-              />
-            </a>
             <a href="https://t.me/bitweb" className="blocks-list__block">
               <h4 className="blocks-list__block__title">Telegram_Chinese</h4>
               <img
@@ -246,6 +238,17 @@ function Resources() {
                 src="/img/group/tg.png"
                 alt=""
               />
+            </a>
+            <a href="https://t.me/+Wl5olJ7oRG45MDhl" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">Telegram group</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/tg.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                China Community
+              </div>
             </a>
             <a href="https://discord.gg/jQdttwgsJa" className="blocks-list__block">
               <h4 className="blocks-list__block__title">Discord</h4>
@@ -256,7 +259,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://bitcointalk.org/index.php?topic=5338488.0"
+              href="https://bitcointalk.org/index.php?topic=5400649.msg60250609#msg60250609"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">BitcoinTalk</h4>
@@ -267,24 +270,13 @@ function Resources() {
               />
             </a>
             <a
-              href="https://www.reddit.com/r/BitwebBTE"
+              href="https://www.reddit.com/r/Bitweb_Project"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Reddit</h4>
               <img
                 className="blocks-list__block__img"
                 src="/img/group/reddit.png"
-                alt=""
-              />
-            </a>
-            <a
-              href="https://www.youtube.com/channel/UCLZx6FcnBRGO-e9NLHTmtbw"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">YouTuBe</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/youtube.png"
                 alt=""
               />
             </a>
@@ -328,19 +320,8 @@ function Resources() {
                 970332590
               </div>
             </a>
-            <a href="https://t.me/+Wl5olJ7oRG45MDhl" className="blocks-list__block">
-              <h4 className="blocks-list__block__title">Telegram group</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/tg.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                China Community Unofficial
-              </div>
-            </a>
             <a
-              href="https://t.me/mraksoll"
+              href="mailto:bitwebcoreteam@gmail.com"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add group</h4>
@@ -647,7 +628,7 @@ function Resources() {
               />
             </a>
             <a
-              href="https://t.me/mraksoll"
+              href="mailto:bitwebcoreteam@gmail.com"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">Add</h4>
