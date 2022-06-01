@@ -250,6 +250,17 @@ function Resources() {
                 China Community
               </div>
             </a>
+            <a href="https://weibo.com/p/100808372139d54a53284b9bc429ad5f3e62e4/super_index" className="blocks-list__block">
+              <h4 className="blocks-list__block__title">Weibo</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/group/weibo.png"
+                alt=""
+              />
+              <div className="blocks-list__block__type">
+                China Community
+              </div>
+            </a>
             <a href="https://discord.gg/jQdttwgsJa" className="blocks-list__block">
               <h4 className="blocks-list__block__title">Discord</h4>
               <img

@@ -18,7 +18,7 @@ function Footer() {
             <div className="footer__twitter">
               <TwitterTimelineEmbed
                 sourceType="profile"
-                screenName="BitwebBTE"
+                screenName="Bitweb_Project"
                 options={{width: 385, height: 360}}
               />
             </div>
