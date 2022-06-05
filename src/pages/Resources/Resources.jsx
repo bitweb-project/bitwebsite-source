@@ -320,7 +320,7 @@ function Resources() {
                 746470547
               </div>
             </a>
-            <a href="#" className="blocks-list__block">
+            <a href="https://qm.qq.com/cgi-bin/qm/qr?k=s6i1yIaIOFwE5ei5s4N8zzV2Fjv0Ut2F&authKey=71br0kd8Dinwp5%2FNFCL8MHj0WJOtTi%2BNQQD9%2F%2B%2FPlmUVufsJCxjYpytN5Jqcy8Ez&noverify=0&group_code=865901394" className="blocks-list__block">
               <h4 className="blocks-list__block__title">QQ group 2</h4>
               <img
                 className="blocks-list__block__img"
@@ -328,7 +328,7 @@ function Resources() {
                 alt=""
               />
               <div className="blocks-list__block__type">
-                970332590
+                865901394
               </div>
             </a>
             <a
