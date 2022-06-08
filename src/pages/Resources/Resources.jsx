@@ -75,9 +75,6 @@ function Resources() {
                 src="/img/exchanges/ztbzh.png"
                 alt=""
               />
-              <div className="blocks-list__block__type">
-                KYC required
-              </div>
             </a>
             <a
               href="https://atomicdex.io"
