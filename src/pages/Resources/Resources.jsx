@@ -626,15 +626,15 @@ function Resources() {
               />
             </a>
             <a
-              href="#"
+              href="mailto:web0x008@gmail.com"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
-                Jige - investor
+                Mr_G - Investor
               </h4>
               <img
                 className="blocks-list__block__img"
-                src="/img/partner/jige.jpg"
+                src="/img/group/mr_g.jpg"
                 alt=""
               />
             </a>
