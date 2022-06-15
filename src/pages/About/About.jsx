@@ -235,7 +235,7 @@ function About() {
 		</h2>
 	    <div className="blocks-list">
             <a
-              href="mailto:mraksoll4@gmail.com"
+              href="mailto:mraksoll@bitwebcore.net"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">I want</h4>
