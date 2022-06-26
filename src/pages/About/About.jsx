@@ -198,31 +198,31 @@ function About() {
                 <br />
               </p>
               <p>Contact Us:
-			    <br>
+			    <br />
                 <a href="mailto:contact@bitwebcore.net">
                   Contact
                 </a>
               </p>
               <p>Mraksoll:
-			    <br>
+			    <br />
                 <a href="mailto:mraksoll@bitwebcore.net">
                   mraksoll@bitwebcore.net
                 </a>
               </p>
               <p>Mr.G:
-			    <br>
+			    <br />
                 <a href="mailto:mr.g@bitwebcore.net">
                   MR.G@bitwebcore.net
                 </a>
               </p>
               <p>Mr.G:
-			    <br>
+			    <br />
                 <a href="mailto:web0x008@gmail.com">
                   web0x008@gmail.com
                 </a>
               </p>
               <p>Mr.G Telegram:
-			    <br>
+			    <br />
                 <a href="https://t.me/ID_MrG">
                   Mr.G
                 </a>
