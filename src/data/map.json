@@ -85,7 +85,7 @@
   },
   {
     "date": "May 26, 2021",
-    "author": "Mraksoll and Jcchian",
+    "author": "Mraksoll and Jcchain",
     "sourceURL": "https://github.com/bitweb-project/electrum-bte/releases/tag/4.1.2",
     "text": "Electrum Bitweb Wallet v4.1.2(Windows,macOS,Linux,Android v7.0 and higher,Python v3.6.1 and higher) and Official website updated again. ",
     "price": 0.00
@@ -106,7 +106,7 @@
   },
   {
     "date": "June 06, 2021",
-    "author": "Mraksoll and Jcchian",
+    "author": "Mraksoll and Jcchain",
     "sourceURL": "https://discord.gg/9hVt7XHmA6",
     "text": "Discord tip-bot development completed,Can directly generate addresses, check balances, and send transactions. The official website is updated again.",
     "price": 0.00
@@ -162,14 +162,14 @@
   },
   {
     "date": "May 20, 2022",
-    "author": "Mraksoll and Mr_G",
+    "author": "Mraksoll and Mr.G",
     "sourceURL": "https://bitwebcore.net",
     "text": "Update domain from https://bitwebcore.org to https://bitwebcore.net, so all subdomains what was at this domain changed , explorer , webwallets , etc...",
     "price": 0.00
   },
   {
     "date": "May 30, 2022",
-    "author": "Mraksoll and Mr_G",
+    "author": "Mraksoll and Mr.G",
     "sourceURL": "https://bitwebcore.net",
     "text": "Update to new social media Accounts/Threads. Twitter , Reddit , Bitcointalk , Trustpilot was updated.",
     "price": 0.00
