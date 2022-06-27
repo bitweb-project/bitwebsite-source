@@ -1,0 +1,68 @@
+@import "../../style/_variables";
+@import "../../style/_viewports";
+
+.logo-about {
+  width: 210px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.text-sections2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.text-sections2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  .title {
+    font-weight: 500;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  p {
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+  }
+
+  .row {
+    margin-top: 50px;
+  }
+
+  ul {
+    li {
+      padding: 5px;
+    }
+  }
+
+  a:not(.btn) {
+    color: $color-green;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+}
+
+.description {
+  color: $color-green;
+  font-style: italic;
+  text-align: center;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 2.3rem;
+}
+.vertical-timeline::before {
+  background: $color-green !important;
+}

@@ -25,6 +25,9 @@
       },
       "roadmap": {
         "title": "Mapa drogowa"
+      },
+      "communityfoundation": {
+        "title": "Fundacja Wspólnota"
       }
     }
   },
@@ -45,6 +48,9 @@
 	"missionStatementText3": "Mr.G Menadżer społeczności w Chinach / Sponsor projektu.",
     "technicalSupportTitle": "Wsparcie",
     "technicalSupportText": "Jeśli chcesz uczestniczyć w Bitweb lub jeśli chcesz wspierać programistów, dostępnych jest kilka opcji. Jeśli chcesz zostać programistą w projekcie Bitweb, wyślij e-mail na adres contact@bitwebcore.net. Jeśli chcesz przekazać darowiznę BTE na rzecz Bitweb, aby wesprzeć rozwój projektu, po prostu wyślij swoją darowiznę BTE na poniższy adres. Jeśli Twoja darowizna BTE jest większa niż 100 000, możesz umieścić swój wkład wśród partnerów. Napisz do nas. Jeśli chcesz zostać partnerem lub inwestorem BTE, napisz do nas na adres contact@bitwebcore.net.",
+    "communityFoundation": "Adres podany przez menedżera społeczności MR.G China.",
+	"Address": "Adres Darowizny",
+	"Address2": "Adres Fundacji",
     "contactUsTitle": "Skontaktuj się z nami",
     "partnerTitle": "Instytucje inwestycyjne/Partnerzy"
   },
@@ -82,6 +88,10 @@
   "RoadmapPage": {
     "title": "Mapa drogowa",
     "description": "Ścieżka rozwoju Bitweb, długoterminowa aktualizacja"
+  },
+  "Communityfoundation": {
+    "title": "Fundacja Wspólnota",
+    "description": "Tutaj znajdziesz adresy Fundacji Wspólnota"
   },
   "walletPage": {
     "title": "Portfele",

@@ -7,6 +7,7 @@ import Ecology from "./pages/Ecology/Ecology";
 import About from "./pages/About/About";
 import Wallet from "./pages/Wallet/Wallet";
 import Roadmap from "./pages/Roadmap/Roadmap";
+import Communityfoundation from "./pages/Communityfoundation/Communityfoundation";
 import ScrollTop from "./components/ScrollTop/ScrollTop";
 import NotFound from "./pages/NotFound/NotFound";
 import { handleHash } from "./helpers/Hash";
@@ -27,6 +28,7 @@ function App() {
           <Route path="/about" component={About} />
           <Route path="/wallet" component={Wallet} />
           <Route path="/roadmap" component={Roadmap} />
+          <Route path="/communityfoundation" component={Communityfoundation} />
           <Route path="/*" component={NotFound} />
         </Switch>
       </>

@@ -25,6 +25,9 @@
       },
       "roadmap": {
         "title": "路线图"
+      },
+      "communityfoundation": {
+        "title": "社區基金會"
       }
     }
   },
@@ -45,6 +48,9 @@
 	"missionStatementText3": "Mr.G 中國社區經理/項目發起人",
     "technicalSupportTitle": "支持",
     "technicalSupportText": "如果你想加入Bitweb，或者想支持开发者，这里有几个选项。如果你有兴趣成为Bitweb项目的开发者，请发送电子邮件到contact@bitwebcore.net。如果您想向Bitweb捐赠BTE以支持项目的发展，请将您的BTE捐赠发送到以下地址。如果您的BTE捐赠超过10万，您可以选择在合作伙伴中列出您的捐赠。请邮件我们。如果您想成为BTE的合作伙伴或投资者，请发送电子邮件至contact@bitwebcore.net。",
+    "communityFoundation": "地址由 MR.G 中國社區經理提供",
+	"Address": "捐款地址",
+	"Address2": "基金會地址",
     "contactUsTitle": "联系我们",
     "partnerTitle": "投资机构/合作伙伴"
   },
@@ -82,6 +88,10 @@
   "RoadmapPage": {
     "title": "路线图",
     "description": "Bitweb发展路线，长期更新"
+  },
+  "Communityfoundation": {
+    "title": "社區基金會",
+    "description": "在這裡您可以找到社區基金會的地址"
   },
   "walletPage": {
     "title": "钱包",

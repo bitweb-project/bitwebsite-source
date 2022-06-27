@@ -25,6 +25,9 @@
       },
       "roadmap": {
         "title": "Roadmap"
+      },
+      "communityfoundation": {
+        "title": "Community Foundation"
       }
     }
   },
@@ -45,6 +48,9 @@
 	"missionStatementText3": "Mr.G China Community manager / Project sponsor",
     "technicalSupportTitle": "Support",
     "technicalSupportText": "If you want to participate in the Bitweb, or if you want to support developers, there are several options available. If you are interested in becoming a developer on the Bitweb project, please send an email to contact@bitwebcore.net. If you would like to donate BTE to Bitweb to support the development of the project, simply send your BTE donation to the address below. If your BTE donation is greater than 100,000, you can choose to list your contribution among the partners. Please email us. If you would like to become a BTE partner or investor, please email us at contact@bitwebcore.net.",
+    "communityFoundation": "Address provided by MR.G China Community Manager.",
+	"Address": "Donation Address",
+	"Address2": "Foundation Address",
     "contactUsTitle": "Contact Us",
     "partnerTitle": "Investment institutions/Partners"
   },
@@ -82,6 +88,10 @@
   "RoadmapPage": {
     "title": "Roadmap",
     "description": "Bitweb development route, long term update"
+  },
+  "Communityfoundation": {
+    "title": "Community Foundation",
+    "description": "Here you can find the addresses of the Community Foundation"
   },
   "walletPage": {
     "title": "Wallets",

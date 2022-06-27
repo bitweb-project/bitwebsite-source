@@ -25,6 +25,9 @@
       },
       "roadmap": {
         "title": "Feuille de route"
+      },
+      "communityfoundation": {
+        "title": "Fondation Communautaire"
       }
     }
   },
@@ -45,7 +48,10 @@
 	"missionStatementText3": "Mr.G Community Manager chinois / Sponsor du projet",
     "technicalSupportTitle": "Support",
     "technicalSupportText": "Si vous souhaitez participer au Bitweb, ou si vous souhaitez soutenir les développeurs, plusieurs options s'offrent à vous. Si vous souhaitez devenir développeur sur le projet Bitweb, veuillez envoyer un e-mail à contact@bitwebcore.net. Si vous souhaitez faire un don de BTE à Bitweb pour soutenir le développement du projet, envoyez simplement votre don de BTE à l'adresse ci-dessous. Si votre don BTE est supérieur à 100 000, vous pouvez choisir de répertorier votre contribution parmi les partenaires. Veuillez nous envoyer un courriel. Si vous souhaitez devenir partenaire ou investisseur BTE, veuillez nous envoyer un e-mail à contact@bitwebcore.net.",
-    "contactUsTitle": "Nous contacter",
+    "communityFoundation": "Adresses fournies par MR.G - Community manager Chine.",
+	"Address": "Adresse de don",
+	"Address2": "Adresse de la Fondation",
+	"contactUsTitle": "Nous contacter",
     "partnerTitle": "Institutions d'investissement/Partenaires"
   },
   "ecologyPage": {
@@ -82,6 +88,10 @@
   "RoadmapPage": {
     "title": "Feuille de route",
     "description": "Route de développement Bitweb, mise à jour à long terme"
+  },
+  "Communityfoundation": {
+    "title": "Fondation Communautaire",
+    "description": "Ici vous pouvez trouver les adresses de la Fondation communautaire"
   },
   "walletPage": {
     "title": "Wallets",

@@ -87,6 +87,11 @@ function Menu() {
               </Link>
             </li>
             <li>
+              <Link to="/communityfoundation">
+                <span>{t("menuComponent.links.communityfoundation.title")}</span>
+              </Link>
+            </li>
+            <li>
                 <Link to="/about">
                   {t("menuComponent.links.project.peercoinFoundation")}
                 </Link>

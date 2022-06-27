@@ -25,6 +25,9 @@
       },
       "roadmap": {
         "title": "路線図"
+      },
+      "communityfoundation": {
+        "title": "コミュニティ財団"
       }
     }
   },
@@ -45,6 +48,9 @@
 	"missionStatementText3": "Mr.G チャイナコミュニティマネージャー/プロジェクトスポンサー",
     "technicalSupportTitle": "サポート",
     "technicalSupportText": "Bitweb に参加したい場合、または開発者をサポートしたい場合は、いくつかの選択肢があります。 Bitweb プロジェクトの開発者になることに興味がある場合は、contact@bitwebcore.net にメールを送信してください。 プロジェクトの開発を支援するために Bitweb に BTE を寄付したい場合は、BTE の寄付を以下のアドレスに送信してください。 BTE の寄付が 100,000 を超える場合、パートナーに寄付をリストすることを選択できます。 メールでお問い合わせください。 BTE パートナーまたは投資家になりたい場合は、contact@bitwebcore.net までメールでお問い合わせください。",
+    "communityFoundation": "MR.Gチャイナコミュニティマネージャーから提供されたアドレス",
+	"Address": "寄付先住所",
+	"Address2": "財団の住所",
     "contactUsTitle": "お問い合わせ",
     "partnerTitle": "投資機関・パートナー"
   },
@@ -82,6 +88,10 @@
   "RoadmapPage": {
     "title": "路線図",
     "description": "Bitweb発展路線、長期更新"
+  },
+  "Communityfoundation": {
+    "title": "コミュニティ財団",
+    "description": "ここでは、コミュニティ財団の住所を見つけることができます"
   },
   "walletPage": {
     "title": "財布",

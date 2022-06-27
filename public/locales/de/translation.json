@@ -25,6 +25,9 @@
       },
       "roadmap": {
         "title": "Fahrplan"
+      },
+      "communityfoundation": {
+        "title": "Gemeinschaftsstiftung"
       }
     }
   },
@@ -45,7 +48,10 @@
 	"missionStatementText3": "Mr.G Chinesischer Community Manager / Projektsponsor",
     "technicalSupportTitle": "Unterstützung",
     "technicalSupportText": "Wenn Sie am Bitweb teilnehmen oder Entwickler unterstützen möchten, stehen Ihnen mehrere Möglichkeiten zur Verfügung. Wenn Sie daran interessiert sind, Entwickler im Bitweb-Projekt zu werden, senden Sie bitte eine E-Mail an contact@bitwebcore.net. Wenn Sie BTE an Bitweb spenden möchten, um die Entwicklung des Projekts zu unterstützen, senden Sie einfach Ihre BTE-Spende an die unten stehende Adresse. Wenn Ihre BTE-Spende mehr als 100.000 beträgt, können Sie Ihren Beitrag unter den Partnern auflisten. Bitte mailen Sie uns. Wenn Sie BTE-Partner oder Investor werden möchten, senden Sie uns bitte eine E-Mail an contact@bitwebcore.net.",
-    "contactUsTitle": "Kontaktiere uns",
+    "communityFoundation": "Vom MR.G China Community Manager bereitgestellte Adresse.",
+	"Address": "Spendenadresse",
+	"Address2": "Adresse der Stiftung",
+	"contactUsTitle": "Kontaktiere uns",
     "partnerTitle": "Investmentinstitute/Partner"
   },
   "ecologyPage": {
@@ -82,6 +88,10 @@
   "RoadmapPage": {
     "title": "Fahrplan",
     "description": "Bitweb-Entwicklungsroute, langfristiges Update"
+  },
+  "Communityfoundation": {
+    "title": "Gemeinschaftsstiftung",
+    "description": "Hier finden Sie die Adressen der Bürgerstiftung"
   },
   "walletPage": {
     "title": "Geldbörsen",

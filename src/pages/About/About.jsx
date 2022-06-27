@@ -39,7 +39,7 @@ function About() {
               </h2>
               <p>{t("foundationPage.technicalSupportText")}</p>
               <p>
-                  <strong>BTE</strong> Donation Address
+                  <strong>BTE</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -49,7 +49,7 @@ function About() {
                   web1q8zwkqaz7yzv33aw4rlq6r5te22y2gk9p0q0xwr
                 </a>
                 <br />
-                  <strong>SCA</strong> Donation Address
+                  <strong>SCA</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -59,7 +59,7 @@ function About() {
                   SjoT92w9e4vQ46T74cH7L1Q1hDL8mmpMe5
                 </a>
                 <br />
-                  <strong>BTC</strong> Donation Address
+                  <strong>BTC</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -69,7 +69,7 @@ function About() {
                   bc1qpgtmsmhaxmh0yrms2fdjwgg6jg24xud5j5rnk3
                 </a>
                 <br />
-                  <strong>LTC</strong> Donation Address
+                  <strong>LTC</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -79,7 +79,7 @@ function About() {
                   ltc1qsegelz5pnrwvl50nvfh0eef33sef2cm0vvmtjl
                 </a>
                 <br />
-                  <strong>DOGE</strong> Donation Address
+                  <strong>DOGE</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -89,7 +89,7 @@ function About() {
                   D7kEYNpp2P3DTpXyabHJt5XC1GzXRxbRoY
                 </a>
                 <br />
-                  <strong>ETH</strong> Donation Address
+                  <strong>ETH</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -99,7 +99,7 @@ function About() {
                   0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 </a>
                 <br />
-                  <strong>ETH USDT</strong> Donation Address
+                  <strong>ETH USDT</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -109,7 +109,7 @@ function About() {
                   0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 </a>
                 <br />
-                  <strong>USDT ERC20</strong> Donation Address
+                  <strong>USDT ERC20</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -119,7 +119,7 @@ function About() {
                   0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 </a>
                 <br />
-                  <strong>BNB</strong> Donation Address
+                  <strong>BNB</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -130,7 +130,7 @@ function About() {
                 </a>
                 <br />
 
-                  <strong>Polygon MATIC</strong> Donation Address
+                  <strong>Polygon MATIC</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -140,7 +140,7 @@ function About() {
                 0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
                 </a>
                 <br />
-                  <strong>TRX</strong> Donation Address
+                  <strong>TRX</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -150,7 +150,7 @@ function About() {
                   TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa
                 </a>
                 <br />
-                  <strong>TRC20 USDT</strong> Donation Address
+                  <strong>TRC20 USDT</strong> {t("foundationPage.Address")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
