@@ -2,19 +2,19 @@
   {
     "os": "Windows",
     "img": "/img/icons/windows.png",
-    "checksum": "24EBEF01A07E9FE7A7FE29903C6D4178A5436BAB1D2AE4F6162F2F5CA38B0397",
-    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.1.2/bitweb-6a449fe38987-win64-setup-unsigned.exe"
+    "checksum": "800065163C46919AA5EEEF0F7BCBEA5FC903E93B6E636B09B862703E032A3528",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.1.1/bitweb-3d95e104455b-win64-setup-unsigned.exe"
   },
   {
     "os": "macOS",
     "img": "/img/icons/apple.png",
-    "checksum": "9B59AF7B624A09A94AA2BA5634D902C8157B9891AD5D918327FE017701465320",
-    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.1.2/bitweb-6a449fe38987-osx-unsigned.dmg"
+    "checksum": "A83069611E65416255A741D98C5FD8C87D0A3F6BB9A532FAB5598956E069FCD0  ",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.1.1/bitweb-3d95e104455b-osx-unsigned.dmg"
   },
   {
     "os": "Linux",
     "img": "/img/icons/linux.png",
-    "checksum": "AB995950CE436C10B6D6B75C225E64FB855F3AE8707A3574E656B28BD5577BA8",
-    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.1.2/bitweb-6a449fe38987-x86_64-linux-gnu.tar.gz"
+    "checksum": "4D52672A09DEDA7F05736CC4E1FE69D5BD260658DB2503EF443E5A288E77EBAE",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.1.1/bitweb-3d95e104455b-x86_64-linux-gnu.tar.gz"
   }
 ]
