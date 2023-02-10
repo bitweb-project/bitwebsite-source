@@ -64,7 +64,7 @@ function Resources() {
           <p className="description">{t("resourcesPage.exchangesText")}</p>
           <div className="blocks-list">
             <a
-              href="https://www.ztbzh.top/exchange?coin=BTE_USDT"
+              href="https://www.ztb.im/exchange?coin=BTE_USDT"
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
