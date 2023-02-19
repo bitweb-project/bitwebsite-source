@@ -173,5 +173,12 @@
     "sourceURL": "https://bitwebcore.net",
     "text": "Update to new social media Accounts/Threads. Twitter , Reddit , Bitcointalk , Trustpilot was updated.",
     "price": 0.00
+  },
+  {
+    "date": "Feb 19, 2023",
+    "author": "Mraksoll",
+    "sourceURL": "https://github.com/bitweb-project/bitweb/releases/tag/v0.21.3.0",
+    "text": "GPU mining enabled.",
+    "price": 0.00
   }
 ]
