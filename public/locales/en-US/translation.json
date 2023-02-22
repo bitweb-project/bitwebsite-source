@@ -110,29 +110,29 @@
     "installationTitle": "Electrum Bitweb Wallet",
     "sectionWindows": {
       "title1": "Standalone Executable",
-      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2.exe\">Standalone Executable</a>",
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/electrum-bte-v4.3.4.exe\">Standalone Executable</a>",
       "title2": "Windows Installer",
-      "text2": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-setup.exe\">Windows Installer</a>",
+      "text2": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/electrum-bte-v4.3.4-setup.exe\">Windows Installer</a>",
       "title3": "Portable version (security advice)",
-      "text3": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-portable.exe\">Portable version (security advice)</a>"
+      "text3": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/electrum-bte-v4.3.4-portable.exe\">Portable version (security advice)</a>"
     },
     "sectionMac": {
       "title1": "Executable for OS X",
-      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-4.1.2-2-ga9375a8a0.dmg\">Executable for OS X</a>"
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/electrum-bte-v4.3.4.dmg\">Executable for OS X</a>"
     },
     "sectionLinux": {
       "title1": "Appimage",
-      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/electrum-bte-v4.1.2-x86_64.AppImage\">Appimage</a>"
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/electrum-v4.3.4-x86_64.AppImage\">Appimage</a>"
     },
     "sectionAndroid": {
       "title1": "Android(8.0)-64bit",
-      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/Electrum_BTE-4.3.4.0-arm64-v8a-release.apk\">Android(8.0).apk</a>",
       "title2": "Android(7.0)-32bit arch",
-      "text2": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.1.2/Electrum_BTE-4.1.2.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
+      "text2": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/Electrum_BTE-4.3.4.0-armeabi-v7a-release.apk\">Android(7.0).apk</a>"
     },
     "sectionPython": {
-      "title1": "Electrum-bitweb-4.1.2.tar.gz",
-      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/archive/refs/tags/v4.1.2.tar.gz\">Electrum-bitweb-4.1.2.tar.gz</a>",
+      "title1": "Electrum-BTE-4.3.4.tar.gz",
+      "text1": "Download <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/Electrum-BTE-4.3.4.tar.gz\">Electrum-BTE-4.3.4.tar.gz</a>",
       "title2": "Linux installation from Python sources",
       "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
       "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
