@@ -134,9 +134,7 @@
       "title1": "Electrum-BTE-4.3.4.tar.gz",
       "text1": "Загрузка <a href=\"https://github.com/bitweb-project/electrum-bte/releases/download/v4.3.4/Electrum-BTE-4.3.4.tar.gz\">Electrum-BTE-4.3.4.tar.gz</a>",
       "title2": "Linux installation from Python sources",
-      "text2": "<code className=\"green\">sudo apt-get install python3-pyqt5 libsecp256k1-0 python3-cryptography</code>",
-      "text3": "<code className=\"green\">sudo apt-get install python3-setuptools python3-pip</code>",
-      "text4": "<code className=\"green\">python3 -m pip install --user Electrum-bte-4.1.2.tar.gz</code>"
+      "text2": "<a href=\"https://github.com/bitweb-project/electrum-bte\">https://github.com/bitweb-project/electrum-bte</a>"
     },
     "paperWalletTitle": "Другие Кошельки",
     "paperWalletSubtitle1": "Бумажный Кошелек",
