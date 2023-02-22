@@ -248,8 +248,6 @@ function Wallet() {
                     <h2>{t("walletPage.sectionPython.title2")}</h2>
                     <ul>
                       <li>{renderHTML(t("walletPage.sectionPython.text2"))}</li>
-                      <li>{renderHTML(t("walletPage.sectionPython.text3"))}</li>
-                      <li>{renderHTML(t("walletPage.sectionPython.text4"))}</li>
                     </ul>
                   </div>
                 </div>
