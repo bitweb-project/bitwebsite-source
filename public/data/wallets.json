@@ -1,20 +1,37 @@
 [
   {
-    "os": "Windows",
+    "os": "Windows Setup",
     "img": "/img/icons/windows.png",
-    "checksum": "F93D7B199D86E2958B3634009D54EFAB859B49376A081B22C01B998E7B3E4EB2",
-    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.3.0/bitweb-085c0e7070ee-win64-setup-unsigned.exe"
+    "checksum": "68E0BC3F9F64A82728EAE7D047FE61BFD1555668671A714F1FA6EF8BC0E9B360",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.24.0.1/bitweb-5a7464ecd79f-win64-setup-unsigned.exe"
+  },
+  {
+    "os": "Windows Portable",
+    "img": "/img/icons/windows.png",
+    "checksum": "D0FB85517FE7E49FD46EC55F3833D5C6274DACB16185C7EAF9986AB7ECDAA888",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.24.0.1/bitweb-5a7464ecd79f-win64.zip"
   },
   {
     "os": "macOS",
     "img": "/img/icons/apple.png",
-    "checksum": "FA1CB4B55F14DA732F5B0FE2845854E04600919DE386FECB84F3C1004FFB4D24",
-    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.3.0/bitweb-085c0e7070ee-osx-unsigned.dmg"
+    "checksum": "C9AF19F9C7D3C040C9780B74706022378EB41DB0DAFFAA372B01962A9C4E606D",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.24.0.1/bitweb-5a7464ecd79f-x86_64-apple-darwin-unsigned.dmg"
   },
   {
-    "os": "Linux",
+    "os": "ARM macOS",
+    "img": "/img/icons/apple.png",
+    "checksum": "C4786715A8C5BF3AF7565348A2AC5FD9E623588C06C7DF6F0D26786CDD199A58",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.24.0.1/bitweb-5a7464ecd79f-arm64-apple-darwin-unsigned.dmg"
+  },
+  {
+    "os": "Linux x86-64",
     "img": "/img/icons/linux.png",
-    "checksum": "22B187AF23A9730A1567BE55F22E4779608866AA5BAC37B763256CA17AEBAC5E",
-    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.21.3.0/bitweb-085c0e7070ee-x86_64-linux-gnu.tar.gz"
+    "checksum": "678132FBB2E33D5DC641E11684499BFB54F1A49BEEEAA5C1AA091CFF7E7A464E",
+    "link": "https://github.com/bitweb-project/bitweb/releases/download/v0.24.0.1/bitweb-5a7464ecd79f-x86_64-linux-gnu.tar.gz"
+  },
+  {
+    "os": "Other Releases",
+    "img": "/img/icons/github_green.png",
+    "link": "https://github.com/bitweb-project/bitweb/releases/latest"
   }
 ]
