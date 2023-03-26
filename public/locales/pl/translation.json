@@ -142,7 +142,8 @@
     "type1": "Portfel sprzętowy",
     "type2": "Api Server",
     "type3": "Portfel internetowy",
-    "type4": "Portfel mobilny"
+    "type4": "Portfel mobilny",
+    "type5": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

@@ -142,7 +142,8 @@
     "type1": "Carteira de Hardware",
     "type2": "Api Server",
     "type3": "Web Carteira",
-    "type4": "Carteira móvel"
+    "type4": "Carteira móvel",
+    "type5": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

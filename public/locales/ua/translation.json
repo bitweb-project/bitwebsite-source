@@ -141,7 +141,9 @@
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
     "type1": "Апаратний Гаманець",
     "type2": "Api Server",
-    "type3": "Веб-Гаманець"
+    "type3": "Веб-Гаманець",
+    "type4": "Mobile Wallet",
+    "type5": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

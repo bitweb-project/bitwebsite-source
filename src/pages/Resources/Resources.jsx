@@ -163,6 +163,17 @@ function Resources() {
               />
             </a>
             <a
+              href="https://explorer2.bitwebcore.net/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">Bitweb Explorer</h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/explorers/bitwebexp.png"
+                alt=""
+              />
+            </a>
+            <a
               href="https://openchains.info/coin/bitweb/blocks"
               className="blocks-list__block"
             >

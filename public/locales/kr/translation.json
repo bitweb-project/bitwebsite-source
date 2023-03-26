@@ -142,7 +142,8 @@
     "type1": "하드웨어 지갑",
     "type2": "Api Server",
     "type3": "웹 지갑",
-    "type4": "모바일"
+    "type4": "모바일",
+    "type5": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

@@ -142,7 +142,8 @@
     "type1": "Hardware Wallet",
     "type2": "Api Server",
     "type3": "Web Wallet",
-    "type4": "Mobile Wallet"
+    "type4": "Mobile Wallet",
+    "type5": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

@@ -58,6 +58,19 @@ function Ecology() {
               />
             </a>
             <a
+              href="https://api2.bitwebcore.net/"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                {t("walletPage.type5")}
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/wallets/apiserver.png"
+                alt=""
+              />
+            </a>			
+            <a
               href="https://github.com/bitweb-project/electrumx"
               className="blocks-list__block"
             >

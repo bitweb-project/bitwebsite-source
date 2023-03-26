@@ -141,7 +141,10 @@
     "paperWalletSubtitle2": "ElectrumX-Bitweb",
     "type1": "硬件钱包",
     "type2": "Api Server",
-    "type3": "网络钱包"
+    "type3": "网络钱包",
+    "type4": "Mobile Wallet",
+    "type5": "Api2 Server"
+	
   },
   "indexPage": {
     "title1": "比特网",
