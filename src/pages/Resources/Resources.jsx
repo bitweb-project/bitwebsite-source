@@ -290,17 +290,6 @@ function Resources() {
                 109815339
               </div>
             </a>
-            <a href="https://qm.qq.com/cgi-bin/qm/qr?k=RVSkzxfGo1LArAq86_nbnpBHGdMU0tgu&jump_from=webapi" className="blocks-list__block">
-              <h4 className="blocks-list__block__title">QQ group</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/China-qq.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                865901394
-              </div>
-            </a>
             <a href="https://t.me/bitwebcoin" className="blocks-list__block">
               <h4 className="blocks-list__block__title">Telegram_Chinese</h4>
               <img
@@ -600,19 +589,6 @@ function Resources() {
               <img
                 className="blocks-list__block__img"
                 src="/img/partner/coincost.png"
-                alt=""
-              />
-            </a>
-            <a
-              href="mailto:web0x008@gmail.com"
-              className="blocks-list__block"
-            >
-              <h4 className="blocks-list__block__title">
-                Mr.G - Investor
-              </h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/mr_g.jpg"
                 alt=""
               />
             </a>

@@ -28,30 +28,30 @@ function Communityfoundation() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://explorer.bitwebcore.net/address/web1qgcdle8dkhla6x5pt7mar47hksyn5gezcay99ke"
+                  href="https://explorer.bitwebcore.net/address/web1qqtke2c89l9cdku5jy09qzl99xcq4rjvdt828ws"
                 >
                   {" "}
-                  web1qgcdle8dkhla6x5pt7mar47hksyn5gezcay99ke
+                  web1qqtke2c89l9cdku5jy09qzl99xcq4rjvdt828ws
                 </a>
                 <br />
                   <strong>TRX</strong> {t("foundationPage.Address2")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://tronscan.org/#/address/TMMRVMqQ4hAJqP2ZxkGz572o5UwYePcTgc"
+                  href="https://tronscan.org/#/address/TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv"
                 >
                   {" "}
-                  TMMRVMqQ4hAJqP2ZxkGz572o5UwYePcTgc
+                  TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv
                 </a>
                 <br />
                   <strong>TRC20 USDT</strong> {t("foundationPage.Address2")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://tronscan.org/#/address/TMMRVMqQ4hAJqP2ZxkGz572o5UwYePcTgc"
+                  href="https://tronscan.org/#/address/TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv"
                 >
                   {" "}
-                  TMMRVMqQ4hAJqP2ZxkGz572o5UwYePcTgc
+                  TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv
 				</a>
               </p> 
             </div>
