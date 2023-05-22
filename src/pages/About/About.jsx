@@ -30,6 +30,8 @@ function About() {
               <p>{t("foundationPage.missionStatementText")}</p>
 	      <img src="/img/photos/photo2.jpg" alt="" height="90"/>
               <p>{t("foundationPage.missionStatementText1")}</p>
+	      <img src="/img/photos/photo5.jpg" alt="" height="90"/>
+              <p>{t("foundationPage.missionStatementText2")}</p>
               <h2 className="title title--green title--left">
                 {t("foundationPage.technicalSupportTitle")}
               </h2>
