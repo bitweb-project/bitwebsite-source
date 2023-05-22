@@ -157,7 +157,7 @@
     "userGovernanceText2": "Segwit économise de l'espace dans le bloc Bitweb, et le temps de bloc de 60 secondes garantit des performances acceptables. Cela contribue également à réduire les frais de transaction.",
     "userGovernanceText3": "Le temps de chaque bloc de Bitweb est de 60 secondes, donc sa vitesse de transaction est très rapide, 10 fois celle du bitcoin.",
     "trustlessTitle": "Preuve de travail",
-    "trustlessText1": "Bitweb utilise l'algorithme yespower, qui ne prend en charge que le calcul CPU, réduit le coût de participation de chacun et permet à plus de personnes de participer et d'utiliser BTE.",
+    "trustlessText1": "Bitweb utilise l'algorithme YescryptR16, qui ne prend en charge que le calcul CPU/GPU, réduit le coût de participation de chacun et permet à plus de personnes de participer et d'utiliser BTE.",
     "trustlessText2": "La consommation d'énergie est plus faible et les mineurs peuvent obtenir des récompenses pour leur participation à l'exploitation minière, avec 50 pièces BTE par bloc.",
     "trustlessText3": "Bitweb utilise l'ajustement de la difficulté LWMA pour réduire de moitié la production par 840000 blocs.",
     "fairDistributionTitle": "Stockage de valeur",
@@ -172,7 +172,7 @@
       "walletText2": "Des expériences en ligne de commande sont également disponibles.",
       "walletText3": "Pour commencer, consultez la page de téléchargement de Wallet et le guide d'installation.",
       "mineTitle": "Exploiter",
-      "mineText1": "Bitweb utilise l'algorithme Yespower pour l'exploration de preuves de travail. Cela signifie que n'importe qui peut exploiter bitweb.",
+      "mineText1": "Bitweb utilise l'algorithme YescryptR16 pour l'exploration de preuves de travail. Cela signifie que n'importe qui peut exploiter bitweb.",
       "communityTitle": "Communauté",
       "communityText1": "Rejoignez notre <a href=\"https://community.bitwebcore.net/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> pour discuter avec d'autres membres et développeurs de la communauté bitweb."
     },

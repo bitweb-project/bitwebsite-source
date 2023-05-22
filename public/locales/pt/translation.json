@@ -157,7 +157,7 @@
     "userGovernanceText2": "O Segwit fornece ao Bitweb economia de espaço em bloco e, com um tempo de bloqueio de 60 segundos, é alcançada uma eficiência razoável. E também contribui para reduzir as taxas de transação.",
     "userGovernanceText3": "O tempo de cada bloco do Bitweb é de 60 segundos, então sua velocidade de transação é muito rápida, 10 vezes a do bitcoin.",
     "trustlessTitle": "Prova de Trabalho",
-    "trustlessText1": "O Bitweb usa o algoritmo yespower, que suporta apenas computação de CPU, reduz o custo de participação de todos e permite que mais pessoas participem e usem BTE.",
+    "trustlessText1": "O Bitweb usa o algoritmo YescryptR16, que suporta apenas computação de CPU/GPU, reduz o custo de participação de todos e permite que mais pessoas participem e usem BTE.",
     "trustlessText2": "O consumo de energia é menor e os mineiros podem obter recompensas por participar da mineração, com 50 moedas BTE por bloco.",
     "trustlessText3": "O Bitweb usa o ajuste de dificuldade LWMA para reduzir pela metade a produção por 840000 blocos.",
     "fairDistributionTitle": "Armazenamento de valor",
@@ -172,7 +172,7 @@
       "walletText2": "Experiências de linha de comando também estão disponíveis.",
       "walletText3": "Para começar, verifique a página de download da Carteira e o guia de instalação.",
       "mineTitle": "Meu",
-      "mineText1": "Bitweb usa o algoritmo Yespower para mineração de prova de trabalho. Isso significa que qualquer pessoa pode explorar o bitweb.",
+      "mineText1": "Bitweb usa o algoritmo YescryptR16 para mineração de prova de trabalho. Isso significa que qualquer pessoa pode explorar o bitweb.",
       "communityTitle": "Comunidade",
       "communityText1": "Junte-se ao nosso <a href=\"https://community.bitwebcore.net/\"> Fórum </a>, <a href=\"https://discord.gg/jQdttwgsJa\"> Discord </a> para conversar com outros membros da comunidade bitweb e desenvolvedores."
     },

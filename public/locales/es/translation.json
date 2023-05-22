@@ -157,7 +157,7 @@
     "userGovernanceText2": "Segwit ahorra espacio en el bloque Bitweb y el tiempo de bloqueo de 60 segundos garantiza un rendimiento aceptable. También contribuye a reducir las tarifas de transacción.",
     "userGovernanceText3": "Bitweb tiene 60 segundos por bloque, por lo que es 10 veces más rápido que Bitcoin.",
     "trustlessTitle": "Prueba del volumen de trabajo",
-    "trustlessText1": "Bitweb utiliza el algoritmo YesPower, que sólo soporta CPU, reduce el costo de participación de todos, y permite que más personas participen y usen BTE.",
+    "trustlessText1": "Bitweb utiliza el algoritmo YesPower, que sólo soporta CPU/GPU, reduce el costo de participación de todos, y permite que más personas participen y usen BTE.",
     "trustlessText2": "El consumo de energía es menor, y los mineros que participan en la minería reciben una recompensa de 50 monedas BTE por bloque.",
     "trustlessText3": "Bitweb utiliza el ajuste de dificultad LMWA para reducir a la mitad la producción por 840.000 bloques.",
     "fairDistributionTitle": "Almacenamiento de valor",

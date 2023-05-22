@@ -157,7 +157,7 @@
     "userGovernanceText2": "Segwit saves space in the Bitweb block, and the 60 second block time ensures acceptable performance. It also contributes to lower transaction fees.",
     "userGovernanceText3": "Bitweb's every block time is 60 seconds, so its transaction speed is very fast, 10 times that of bitcoin.",
     "trustlessTitle": "Proof Of Work",
-    "trustlessText1": "Bitweb uses yespower algorithm, which only supports CPU computing, reduces everyone's participation cost, and allows more people to participate and use BTE.",
+    "trustlessText1": "Bitweb uses YescryptR16 algorithm, which only supports CPU/GPU computing, reduces everyone's participation cost, and allows more people to participate and use BTE.",
     "trustlessText2": "Energy consumption is lower, and miners can get rewards for participating in mining, with 50 BTE coins per block.",
     "trustlessText3": "Bitweb uses LWMA difficulty adjustment to halve the production per 840000 blocks.",
     "fairDistributionTitle": "Value Storage",
@@ -172,7 +172,7 @@
       "walletText2": "Command-line experiences are also available.",
       "walletText3": "To get started, check out the Wallet download page and the Installation guide's.",
       "mineTitle": "Mine",
-      "mineText1": "Bitweb uses the Yespower algorithm for proof-of-work mining. This means that anyone can exploit bitweb.",
+      "mineText1": "Bitweb uses the YescryptR16 algorithm for proof-of-work mining. This means that anyone can exploit bitweb.",
       "communityTitle": "Community",
       "communityText1": "Join our <a href=\"https://community.bitwebcore.net/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> to chat with other bitweb community members and developers."
     },

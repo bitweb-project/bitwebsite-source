@@ -157,7 +157,7 @@
     "userGovernanceText2": "Segwit bespaart ruimte in het Bitweb-blok en de bloktijd van 60 seconden zorgt voor acceptabele prestaties. Het draagt ​​ook bij aan lagere transactiekosten.",
     "userGovernanceText3": "Jede Blockzeit von Bitweb beträgt 60 Sekunden, daher ist die Transaktionsgeschwindigkeit sehr schnell, 10 Mal so hoch wie bei Bitcoin.",
     "trustlessTitle": "Arbeitsnachweis",
-    "trustlessText1": "Bitweb verwendet den Yespower-Algorithmus, der nur CPU-Computing unterstützt, die Teilnahmekosten aller reduziert und mehr Menschen die Teilnahme und Nutzung von BTE ermöglicht.",
+    "trustlessText1": "Bitweb verwendet den YescryptR16-Algorithmus, der nur CPU/GPU-Computing unterstützt, die Teilnahmekosten aller reduziert und mehr Menschen die Teilnahme und Nutzung von BTE ermöglicht.",
     "trustlessText2": "Der Energieverbrauch ist geringer und Bergleute können Belohnungen für die Teilnahme am Bergbau mit 50 BTE-Münzen pro Block erhalten.",
     "trustlessText3": "Bitweb verwendet die LWMA-Schwierigkeitsanpassung, um die Produktion pro 840000 Blöcke zu halbieren.",
     "fairDistributionTitle": "Wertspeicherung",
@@ -172,7 +172,7 @@
       "walletText2": "Befehlszeilenerfahrungen sind ebenfalls verfügbar.",
       "walletText3": "Sehen Sie sich die Wallet-Download-Seite und die Installationsanleitung an, um loszulegen..",
       "mineTitle": "Bergwerk",
-      "mineText1": "Bitweb verwendet den Yespower-Algorithmus für das Proof-of-Work-Mining. Das bedeutet, dass jeder Bitweb ausnutzen kann.",
+      "mineText1": "Bitweb verwendet den YescryptR16-Algorithmus für das Proof-of-Work-Mining. Das bedeutet, dass jeder Bitweb ausnutzen kann.",
       "communityTitle": "Gemeinschaft",
       "communityText1": "Treten Sie unserem <a href=\"https://community.bitwebcore.net/\">Forum</a> bei, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> um mit anderen Mitgliedern der bitweb-Community und Entwicklern zu chatten."
     },

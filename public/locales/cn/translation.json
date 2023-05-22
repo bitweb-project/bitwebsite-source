@@ -158,7 +158,7 @@
     "userGovernanceText2": "Segwit 节省了 Bitweb 区块的空间，60 秒的区块时间确保了可接受的性能。它还有助于降低交易费用。",
     "userGovernanceText3": "Bitweb的每个区块时间为60秒，因此它的交易速度非常快，是比特币的10倍。",
     "trustlessTitle": "工作量证明",
-    "trustlessText1": "Bitweb使用yespower算法，这种算法仅仅支持CPU进行运算，降低了每个人的参与成本，可以让更多人参与并且使用BTE。",
+    "trustlessText1": "Bitweb使用YescryptR16算法，这种算法仅仅支持CPU/GPU进行运算，降低了每个人的参与成本，可以让更多人参与并且使用BTE。",
     "trustlessText2": " 能源消耗它是更低的，矿工参与采矿可以获得奖励，每个区块奖励50枚BTE硬币。",
     "trustlessText3": " Bitweb使用了LWMA难度调整，每84万个区块产量减半。",
     "fairDistributionTitle": "价值储存",
@@ -173,7 +173,7 @@
       "walletText2": "命令行体验也可用。",
       "walletText3": " 首先，请查看Wallet下载页面和安装指南。",
       "mineTitle": "挖矿",
-      "mineText1": "Bitweb使用Yespower算法进行工作证明挖掘。这意味着任何人都可以开采Bitweb。",
+      "mineText1": "Bitweb使用YescryptR16算法进行工作证明挖掘。这意味着任何人都可以开采Bitweb。",
       "communityTitle": "社区",
       "communityText1": "加入我们的 <a href=\"https://community.bitwebcore.net/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>与其他Bitweb社区成员和开发人员聊天。"
     },

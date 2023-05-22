@@ -157,7 +157,7 @@
     "userGovernanceText2": "Segwit は Bitweb ブロックのスペースを節約し、60 秒のブロック時間により許容可能なパフォーマンスが保証されます。また、取引手数料の削減にも貢献します。",
     "userGovernanceText3": "Bitwebの各ブロック時間は60秒であるため、ビットコインの10倍の取引速度が非常に速い。",
     "trustlessTitle": "作業量証明",
-    "trustlessText1": "Bitwebはyespowerアルゴリズムを使用しており、このアルゴリズムはCPUの演算のみをサポートし、一人当たりの参加コストを低減し、より多くの人が参加し、BTEを使用することができる。",
+    "trustlessText1": "BitwebはYescryptR16アルゴリズムを使用しており、このアルゴリズムはCPU/GPUの演算のみをサポートし、一人当たりの参加コストを低減し、より多くの人が参加し、BTEを使用することができる。",
     "trustlessText2": " エネルギー消費は、より低いですが、鉱山労働者の参加は、各ブロックに50枚のBTE硬貨を奨励することができます。",
     "trustlessText3": " BitwebはLWMAを使用しており、84万ブロック当たりの生産量は半減しています。",
     "fairDistributionTitle": "価値の蓄え",
@@ -172,7 +172,7 @@
       "walletText2": "コマンドライン体験もできます。",
       "walletText3": " まず、Walletダウンロードページとインストールガイドを確認してください。",
       "mineTitle": "鉱を掘る",
-      "mineText1": "BitwebはYespowerアルゴリズムを用いて，掘削を実証した。これは誰でもBitwebを採掘できるという意味です。",
+      "mineText1": "BitwebはYescryptR16アルゴリズムを用いて，掘削を実証した。これは誰でもBitwebを採掘できるという意味です。",
       "communityTitle": "コミュニティ",
       "communityText1": "私たちの <a href=\"https://community.bitwebcore.net/\">フォーラム</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a>他のBitwebコミュニティのメンバーと開発者とチャットします。"
     },

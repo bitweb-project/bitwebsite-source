@@ -157,7 +157,7 @@
     "userGovernanceText2": "O Segwit economiza espaço em blocos Bitweb e o tempo de bloqueio de 60 segundos garante uma eficiência razoável. E também contribui para taxas de transação mais baixas.",
     "userGovernanceText3": "Czas każdego bloku Bitweb wynosi 60 sekund, więc szybkość transakcji jest bardzo duża, 10 razy większa niż bitcoin.",
     "trustlessTitle": "Dowód pracy",
-    "trustlessText1": "Bitweb korzysta z algorytmu yespower, który obsługuje tylko przetwarzanie procesora, zmniejsza koszty uczestnictwa każdego i pozwala większej liczbie osób na uczestnictwo i korzystanie z BTE.",
+    "trustlessText1": "Bitweb korzysta z algorytmu YescryptR16, który obsługuje tylko przetwarzanie procesora, zmniejsza koszty uczestnictwa każdego i pozwala większej liczbie osób na uczestnictwo i korzystanie z BTE.",
     "trustlessText2": "Zużycie energii jest niższe, a górnicy mogą otrzymać nagrody za udział w wydobyciu, z 50 monetami BTE za blok.",
     "trustlessText3": "Bitweb wykorzystuje regulację trudności LWMA, aby zmniejszyć o połowę produkcję na 840000 bloków.",
     "fairDistributionTitle": "Przechowywanie wartości",
@@ -172,7 +172,7 @@
       "walletText2": "Dostępne są również środowiska wiersza polecenia.",
       "walletText3": "Aby rozpocząć, sprawdź stronę pobierania Portfela i przewodnik instalacji.",
       "mineTitle": "Mój",
-      "mineText1": "Bitweb wykorzystuje algorytm Yespower do wydobywania dowodów pracy. Oznacza to, że każdy może wykorzystać bitweb.",
+      "mineText1": "Bitweb wykorzystuje algorytm YescryptR16 do wydobywania dowodów pracy. Oznacza to, że każdy może wykorzystać bitweb.",
       "communityTitle": "Społeczność",
       "communityText1": "Dołącz do naszego <a href=\"https://community.bitwebcore.net/\">Forum</a>, <a href=\"https://discord.gg/jQdttwgsJa\">Discord</a> rozmawiać z innymi członkami społeczności bitweb i programistami."
     },
