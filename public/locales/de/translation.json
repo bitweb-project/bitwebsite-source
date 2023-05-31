@@ -141,8 +141,9 @@
     "type1": "Hardware-Geldbörse",
     "type2": "Api Server",
     "type3": "Web-Wallet",
-    "type4": "Handy-Geldbörse",
-    "type5": "Api2 Server"
+    "type4": "Wallet-Erweiterung – Google Chrome",
+    "type5": "Handy-Geldbörse",
+    "type6": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

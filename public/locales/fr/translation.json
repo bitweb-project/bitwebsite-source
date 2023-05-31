@@ -141,8 +141,9 @@
     "type1": "Hardware Wallet",
     "type2": "Serveur API",
     "type3": "Portefeuille Web",
-    "type4": "Portefeuille mobile",
-    "type5": "Api2 Server"
+    "type4": "Extension de portefeuille - Google Chrome",
+    "type5": "Portefeuille mobile",
+    "type6": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

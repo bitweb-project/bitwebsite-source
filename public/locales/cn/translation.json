@@ -141,8 +141,9 @@
     "type1": "硬件钱包",
     "type2": "Api Server",
     "type3": "网络钱包",
-    "type4": "Mobile Wallet",
-    "type5": "Api2 Server"
+    "type4": "钱包扩展 - 谷歌浏览器",
+    "type5": "Mobile Wallet",
+    "type6": "Api2 Server"
 	
   },
   "indexPage": {

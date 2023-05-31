@@ -141,8 +141,9 @@
     "type1": "ハードウェアウォレット",
     "type2": "Api Server",
     "type3": "ネットワーク･ウォレット",
-    "type4": "携帯",
-    "type5": "Api2 Server"
+    "type4": "ウォレット拡張機能 - Google Chrome",
+    "type5": "携帯",
+    "type6": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

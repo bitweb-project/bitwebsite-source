@@ -141,8 +141,9 @@
     "type1": "Cartera de hardware3",
     "type2": "Api Server",
     "type3": "Billetera Web",
-    "type4": "Movil",
-    "type5": "Api2 Server"
+    "type4": "Extensión de billetera - Google Chrome",
+    "type5": "Movil",
+    "type6": "Api2 Server"
   },
   "indexPage": {
     "title1": "Bitweb",

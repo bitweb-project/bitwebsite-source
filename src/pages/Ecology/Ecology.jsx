@@ -62,7 +62,7 @@ function Ecology() {
               className="blocks-list__block"
             >
               <h4 className="blocks-list__block__title">
-                {t("walletPage.type5")}
+                {t("walletPage.type6")}
               </h4>
               <img
                 className="blocks-list__block__img"

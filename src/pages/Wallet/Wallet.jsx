@@ -277,6 +277,32 @@ function Wallet() {
               />
             </a>
             <a
+              href="https://chrome.google.com/webstore/detail/bitweb-wallet-extension/fjpgmcenimaknnhagnddgnlkdlcjfndk"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                {t("walletPage.type4")}
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/wallets/gextensionwallet.png"
+                alt=""
+              />
+            </a>
+            <a
+              href="https://t.me/tipbte_bot"
+              className="blocks-list__block"
+            >
+              <h4 className="blocks-list__block__title">
+                Telegram Bot Wallet
+              </h4>
+              <img
+                className="blocks-list__block__img"
+                src="/img/wallets/tgbotwallet.png"
+                alt=""
+              />
+            </a>
+            <a
               href="https://discord.gg/9hVt7XHmA6"
               className="blocks-list__block"
             >
