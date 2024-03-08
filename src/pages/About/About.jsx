@@ -41,101 +41,10 @@ function About() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://explorer.bitwebcore.net/address/web1q8zwkqaz7yzv33aw4rlq6r5te22y2gk9p0q0xwr"
+                  href="https://explorer.bitwebcore.net/address/web1qqtke2c89l9cdku5jy09qzl99xcq4rjvdt828ws"
                 >
                   {" "}
-                  web1q8zwkqaz7yzv33aw4rlq6r5te22y2gk9p0q0xwr
-                </a>
-                <br />
-                  <strong>SCA</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://explorer.scalaris.info/address/SjoT92w9e4vQ46T74cH7L1Q1hDL8mmpMe5"
-                >
-                  {" "}
-                  SjoT92w9e4vQ46T74cH7L1Q1hDL8mmpMe5
-                </a>
-                <br />
-                  <strong>BTC</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.blockchain.com/ru/btc/address/bc1qpgtmsmhaxmh0yrms2fdjwgg6jg24xud5j5rnk3"
-                >
-                  {" "}
-                  bc1qpgtmsmhaxmh0yrms2fdjwgg6jg24xud5j5rnk3
-                </a>
-                <br />
-                  <strong>LTC</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://blockchair.com/ru/litecoin/address/ltc1qsegelz5pnrwvl50nvfh0eef33sef2cm0vvmtjl"
-                >
-                  {" "}
-                  ltc1qsegelz5pnrwvl50nvfh0eef33sef2cm0vvmtjl
-                </a>
-                <br />
-                  <strong>DOGE</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://blockchair.com/dogecoin/address/D7kEYNpp2P3DTpXyabHJt5XC1GzXRxbRoY"
-                >
-                  {" "}
-                  D7kEYNpp2P3DTpXyabHJt5XC1GzXRxbRoY
-                </a>
-                <br />
-                  <strong>ETH</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
-                >
-                  {" "}
-                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
-                </a>
-                <br />
-                  <strong>ETH USDT</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
-                >
-                  {" "}
-                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
-                </a>
-                <br />
-                  <strong>USDT ERC20</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://etherscan.io/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
-                >
-                  {" "}
-                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
-                </a>
-                <br />
-                  <strong>BNB</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://bscscan.com/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
-                >
-                  {" "}
-                  0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
-                </a>
-                <br />
-
-                  <strong>Polygon MATIC</strong> {t("foundationPage.Address")}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://polygonscan.com/address/0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7"
-                >
-                  {" "}
-                0x93DFB4577D9250DfA1e0eF8b18b2f89fFEDC2dc7
+                  web1qqtke2c89l9cdku5jy09qzl99xcq4rjvdt828ws
                 </a>
                 <br />
                   <strong>TRX</strong> {t("foundationPage.Address")}

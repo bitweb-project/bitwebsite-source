@@ -38,20 +38,20 @@ function Communityfoundation() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://tronscan.org/#/address/TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv"
+                  href="https://tronscan.org/#/address/TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa"
                 >
                   {" "}
-                  TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv
+                  TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa
                 </a>
                 <br />
                   <strong>TRC20 USDT</strong> {t("foundationPage.Address2")}
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://tronscan.org/#/address/TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv"
+                  href="https://tronscan.org/#/address/TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa"
                 >
                   {" "}
-                  TT56cFXUj9fK8bLGXm1G6hauyf4RUwhZCv
+                  TN5hANMVXaJtdbtG9bwm9YUd9rWeaUPoaa
 				</a>
               </p> 
             </div>
