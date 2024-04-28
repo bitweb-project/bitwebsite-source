@@ -279,17 +279,6 @@ function Resources() {
           </h2>
           <p className="description">Please take care to protect your cryptocurrency</p>
           <div className="blocks-list">
-            <a href="https://qm.qq.com/cgi-bin/qm/qr?k=N2DVtnntfTVMvcgkQhfdxU-zOeuo10Ck&authKey=8BBGY1qZ5giQ9j9cGYkcdr38JdnSEN/WR8OYiBYf1XX1k8ZdWp7kkFW9ZIiPGqAQ&noverify=0&personal_qrcode_source=0" className="blocks-list__block">
-              <h4 className="blocks-list__block__title">QQ group</h4>
-              <img
-                className="blocks-list__block__img"
-                src="/img/group/China-qq.png"
-                alt=""
-              />
-              <div className="blocks-list__block__type">
-                109815339
-              </div>
-            </a>
             <a href="https://t.me/bitwebcoin" className="blocks-list__block">
               <h4 className="blocks-list__block__title">Telegram_Chinese</h4>
               <img
